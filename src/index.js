@@ -1,6 +1,6 @@
 /**
  * Twitter Tech Bot - Үндсэн файл
- * Дэлхийн технологийн мэдээг автоматаар монгол хэлээр пост хийдэг бот
+ * Шинэчлэгдсэн: 2026-02-21 16:38
  */
 
 import dotenv from 'dotenv';
@@ -157,6 +157,13 @@ export async function testMode() {
 // Хэрэв шууд ажиллуулбал
 if (import.meta.url === `file://${process.argv[1]}`) {
   const mode = process.argv[2];
+  if (mode === 'test') {
+    testMode();
+  } else {
+    runBot();
+  }
+}
+ss.argv[2];
   
   if (mode === 'test') {
     testMode();
