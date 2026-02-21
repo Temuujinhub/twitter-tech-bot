@@ -7,84 +7,77 @@ import sharp from 'sharp';
 import fs from 'fs/promises';
 import path from 'path';
 
-/**
- * URL-аас зураг татаж авах
- */
+const FALLBACK_IMAGES = [
+  'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200&h=675', // Robotics
+  'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1200&h=675', // Tech/Circuit
+  'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1200&h=675', // Security
+  'https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1200&h=675'  // AI
+];
+
 export async function downloadImage(url, filename) {
   try {
-    console.log(`🖼️  Зураг татаж байна: ${url}`);
-    
     const response = await axios.get(url, {
       responseType: 'arraybuffer',
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-      },
+      headers: { 'User-Agent': 'Mozilla/5.0' },
       timeout: 10000
     });
-    
     const imagePath = path.join(process.cwd(), 'data', 'images', filename);
     await fs.mkdir(path.dirname(imagePath), { recursive: true });
     await fs.writeFile(imagePath, response.data);
-    
-    console.log(`✅ Зураг хадгалагдлаа: ${filename}`);
     return imagePath;
   } catch (error) {
-    console.error(`❌ Зураг татахад алдаа: ${error.message}`);
     return null;
   }
 }
 
-/**
- * Зургийг Twitter-т тохирох хэмжээнд оруулах
- */
 export async function processImage(imagePath) {
   try {
-    const outputPath = imagePath.replace(/\.(jpg|jpeg|png|gif)$/i, '_processed.jpg');
-    
+    const outputPath = imagePath.replace(/\.(jpg|jpeg|png|gif|webp)$/i, '_processed.jpg');
     await sharp(imagePath)
-      .resize(1200, 675, {
-        fit: 'cover',
-        position: 'center'
-      })
+      .resize(1200, 675, { fit: 'cover', position: 'center' })
       .jpeg({ quality: 85 })
       .toFile(outputPath);
-    
-    console.log(`✅ Зураг боловсруулагдлаа: ${path.basename(outputPath)}`);
     return outputPath;
   } catch (error) {
-    console.error(`❌ Зураг боловсруулахад алдаа: ${error.message}`);
     return imagePath;
   }
 }
 
-/**
- * Зургийн URL шалгах
- */
-export function isValidImageUrl(url) {
-  if (!url) return false;
+export async function getArticleImage(article) {
+  let imageUrl = article.image;
   
-  // Жижиг thumbnail биш эсэхийг шалгах
-  if (url.includes('thumbnail') && url.includes('self')) return false;
-  if (url.includes('default') && url.includes('avatar')) return false;
+  if (!imageUrl) {
+    console.log('⚠️ Зураг олдсонгүй, fallback зураг ашиглаж байна...');
+    imageUrl = FALLBACK_IMAGES[Math.floor(Math.random() * FALLBACK_IMAGES.length)];
+  }
   
-  // Valid image extensions
-  const imageExtensions = ['.jpg', '.jpeg', '.png', '.gif', '.webp'];
-  const hasImageExt = imageExtensions.some(ext => url.toLowerCase().includes(ext));
+  const filename = `${Date.now()}.jpg`;
+  const downloadedPath = await downloadImage(imageUrl, filename);
   
-  // Valid domains
-  const validDomains = ['imgur', 'cloudinary', 'media', 'cdn', 'image'];
-  const hasValidDomain = validDomains.some(domain => url.toLowerCase().includes(domain));
+  if (!downloadedPath) {
+    const secondTry = FALLBACK_IMAGES[0];
+    const secondPath = await downloadImage(secondTry, `fallback_${filename}`);
+    return secondPath ? await processImage(secondPath) : null;
+  }
   
-  return hasImageExt || hasValidDomain;
+  return await processImage(downloadedPath);
 }
 
-/**
- * Article-аас зураг олж татах
- */
-export async function getArticleImage(article) {
-  // Article-д зураг байгаа эсэхийг шалгах
-  if (!article.image || !isValidImageUrl(article.image)) {
-    console.log('⚠️  Зураг олдсонгүй, текст пост хийнэ');
+export async function cleanupOldImages(daysOld = 7) {
+  try {
+    const imagesDir = path.join(process.cwd(), 'data', 'images');
+    const files = await fs.readdir(imagesDir);
+    const now = Date.now();
+    for (const file of files) {
+      const filePath = path.join(imagesDir, file);
+      const stats = await fs.stat(filePath);
+      if (now - stats.mtimeMs > daysOld * 24 * 60 * 60 * 1000) {
+        await fs.unlink(filePath);
+      }
+    }
+  } catch (e) {}
+}
+.log('⚠️  Зураг олдсонгүй, текст пост хийнэ');
     return null;
   }
   

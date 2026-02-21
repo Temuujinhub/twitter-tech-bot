@@ -1,60 +1,66 @@
 /**
- * AI Content Generator Module
+ * AI Content Generator Module - Updated for Richer Content
  */
 
 export async function generateTweetContent(article) {
-  return generateWithTemplate(article);
+  return generateRichSummary(article);
 }
 
-function generateWithTemplate(article) {
-  const templates = [
-    { format: (a) => `🚀 ${shortenTitle(a.title)}\n\n${getSummary(a)}\n\n${getScientistMention(a)}\n\n🔗 Link: ${a.link}\n\n${getHashtags(a)}` },
-    { format: (a) => `💡 New Tech: ${shortenTitle(a.title)}\n\n${getScientistMention(a)} ${getInsight(a)}\n\n📖 Read: ${a.link}\n\n${getHashtags(a)}` }
-  ];
+function generateRichSummary(article) {
+  const title = article.title || '';
+  const description = article.description || '';
+  const text = `${title}. ${description}`;
   
-  const template = templates[Math.floor(Math.random() * templates.length)];
-  let tweet = template.format(article);
-  
-  if (tweet.length > 280) {
-    tweet = tweet.substring(0, 277) + '...';
+  let summary = `🔹 ${title}\n\n${getTranslatedInsight(text)}\n\n${getScientistMention(article)}${getHashtags(article)}`;
+
+  if (summary.length < 160) {
+    summary = `🚀 ТЕХНОЛОГИЙН ШИНЭ МЭДЭЭ:\n\n${summary}`;
   }
-  return tweet;
+
+  if (summary.length > 280) {
+    summary = summary.substring(0, 277) + '...';
+  }
+  
+  return summary;
 }
 
-function shortenTitle(title) {
-  return title.length <= 80 ? title : title.substring(0, 77) + '...';
-}
-
-function getSummary(article) {
-  const desc = article.description || '';
-  if (desc.toLowerCase().includes('ai')) return 'Хиймэл оюун ухааны салбарын сонирхолтой мэдээ.';
-  return 'Технологийн салбарт гарсан шинэ өөрчлөлт.';
-}
-
-function getInsight(article) {
-  return 'Энэ бол маш чухал мэдээ юм.';
+function getTranslatedInsight(text) {
+  const lowerText = text.toLowerCase();
+  
+  if (lowerText.includes('ai') || lowerText.includes('intelligence')) {
+    return "Хиймэл оюун ухааны салбарт томоохон тэсрэлт болж, системийн ажиллагааг шинэ түвшинд гаргах технологийн шийдэл танилцууллаа. Энэ нь ирээдүйд хэрэглэгчдийн өдөр тутмын амьдралыг хөнгөвчлөхөд чухал үүрэг гүйцэтгэнэ.";
+  }
+  if (lowerText.includes('spacex') || lowerText.includes('nasa') || lowerText.includes('space')) {
+    return "Сансар судлалын салбарт шинэ амжилт гарч, хүн төрөлхтний ирээдүйн аялалд зориулсан дэвшилтэт туршилтыг амжилттай гүйцэтгэв. Технологийн хөгжил биднийг од эрхэст улам ойртуулсаар байна.";
+  }
+  if (lowerText.includes('apple') || lowerText.includes('iphone') || lowerText.includes('chip')) {
+    return "Технологийн томоохон компаниуд техник хангамжийн шинэчлэл хийж, гүйцэтгэлийг эрс нэмэгдүүлсэн микро чип болон төхөөрөмжүүдээ зарлалаа. Энэ нь зах зээлд өрсөлдөөнийг улам ширүүн болгож байна.";
+  }
+  
+  return "Дэлхийн технологийн зах зээлд гарсан энэхүү шинэчлэл нь салбарын мэргэжилтнүүдийн анхаарлыг татаж байна. Инновацийн хурдац улам бүр нэмэгдэж байгаа нь ирээдүйн хөгжлийн чиг хандлагыг тодорхойлж байна.";
 }
 
 function getScientistMention(article) {
   const text = `${article.title} ${article.description}`.toLowerCase();
   const scientists = [
     { keywords: ['openai', 'chatgpt', 'altman'], name: 'Сэм Алтман' },
-    { keywords: ['tesla', 'spacex', 'musk'], name: 'Илон Маск' },
-    { keywords: ['nvidia', 'jensen'], name: 'Женсен Хуанг' }
+    { keywords: ['tesla', 'spacex', 'musk', 'xai'], name: 'Илон Маск' },
+    { keywords: ['nvidia', 'gpu', 'jensen'], name: 'Женсен Хуанг' },
+    { keywords: ['meta', 'zuckerberg'], name: 'Марк Цукерберг' }
   ];
   for (const s of scientists) {
     if (s.keywords.some(k => text.includes(k))) {
-      return `\n👨‍💻 ${s.name}-ийн оролцоотой энэхүү төсөл анхаарал татаж байна.`;
+      return `👨‍💻 ${s.name}-ийн зүгээс энэхүү инновацийг онцлон тэмдэглэж байна.\n`;
     }
   }
   return '';
 }
 
 function getHashtags(article) {
-  const hashtags = [];
-  const text = `${article.title} ${article.description}`.toLowerCase();
+  const hashtags = ['#Технологи', '#Инноваци'];
+  const text = (article.title + (article.description || '')).toLowerCase();
   if (text.includes('ai')) hashtags.push('#AI', '#ХиймэлОюун');
-  if (text.includes('startup')) hashtags.push('#Startup', '#Стартап');
-  if (hashtags.length === 0) hashtags.push('#Tech', '#Innovation');
-  return hashtags.slice(0, 3).join(' ');
+  if (text.includes('robot')) hashtags.push('#Робот');
+  if (text.includes('crypto')) hashtags.push('#Крипто');
+  return hashtags.slice(0, 4).join(' ');
 }
