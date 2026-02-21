@@ -21,15 +21,16 @@ export async function collectFromRSS(sources) {
       console.log(`📰 ${source.name}-аас мэдээ татаж байна...`);
       const feed = await rssParser.parseURL(source.url);
       
-      for (const item of feed.items.slice(0, 5)) {
+      for (const item of feed.items.slice(0, 10)) {
         articles.push({
           title: item.title,
           link: item.link,
           description: item.contentSnippet || item.content || '',
           source: source.name,
-          topics: source.topics,
+          topics: source.topics || ['Tech'],
           pubDate: item.pubDate,
-          image: extractImageFromContent(item.content) || item.enclosure?.url
+          image: extractImageFromContent(item.content) || item.enclosure?.url,
+          score: 0
         });
       }
       
@@ -59,7 +60,7 @@ export async function collectFromReddit() {
       description: post.data.selftext || '',
       source: 'Reddit r/technology',
       topics: ['Tech News'],
-      score: post.data.score,
+      score: post.data.score || 0,
       comments: post.data.num_comments,
       image: post.data.thumbnail !== 'self' ? post.data.thumbnail : null
     }));
@@ -78,24 +79,26 @@ export async function collectFromReddit() {
 export async function collectFromHackerNews() {
   try {
     const topStoriesRes = await axios.get('https://hacker-news.firebaseio.com/v0/topstories.json');
-    const storyIds = topStoriesRes.data.slice(0, 10);
+    const storyIds = topStoriesRes.data.slice(0, 15);
     
     const articles = [];
     for (const id of storyIds) {
-      const storyRes = await axios.get(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
-      const story = storyRes.data;
-      
-      if (story.type === 'story' && story.url) {
-        articles.push({
-          title: story.title,
-          link: story.url,
-          description: story.text || '',
-          source: 'Hacker News',
-          topics: ['Tech News'],
-          score: story.score,
-          comments: story.descendants || 0
-        });
-      }
+      try {
+        const storyRes = await axios.get(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
+        const story = storyRes.data;
+        
+        if (story.type === 'story' && story.url) {
+          articles.push({
+            title: story.title,
+            link: story.url,
+            description: story.text || '',
+            source: 'Hacker News',
+            topics: ['Tech News'],
+            score: story.score || 0,
+            comments: story.descendants || 0
+          });
+        }
+      } catch (e) { continue; }
     }
     
     console.log(`✅ Hacker News: ${articles.length} мэдээ олдлоо`);
@@ -111,7 +114,6 @@ export async function collectFromHackerNews() {
  */
 function extractImageFromContent(html) {
   if (!html) return null;
-  
   const $ = cheerio.load(html);
   const img = $('img').first();
   return img.attr('src') || null;
@@ -121,6 +123,8 @@ function extractImageFromContent(html) {
  * Keyword-ээр мэдээ шүүх
  */
 export function filterByKeywords(articles, keywords) {
+  if (!keywords || keywords.length === 0) return articles;
+  
   return articles.filter(article => {
     const text = `${article.title} ${article.description}`.toLowerCase();
     return keywords.some(keyword => text.includes(keyword.toLowerCase()));
@@ -158,14 +162,10 @@ export async function collectAllNews(config) {
     filtered = allArticles;
   }
   
-  // Sort by date/score
-  filtered.sort((a, b) => {
-    const scoreA = a.score || 0;
-    const scoreB = b.score || 0;
-    return scoreB - scoreA;
-  });
+  // Sort by score
+  filtered.sort((a, b) => (b.score || 0) - (a.score || 0));
   
-  console.log(`\n📊 Нийт: ${allArticles.length} мэдээ`);
+  console.log(`\n📊 Нийт цуглуулсан: ${allArticles.length} мэдээ`);
   console.log(`🎯 Шүүгдсэн: ${filtered.length} мэдээ`);
   
   return filtered;
