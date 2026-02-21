@@ -40,21 +40,96 @@ export async function generateTweetContent(article) {
 function generateWithTemplate(article) {
   const templates = [
     {
-      format: (a) => `🚀 ${shortenTitle(a.title)}\n\n${getSummary(a)}\n\n🔗 Дэлгэрэнгүй: ${a.link}\n\n${getHashtags(a)}`,
+      format: (a) => `🚀 ${shortenTitle(a.title)}\n\n${getSummary(a)}\n\n${getScientistMention(a)}\n\n🔗 Дэлгэрэнгүй: ${a.link}\n\n${getHashtags(a)}`,
       weight: 3
     },
     {
-      format: (a) => `💡 Шинэ технологи: ${shortenTitle(a.title)}\n\n${getInsight(a)}\n\n📖 Унших: ${a.link}\n\n${getHashtags(a)}`,
+      format: (a) => `💡 Шинэ технологи: ${shortenTitle(a.title)}\n\n${getScientistMention(a)} ${getInsight(a)}\n\n📖 Унших: ${a.link}\n\n${getHashtags(a)}`,
       weight: 2
     },
     {
-      format: (a) => `⚡ ${shortenTitle(a.title)}\n\n${getQuestion(a)}\n\n${getSummary(a)}\n\n${a.link}\n\n${getHashtags(a)}`,
+      format: (a) => `⚡ ${shortenTitle(a.title)}\n\n${getQuestion(a)}\n\n${getSummary(a)}\n\n${getScientistMention(a)}\n\n${a.link}\n\n${getHashtags(a)}`,
       weight: 2
     },
     {
-      format: (a) => `🔥 Технологийн мэдээ:\n\n${shortenTitle(a.title)}\n\n${getKeyPoint(a)}\n\n#Tech #Innovation\n\n${a.link}`,
+      format: (a) => `🔥 Технологийн мэдээ:\n\n${shortenTitle(a.title)}\n\n${getScientistMention(a)} ${getKeyPoint(a)}\n\n${getHashtags(a)}\n\n${a.link}`,
       weight: 1
     }
+  ];
+  
+  // Weighted random selection
+  const template = weightedRandom(templates);
+  let tweet = template.format(article);
+  
+  // 280 тэмдэгтээс илүү бол товчлох
+  if (tweet.length > 280) {
+    tweet = tweet.substring(0, 277) + '...';
+  }
+  
+  return tweet;
+}
+
+/**
+ * Мэдээний агуулгаас хамааран эрдэмтэн/инженерүүдийг дурдах
+ */
+function getScientistMention(article) {
+  const text = `${article.title} ${article.description}`.toLowerCase();
+  
+  const scientists = [
+    { keywords: ['openai', 'chatgpt', 'altman'], name: 'Сэм Алтман' },
+    { keywords: ['tesla', 'spacex', 'xai', 'musk'], name: 'Илон Маск' },
+    { keywords: ['nvidia', 'gpu', 'jensen'], name: 'Женсен Хуанг' },
+    { keywords: ['meta', 'facebook', 'zuckerberg'], name: 'Марк Цукерберг' },
+    { keywords: ['microsoft', 'gates', 'nadella'], name: 'Сатя Наделла' },
+    { keywords: ['google', 'pichai', 'deepmind'], name: 'Сундар Пичай' },
+    { keywords: ['apple', 'iphone', 'cook'], name: 'Тим Кук' },
+    { keywords: ['amazon', 'bezos'], name: 'Жефф Безос' }
+  ];
+
+  for (const s of scientists) {
+    if (s.keywords.some(k => text.includes(k))) {
+      return `\n👨‍💻 ${s.name}-ийн оролцоотой энэхүү төсөл анхаарал татаж байна.`;
+    }
+  }
+
+  return '';
+}
+
+/**
+ * Hashtags үүсгэх
+ */
+function getHashtags(article) {
+  const hashtags = [];
+  const text = `${article.title} ${article.description}`.toLowerCase();
+  
+  if (text.includes('ai') || text.includes('artificial intelligence') || text.includes('chatgpt')) {
+    hashtags.push('#AI', '#ArtificialIntelligence', '#ХиймэлОюун');
+  }
+  if (text.includes('startup') || text.includes('funding') || text.includes('venture')) {
+    hashtags.push('#Startup', '#Innovation', '#Стартап');
+  }
+  if (text.includes('solar') || text.includes('renewable') || text.includes('energy') || text.includes('climate')) {
+    hashtags.push('#CleanEnergy', '#GreenTech', '#ЭрчимХүч');
+  }
+  if (text.includes('robot') || text.includes('automation') || text.includes('tesla bot')) {
+    hashtags.push('#Robotics', '#Automation', '#Робот');
+  }
+  if (text.includes('crypto') || text.includes('bitcoin') || text.includes('blockchain')) {
+    hashtags.push('#Crypto', '#Blockchain', '#Блокчэйн');
+  }
+  if (text.includes('nvidia') || text.includes('gpu') || text.includes('chip')) {
+    hashtags.push('#Nvidia', '#GPU', '#Semiconductor');
+  }
+  
+  // Default hashtags
+  if (hashtags.length === 0) {
+    hashtags.push('#Tech', '#Innovation', '#Технологи');
+  }
+  
+  // Unique hashtags, slice top 3
+  return [...new Set(hashtags)].slice(0, 3).join(' ');
+}
+
   ];
   
   // Weighted random selection

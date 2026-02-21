@@ -64,15 +64,15 @@ export async function runBot() {
     // Хадгалах
     await saveArticles(articles);
     
-    // 4. Санамсаргүй мэдээ сонгох
-    const randomArticle = articles[Math.floor(Math.random() * Math.min(10, articles.length))];
-    console.log(`\n🎯 Сонгосон мэдээ:`);
-    console.log(`   Гарчиг: ${randomArticle.title}`);
-    console.log(`   Эх сурвалж: ${randomArticle.source}`);
+    // 4. Хамгийн өндөр оноотой мэдээг сонгох
+    const bestArticle = articles[0]; 
+    console.log(`\n🎯 Сонгосон шилдэг мэдээ (Оноо: ${bestArticle.score || 'N/A'}):`);
+    console.log(`   Гарчиг: ${bestArticle.title}`);
+    console.log(`   Эх сурвалж: ${bestArticle.source}`);
     
     // 5. Tweet контент үүсгэх
     console.log(`\n✍️  Монгол хэлээр контент үүсгэж байна...`);
-    const tweetText = await generateTweetContent(randomArticle);
+    const tweetText = await generateTweetContent(bestArticle);
     console.log(`\n📝 Үүссэн контент:`);
     console.log(`${'─'.repeat(60)}`);
     console.log(tweetText);
@@ -81,7 +81,7 @@ export async function runBot() {
     
     // 6. Зураг татах (байвал)
     console.log(`\n🖼️  Зураг боловсруулж байна...`);
-    const imagePath = await getArticleImage(randomArticle);
+    const imagePath = await getArticleImage(bestArticle);
     
     // 7. Tweet пост хийх
     let tweet;
@@ -163,4 +163,5 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   } else {
     runBot();
   }
+}
 }
