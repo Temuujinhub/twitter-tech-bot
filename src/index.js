@@ -1,6 +1,5 @@
 /**
  * Twitter Tech Bot - Үндсэн файл
- * Шинэчлэгдсэн: 2026-02-21 16:50 (Syntax final fix)
  */
 
 import dotenv from 'dotenv';
@@ -37,46 +36,69 @@ async function loadConfig() {
  * Бот ажиллуулах - нэг удаагийн пост
  */
 export async function runBot() {
-  console.log(`\n${'='.repeat(60)}`);
-  console.log(`🤖 Twitter Tech Bot эхэллээ`);
-  console.log(`📅 ${new Date().toLocaleString('mn-MN')}`);
-  console.log(`${'='.repeat(60)}\n`);
+  console.log('🤖 Twitter Tech Bot эхэллээ...');
   
   try {
-    // 1. Тохиргоо унших
-    console.log('📋 Тохиргоо уншиж байна...');
     const config = await loadConfig();
-    
-    // 2. Twitter холболт шалгах
-    console.log('🔌 Twitter-тай холбогдож байна...');
     const twitterClient = createTwitterClient(config.twitter);
     await getAccountInfo(twitterClient);
     
-    // 3. Мэдээ цуглуулах
-    console.log('📰 Технологийн мэдээ цуглуулж байна...\n');
+    console.log('📰 Мэдээ цуглуулж байна...');
     const articles = await collectAllNews(config.sources);
     
-    if (articles.length === 0) {
-      console.log('⚠️  Мэдээ олдсонгүй. Дахин оролдоно уу.');
+    if (!articles || articles.length === 0) {
+      console.log('⚠️ Мэдээ олдсонгүй.');
       return;
     }
     
-    // Хадгалах
     await saveArticles(articles);
     
-    // 4. Хамгийн өндөр оноотой мэдээг сонгох
     const bestArticle = articles[0]; 
-    console.log(`\n🎯 Сонгосон шилдэг мэдээ (Оноо: ${bestArticle.score || 'N/A'}):`);
-    console.log(`   Гарчиг: ${bestArticle.title}`);
-    console.log(`   Эх сурвалж: ${bestArticle.source}`);
+    console.log(`🎯 Сонгосон: ${bestArticle.title}`);
     
-    // 5. Tweet контент үүсгэх
-    console.log(`\n✍️  Монгол хэлээр контент үүсгэж байна...`);
     const tweetText = await generateTweetContent(bestArticle);
-    console.log(`\n📝 Үүссэн контент:`);
-    console.log(`${'─'.repeat(60)}`);
-    console.log(tweetText);
-    console.log(`${'─'.repeat(60)}`);
+    const imagePath = await getArticleImage(bestArticle);
+    
+    if (imagePath) {
+      await postTweetWithImage(twitterClient, tweetText, imagePath);
+    } else {
+      await postTweet(twitterClient, tweetText);
+    }
+    
+    console.log('✅ Амжилттай пост хийгдлээ!');
+    await cleanupOldImages(7);
+    
+  } catch (error) {
+    console.error('❌ Алдаа:', error.message);
+  }
+}
+
+/**
+ * Тест горим
+ */
+export async function testMode() {
+  console.log('🧪 Тест горим...');
+  try {
+    const sourcesPath = path.join(process.cwd(), 'config', 'sources.json');
+    const sources = JSON.parse(await fs.readFile(sourcesPath, 'utf-8'));
+    const articles = await collectAllNews(sources);
+    if (articles.length > 0) {
+      const tweet = await generateTweetContent(articles[0]);
+      console.log('📝 Пост:', tweet);
+    }
+  } catch (error) {
+    console.error('❌ Тест алдаа:', error.message);
+  }
+}
+
+// Ажиллуулах
+const mode = process.argv[2];
+if (mode === 'test') {
+  testMode();
+} else {
+  runBot();
+}
+repeat(60)}`);
     console.log(`📏 Урт: ${tweetText.length} тэмдэгт`);
     
     // 6. Зураг татах (байвал)
