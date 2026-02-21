@@ -148,9 +148,15 @@ export async function collectAllNews(config) {
   allArticles.push(...hnArticles);
   
   // Keyword filter
-  const filtered = config.keywords 
+  let filtered = config.keywords && config.keywords.length > 0
     ? filterByKeywords(allArticles, config.keywords)
     : allArticles;
+  
+  // Хэрэв шүүсний дараа мэдээ олдохгүй бол, бүх мэдээг ашиглах
+  if (filtered.length === 0 && allArticles.length > 0) {
+    console.log('⚠️  Түлхүүр үгээр мэдээ олдсонгүй, бүх мэдээг ашиглаж байна...');
+    filtered = allArticles;
+  }
   
   // Sort by date/score
   filtered.sort((a, b) => {
