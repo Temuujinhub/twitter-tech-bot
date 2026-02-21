@@ -1,6 +1,6 @@
 /**
  * Twitter Tech Bot - Үндсэн файл
- * Шинэчлэгдсэн: 2026-02-21 16:38
+ * Шинэчлэгдсэн: 2026-02-21 16:50 (Syntax final fix)
  */
 
 import dotenv from 'dotenv';
@@ -163,9 +163,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     runBot();
   }
 }
-ss.argv[2];
-  
-  if (mode === 'test') {
+ (mode === 'test') {
     testMode();
   } else {
     runBot();
