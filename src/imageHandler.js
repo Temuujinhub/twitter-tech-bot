@@ -77,7 +77,7 @@ export async function cleanupOldImages(daysOld = 7) {
     }
   } catch (e) {}
 }
-.log('⚠️  Зураг олдсонгүй, текст пост хийнэ');
+    console.log('⚠️  Зураг олдсонгүй, текст пост хийнэ');
     return null;
   }
   
