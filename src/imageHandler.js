@@ -26,6 +26,7 @@ export async function downloadImage(url, filename) {
     await fs.writeFile(imagePath, response.data);
     return imagePath;
   } catch (error) {
+    console.error(`❌ Зураг татахад алдаа: ${error.message}`);
     return null;
   }
 }
@@ -39,6 +40,7 @@ export async function processImage(imagePath) {
       .toFile(outputPath);
     return outputPath;
   } catch (error) {
+    console.error(`❌ Зураг боловсруулахад алдаа: ${error.message}`);
     return imagePath;
   }
 }
@@ -46,48 +48,32 @@ export async function processImage(imagePath) {
 export async function getArticleImage(article) {
   let imageUrl = article.image;
   
+  // Хэрэв зураг байхгүй бол fallback зураг ашиглах
   if (!imageUrl) {
     console.log('⚠️ Зураг олдсонгүй, fallback зураг ашиглаж байна...');
     imageUrl = FALLBACK_IMAGES[Math.floor(Math.random() * FALLBACK_IMAGES.length)];
   }
   
-  const filename = `${Date.now()}.jpg`;
-  const downloadedPath = await downloadImage(imageUrl, filename);
+  const filename = `${Date.now()}_${(article.source || 'unknown').replace(/\s+/g, '_')}.jpg`;
   
+  // Зургийг татаж авах
+  let downloadedPath = await downloadImage(imageUrl, filename);
+  
+  // Хэрэв татаж чадаагүй бол fallback зураг ашиглах
   if (!downloadedPath) {
-    const secondTry = FALLBACK_IMAGES[0];
-    const secondPath = await downloadImage(secondTry, `fallback_${filename}`);
-    return secondPath ? await processImage(secondPath) : null;
+    console.log('⚠️ Зураг татаж чадсангүй, fallback зураг ашиглаж байна...');
+    const fallbackUrl = FALLBACK_IMAGES[Math.floor(Math.random() * FALLBACK_IMAGES.length)];
+    downloadedPath = await downloadImage(fallbackUrl, `fallback_${filename}`);
   }
   
-  return await processImage(downloadedPath);
-}
-
-export async function cleanupOldImages(daysOld = 7) {
-  try {
-    const imagesDir = path.join(process.cwd(), 'data', 'images');
-    const files = await fs.readdir(imagesDir);
-    const now = Date.now();
-    for (const file of files) {
-      const filePath = path.join(imagesDir, file);
-      const stats = await fs.stat(filePath);
-      if (now - stats.mtimeMs > daysOld * 24 * 60 * 60 * 1000) {
-        await fs.unlink(filePath);
-      }
-    }
-  } catch (e) {}
-}
+  // Хэрэв бүр fallback ч татаж чадаагүй бол
+  if (!downloadedPath) {
     console.log('⚠️  Зураг олдсонгүй, текст пост хийнэ');
     return null;
   }
   
-  const filename = `${Date.now()}_${article.source.replace(/\s+/g, '_')}.jpg`;
-  const downloadedPath = await downloadImage(article.image, filename);
-  
-  if (!downloadedPath) return null;
-  
-  const processedPath = await processImage(downloadedPath);
-  return processedPath;
+  // Зургийг боловсруулах
+  return await processImage(downloadedPath);
 }
 
 /**
@@ -96,6 +82,14 @@ export async function cleanupOldImages(daysOld = 7) {
 export async function cleanupOldImages(daysOld = 7) {
   try {
     const imagesDir = path.join(process.cwd(), 'data', 'images');
+    
+    // Хавтас байгаа эсэхийг шалгах
+    try {
+      await fs.access(imagesDir);
+    } catch {
+      return; // Хавтас байхгүй бол юу ч хийхгүй
+    }
+
     const files = await fs.readdir(imagesDir);
     const now = Date.now();
     const maxAge = daysOld * 24 * 60 * 60 * 1000;
