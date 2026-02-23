@@ -2,20 +2,53 @@
  * AI Content Generator Module - Updated for Richer Content
  */
 
+import { GoogleGenerativeAI } from '@google/generative-ai';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
+const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
+
 export async function generateTweetContent(article) {
-  return generateRichSummary(article);
+  try {
+    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    
+    const prompt = `
+    Чи бол технологийн мэдээг Монгол хэл дээр товч, ойлгомжтой, сонирхолтой байдлаар хүргэдэг мэргэжлийн сэтгүүлч юм.
+    
+    Дараах мэдээг ашиглан Twitter (X) дээр нийтлэх богино хэмжээний пост бэлтгэ.
+    
+    Мэдээний гарчиг: ${article.title}
+    Мэдээний тайлбар: ${article.description}
+    Эх сурвалж: ${article.source}
+    
+    Шаардлага:
+    1. Монгол хэл дээр бичнэ.
+    2. Мэдээний гол агуулгыг 2-3 өгүүлбэрт багтааж, маш товч бөгөөд сонирхолтой байдлаар бич.
+    3. "Хиймэл оюун ухааны салбарт томоохон тэсрэлт болж..." гэх мэт ерөнхий үг хэллэг БҮҮ ашигла. Яг тухайн мэдээний онцлогийг дурд.
+    4. Эможи ашигла (гэхдээ хэтрүүлж болохгүй).
+    5. Төгсгөлд нь 2-3 холбогдох hashtag нэм (#Технологи #Инноваци гэх мэт).
+    6. Нийт урт нь 280 тэмдэгтээс хэтрэхгүй байх ёстой.
+    7. Зөвхөн бэлэн текстийг буцаа (хашилт, тайлбар хэрэггүй).
+    `;
+
+    const result = await model.generateContent(prompt);
+    const response = await result.response;
+    const text = response.text();
+    
+    return text;
+  } catch (error) {
+    console.error("Gemini API алдаа:", error.message);
+    return generateFallbackSummary(article);
+  }
 }
 
-function generateRichSummary(article) {
+function generateFallbackSummary(article) {
   const title = article.title || '';
   const description = article.description || '';
   const text = `${title}. ${description}`;
   
-  let summary = `🔹 ${title}\n\n${getTranslatedInsight(text)}\n\n${getScientistMention(article)}${getHashtags(article)}`;
-
-  if (summary.length < 160) {
-    summary = `🚀 ТЕХНОЛОГИЙН ШИНЭ МЭДЭЭ:\n\n${summary}`;
-  }
+  let summary = `🔹 ${title}\n\n${getTranslatedInsight(text)}\n\n${getHashtags(article)}`;
 
   if (summary.length > 280) {
     summary = summary.substring(0, 277) + '...';
@@ -28,32 +61,16 @@ function getTranslatedInsight(text) {
   const lowerText = text.toLowerCase();
   
   if (lowerText.includes('ai') || lowerText.includes('intelligence')) {
-    return "Хиймэл оюун ухааны салбарт томоохон тэсрэлт болж, системийн ажиллагааг шинэ түвшинд гаргах технологийн шийдэл танилцууллаа. Энэ нь ирээдүйд хэрэглэгчдийн өдөр тутмын амьдралыг хөнгөвчлөхөд чухал үүрэг гүйцэтгэнэ.";
+    return "Хиймэл оюун ухааны салбарт шинэ дэвшил гарлаа.";
   }
   if (lowerText.includes('spacex') || lowerText.includes('nasa') || lowerText.includes('space')) {
-    return "Сансар судлалын салбарт шинэ амжилт гарч, хүн төрөлхтний ирээдүйн аялалд зориулсан дэвшилтэт туршилтыг амжилттай гүйцэтгэв. Технологийн хөгжил биднийг од эрхэст улам ойртуулсаар байна.";
+    return "Сансар судлалын салбарт шинэ амжилт бүртгэгдлээ.";
   }
   if (lowerText.includes('apple') || lowerText.includes('iphone') || lowerText.includes('chip')) {
-    return "Технологийн томоохон компаниуд техник хангамжийн шинэчлэл хийж, гүйцэтгэлийг эрс нэмэгдүүлсэн микро чип болон төхөөрөмжүүдээ зарлалаа. Энэ нь зах зээлд өрсөлдөөнийг улам ширүүн болгож байна.";
+    return "Технологийн шинэ төхөөрөмж танилцуулагдлаа.";
   }
   
-  return "Дэлхийн технологийн зах зээлд гарсан энэхүү шинэчлэл нь салбарын мэргэжилтнүүдийн анхаарлыг татаж байна. Инновацийн хурдац улам бүр нэмэгдэж байгаа нь ирээдүйн хөгжлийн чиг хандлагыг тодорхойлж байна.";
-}
-
-function getScientistMention(article) {
-  const text = `${article.title} ${article.description}`.toLowerCase();
-  const scientists = [
-    { keywords: ['openai', 'chatgpt', 'altman'], name: 'Сэм Алтман' },
-    { keywords: ['tesla', 'spacex', 'musk', 'xai'], name: 'Илон Маск' },
-    { keywords: ['nvidia', 'gpu', 'jensen'], name: 'Женсен Хуанг' },
-    { keywords: ['meta', 'zuckerberg'], name: 'Марк Цукерберг' }
-  ];
-  for (const s of scientists) {
-    if (s.keywords.some(k => text.includes(k))) {
-      return `👨‍💻 ${s.name}-ийн зүгээс энэхүү инновацийг онцлон тэмдэглэж байна.\n`;
-    }
-  }
-  return '';
+  return "Технологийн ертөнцөд шинэ мэдээ гарлаа.";
 }
 
 function getHashtags(article) {
@@ -62,5 +79,8 @@ function getHashtags(article) {
   if (text.includes('ai')) hashtags.push('#AI', '#ХиймэлОюун');
   if (text.includes('robot')) hashtags.push('#Робот');
   if (text.includes('crypto')) hashtags.push('#Крипто');
+  return hashtags.slice(0, 4).join(' ');
+}
+�ипто');
   return hashtags.slice(0, 4).join(' ');
 }
