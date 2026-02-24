@@ -75,6 +75,35 @@ export async function runBot() {
     console.log(`🎯 Best News Selected: ${bestArticle.title}`);
     console.log(`🔗 Link: ${bestArticle.link}`);
     
+    // Хэрэв description хоосон бол link-с татах
+    if (!bestArticle.description || bestArticle.description.length < 30) {
+      console.log('🔍 Description хоосон байна, web page-с татаж байна...');
+      try {
+        const axios = (await import('axios')).default;
+        const response = await axios.get(bestArticle.link, {
+          headers: { 'User-Agent': 'Mozilla/5.0' },
+          timeout: 10000
+        });
+        const html = response.data;
+        
+        // og:description татах
+        let match = html.match(/<meta\s+property="og:description"\s+content="([^"]+)"/i);
+        if (match) {
+          bestArticle.description = match[1];
+          console.log('✅ Description олдлоо:', bestArticle.description.substring(0, 100));
+        } else {
+          // meta description татах
+          match = html.match(/<meta\s+name="description"\s+content="([^"]+)"/i);
+          if (match) {
+            bestArticle.description = match[1];
+            console.log('✅ Description олдлоо:', bestArticle.description.substring(0, 100));
+          }
+        }
+      } catch (error) {
+        console.log('⚠️ Description татаж чадсангүй:', error.message);
+      }
+    }
+    
     const tweetText = await generateTweetContent(bestArticle);
     const imagePath = await getArticleImage(bestArticle);
     
