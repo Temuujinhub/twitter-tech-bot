@@ -43,6 +43,35 @@ export async function generateTweetContent(article) {
   }
 }
 
+function translateToMongolian(text) {
+  // Энгийн орчуулгын dictionary (түгээмэл үгс)
+  const dictionary = {
+    'This story originally appeared in': 'Энэ мэдээ анх',
+    'newsletter': 'мэдээллийн товхимол',
+    'To get stories like this in your inbox first': 'Ийм мэдээг эхэнд нь хүлээн авахын тулд',
+    'sign up here': 'энд бүртгүүлээрэй',
+    'In January': 'Нэгдүгээр сард',
+    'In February': 'Хоёрдугаар сард',
+    'In March': 'Гуравдугаар сард',
+    'CEO': 'гүйцэтгэх захирал',
+    'announced': 'зарласан',
+    'said': 'гэж мэдэгдсэн',
+    'new': 'шинэ',
+    'company': 'компани',
+    'technology': 'технологи',
+    'AI': 'Хиймэл Оюун',
+    'robot': 'робот',
+    'humanoid': 'хүн төстэй робот'
+  };
+  
+  let translated = text;
+  for (const [eng, mon] of Object.entries(dictionary)) {
+    translated = translated.replace(new RegExp(eng, 'gi'), mon);
+  }
+  
+  return translated;
+}
+
 function generateFallbackSummary(article) {
   const title = article.title || '';
   const description = article.description || '';
@@ -58,16 +87,24 @@ function generateFallbackSummary(article) {
     .replace(/\s+/g, ' ')     // Олон зай арилгах
     .trim();
   
-  // Агуулга бэлтгэх: Монгол товчлол + Англи тайлбар + hashtags
-  let summary = `${insight}\n\n${cleanDesc}\n\n${hashtags}`;
+  // Хэрэв тайлбар маш богино бол зөвхөн Монгол товчлол ашиглах
+  if (cleanDesc.length < 50) {
+    return `${insight}\n\n${hashtags}`;
+  }
+  
+  // Тайлбарыг хэсэгчлэн Монгол болгох оролдлого
+  const partialTranslation = translateToMongolian(cleanDesc);
+  
+  // Агуулга бэлтгэх: Монгол товчлол + Орчуулсан тайлбар + hashtags  
+  let summary = `${insight}\n\n${partialTranslation}\n\n${hashtags}`;
   
   // 280 тэмдэгтийн хязгаарлалт
   if (summary.length > 280) {
     // Тайлбарыг богиносгох
-    const maxDescLength = 280 - insight.length - hashtags.length - 10; // 10 = spacing (\n\n\n\n)
+    const maxDescLength = 280 - insight.length - hashtags.length - 10; // 10 = spacing
     if (maxDescLength > 30) {
-      cleanDesc = cleanDesc.substring(0, maxDescLength - 3) + '...';
-      summary = `${insight}\n\n${cleanDesc}\n\n${hashtags}`;
+      const shortDesc = partialTranslation.substring(0, maxDescLength - 3) + '...';
+      summary = `${insight}\n\n${shortDesc}\n\n${hashtags}`;
     } else {
       // Хэт богино байвал зөвхөн Монгол тайлбар + hashtag
       summary = `${insight}\n\n${hashtags}`;

@@ -45,10 +45,45 @@ export async function processImage(imagePath) {
   }
 }
 
+async function scrapeImageFromArticle(articleUrl) {
+  try {
+    const response = await axios.get(articleUrl, {
+      headers: { 'User-Agent': 'Mozilla/5.0' },
+      timeout: 10000
+    });
+    
+    // Энгийн regex ашиглан зураг олох (og:image, twitter:image гэх мэт)
+    const html = response.data;
+    
+    // Open Graph image
+    let match = html.match(/<meta\s+property="og:image"\s+content="([^"]+)"/i);
+    if (match) return match[1];
+    
+    // Twitter card image
+    match = html.match(/<meta\s+name="twitter:image"\s+content="([^"]+)"/i);
+    if (match) return match[1];
+    
+    // First img tag
+    match = html.match(/<img[^>]+src="([^"]+)"/i);
+    if (match) return match[1];
+    
+    return null;
+  } catch (error) {
+    console.error(`❌ Web scraping алдаа: ${error.message}`);
+    return null;
+  }
+}
+
 export async function getArticleImage(article) {
   let imageUrl = article.image;
   
-  // Хэрэв зураг байхгүй бол fallback зураг ашиглах
+  // Хэрэв RSS-с зураг олдоогүй бол web page-с scrape хийх
+  if (!imageUrl && article.link) {
+    console.log('🔍 Web page-с зураг хайж байна...');
+    imageUrl = await scrapeImageFromArticle(article.link);
+  }
+  
+  // Хэрэв зураг олдоогүй бол fallback зураг ашиглах
   if (!imageUrl) {
     console.log('⚠️ Зураг олдсонгүй, fallback зураг ашиглаж байна...');
     imageUrl = FALLBACK_IMAGES[Math.floor(Math.random() * FALLBACK_IMAGES.length)];
@@ -68,7 +103,7 @@ export async function getArticleImage(article) {
   
   // Хэрэв бүр fallback ч татаж чадаагүй бол
   if (!downloadedPath) {
-    console.log('⚠️  Зураг олдсонгүй, текст пост хийнэ');
+    console.log('⚠️ Зураг олдсонгүй, текст пост хийнэ');
     return null;
   }
   

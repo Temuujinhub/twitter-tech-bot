@@ -8,6 +8,7 @@ config/.env
 
 # Data files
 data/*.json
+!data/posted_links.json
 data/images/*
 !data/.gitkeep
 !data/images/.gitkeep
