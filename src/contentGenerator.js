@@ -48,7 +48,11 @@ function generateFallbackSummary(article) {
   const description = article.description || '';
   const text = `${title}. ${description}`;
   
-  let summary = `🔹 ${title}\n\n${getTranslatedInsight(text)}\n\n${getHashtags(article)}`;
+  const insight = getTranslatedInsight(text, title);
+  const hashtags = getHashtags(article);
+  
+  // Format: emoji + insight + hashtags (no duplicate title)
+  let summary = `🔹 ${insight}\n\n${hashtags}`;
 
   if (summary.length > 280) {
     summary = summary.substring(0, 277) + '...';
@@ -57,20 +61,66 @@ function generateFallbackSummary(article) {
   return summary;
 }
 
-function getTranslatedInsight(text) {
+function getTranslatedInsight(text, title) {
   const lowerText = text.toLowerCase();
+  const lowerTitle = title.toLowerCase();
   
-  if (lowerText.includes('ai') || lowerText.includes('intelligence')) {
-    return "Хиймэл оюун ухааны салбарт шинэ дэвшил гарлаа.";
-  }
-  if (lowerText.includes('spacex') || lowerText.includes('nasa') || lowerText.includes('space')) {
-    return "Сансар судлалын салбарт шинэ амжилт бүртгэгдлээ.";
-  }
-  if (lowerText.includes('apple') || lowerText.includes('iphone') || lowerText.includes('chip')) {
-    return "Технологийн шинэ төхөөрөмж танилцуулагдлаа.";
+  // Robot & Humanoid
+  if (lowerText.includes('robot') || lowerText.includes('humanoid')) {
+    if (lowerText.includes('work') || lowerText.includes('labor') || lowerText.includes('human')) {
+      return "Робот технологийн ард нуугдаж буй хүний ажил: шинэ нээлт гарлаа.";
+    }
+    return "Робот технологи: шинэ ахиц дэвшил бүртгэгдлээ.";
   }
   
-  return "Технологийн ертөнцөд шинэ мэдээ гарлаа.";
+  // AI specific topics
+  if (lowerText.includes('ai') || lowerText.includes('artificial intelligence')) {
+    if (lowerText.includes('chatgpt') || lowerText.includes('openai')) {
+      return "OpenAI-н шинэ бүтээл танилцуулагдлаа.";
+    }
+    if (lowerText.includes('google') || lowerText.includes('gemini') || lowerText.includes('bard')) {
+      return "Google AI-д томоохон өөрчлөлт орлоо.";
+    }
+    if (lowerText.includes('training') || lowerText.includes('dataset')) {
+      return "AI сургалтын шинэ арга танилцуулагдлаа.";
+    }
+    return "Хиймэл оюун ухаан: сонирхолтой ахиц гарлаа.";
+  }
+  
+  // Space & Rockets
+  if (lowerText.includes('spacex') || lowerText.includes('starship') || lowerText.includes('rocket')) {
+    return "SpaceX: шинэ онгоцны туршилт амжилттай боллоо.";
+  }
+  if (lowerText.includes('nasa') || lowerText.includes('mars') || lowerText.includes('moon')) {
+    return "Сансрын шинжлэх ухаанд шинэ нээлт гарлаа.";
+  }
+  
+  // Tech Companies
+  if (lowerText.includes('apple')) {
+    if (lowerText.includes('iphone')) return "iPhone-ы шинэ загвар танилцуулагдлаа.";
+    if (lowerText.includes('chip') || lowerText.includes('processor')) return "Apple өөрийн чип үйлдвэрлэлээ өргөжүүллээ.";
+    return "Apple-ын шинэ бүтээгдэхүүн гарлаа.";
+  }
+  if (lowerText.includes('tesla') || lowerText.includes('electric vehicle')) {
+    return "Цахилгаан машины салбарт шинэ мэдээ гарлаа.";
+  }
+  if (lowerText.includes('meta') || lowerText.includes('facebook')) {
+    return "Meta-н шинэ технологи танилцуулагдлаа.";
+  }
+  
+  // Crypto & Blockchain
+  if (lowerText.includes('bitcoin') || lowerText.includes('crypto') || lowerText.includes('blockchain')) {
+    return "Криптовалют зах зээлд шинэ хөдөлгөөн гарлаа.";
+  }
+  
+  // General tech
+  if (lowerText.includes('startup') || lowerText.includes('funding')) {
+    return "Шинэ startup-д томоохон хөрөнгө оруулалт орлоо.";
+  }
+  
+  // Shortened version of title for generic cases
+  const shortTitle = title.split(' ').slice(0, 8).join(' ');
+  return shortTitle.length > 50 ? shortTitle.substring(0, 50) + '...' : shortTitle;
 }
 
 function getHashtags(article) {

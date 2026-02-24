@@ -26,6 +26,27 @@ async function loadConfig() {
   };
 }
 
+async function loadPostedTitles() {
+  try {
+    const postedPath = path.join(process.cwd(), 'data', 'posted_titles.json');
+    const data = await fs.readFile(postedPath, 'utf-8');
+    return new Set(JSON.parse(data));
+  } catch (error) {
+    return new Set();
+  }
+}
+
+async function savePostedTitle(title) {
+  try {
+    const postedPath = path.join(process.cwd(), 'data', 'posted_titles.json');
+    const postedTitles = await loadPostedTitles();
+    postedTitles.add(title);
+    await fs.writeFile(postedPath, JSON.stringify([...postedTitles], null, 2), 'utf-8');
+  } catch (error) {
+    console.error('❌ Posted titles хадгалахад алдаа:', error.message);
+  }
+}
+
 export async function runBot() {
   console.log('🤖 Starting Twitter Tech Bot...');
   try {
@@ -40,7 +61,17 @@ export async function runBot() {
     }
     
     await saveArticles(articles);
-    const bestArticle = articles[0]; 
+    
+    // Өмнө нь post хийсэн мэдээнүүдийг шүүх
+    const postedTitles = await loadPostedTitles();
+    const freshArticles = articles.filter(article => !postedTitles.has(article.title));
+    
+    if (freshArticles.length === 0) {
+      console.log('⚠️ Бүх мэдээ аль хэдийн post хийгдсэн байна.');
+      return;
+    }
+    
+    const bestArticle = freshArticles[0]; 
     console.log(`🎯 Best News Selected: ${bestArticle.title}`);
     
     const tweetText = await generateTweetContent(bestArticle);
@@ -51,6 +82,9 @@ export async function runBot() {
     } else {
       await postTweet(twitterClient, tweetText);
     }
+    
+    // Post хийсэн мэдээний гарчгийг хадгалах
+    await savePostedTitle(bestArticle.title);
     
     console.log('✅ Success!');
     await cleanupOldImages(7);
