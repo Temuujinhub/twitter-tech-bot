@@ -7,7 +7,7 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
 
 export async function generateTweetContent(article) {
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
     
     const prompt = `Та бол технологийн мэдээг Монгол хэл дээр товч, тодорхой хүргэдэг мэргэжилтэн.
 
