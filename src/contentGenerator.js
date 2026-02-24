@@ -51,11 +51,27 @@ function generateFallbackSummary(article) {
   const insight = getTranslatedInsight(text, title);
   const hashtags = getHashtags(article);
   
-  // Format: emoji + insight + hashtags (no duplicate title)
-  let summary = `🔹 ${insight}\n\n${hashtags}`;
-
+  // Тайлбарыг цэвэрлэх
+  let cleanDesc = description
+    .replace(/<[^>]*>/g, '') // HTML tags арилгах
+    .replace(/\n+/g, ' ')     // Мөр шилжилт арилгах
+    .replace(/\s+/g, ' ')     // Олон зай арилгах
+    .trim();
+  
+  // Агуулга бэлтгэх: Монгол товчлол + Англи тайлбар + hashtags
+  let summary = `${insight}\n\n${cleanDesc}\n\n${hashtags}`;
+  
+  // 280 тэмдэгтийн хязгаарлалт
   if (summary.length > 280) {
-    summary = summary.substring(0, 277) + '...';
+    // Тайлбарыг богиносгох
+    const maxDescLength = 280 - insight.length - hashtags.length - 10; // 10 = spacing (\n\n\n\n)
+    if (maxDescLength > 30) {
+      cleanDesc = cleanDesc.substring(0, maxDescLength - 3) + '...';
+      summary = `${insight}\n\n${cleanDesc}\n\n${hashtags}`;
+    } else {
+      // Хэт богино байвал зөвхөн Монгол тайлбар + hashtag
+      summary = `${insight}\n\n${hashtags}`;
+    }
   }
   
   return summary;

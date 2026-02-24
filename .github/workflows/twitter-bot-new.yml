@@ -36,7 +36,16 @@ jobs:
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_SECRET: ${{ secrets.TWITTER_ACCESS_SECRET }}
           TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: node src/index.js
+
+      - name: Commit posted titles
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/posted_titles.json || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted titles [skip ci]"
+          git push || true
 
       - name: Upload logs
         if: always()
