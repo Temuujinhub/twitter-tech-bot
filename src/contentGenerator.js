@@ -11,7 +11,7 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
 
 export async function generateTweetContent(article) {
   try {
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
     
     const prompt = `
     Чи бол технологийн мэдээг Монгол хэл дээр товч, ойлгомжтой, сонирхолтой байдлаар хүргэдэг мэргэжлийн сэтгүүлч юм.
@@ -79,8 +79,5 @@ function getHashtags(article) {
   if (text.includes('ai')) hashtags.push('#AI', '#ХиймэлОюун');
   if (text.includes('robot')) hashtags.push('#Робот');
   if (text.includes('crypto')) hashtags.push('#Крипто');
-  return hashtags.slice(0, 4).join(' ');
-}
-�ипто');
   return hashtags.slice(0, 4).join(' ');
 }
