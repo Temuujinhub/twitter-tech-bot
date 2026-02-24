@@ -80,31 +80,36 @@ function generateFallbackSummary(article) {
   const insight = getTranslatedInsight(text, title);
   const hashtags = getHashtags(article);
   
-  // Тайлбарыг цэвэрлэх
+  // Тайлбарыг цэвэрлэх ба meta text арилгах
   let cleanDesc = description
-    .replace(/<[^>]*>/g, '') // HTML tags арилгах
-    .replace(/\n+/g, ' ')     // Мөр шилжилт арилгах
-    .replace(/\s+/g, ' ')     // Олон зай арилгах
+    .replace(/<[^>]*>/g, '') // HTML tags
+    .replace(/This story originally appeared.*?(?=\.|\n|$)/gi, '') // Meta text арилгах
+    .replace(/To get stories like this.*?(?=\.|\n|$)/gi, '')
+    .replace(/sign up here.*?(?=\.|\n|$)/gi, '')
+    .replace(/Read more:.*$/gi, '')
+    .replace(/\n+/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
   
-  // Хэрэв тайлбар маш богино бол зөвхөн Монгол товчлол ашиглах
-  if (cleanDesc.length < 50) {
+  // Эхний 2-3 өгүүлбэрийг авах (гол агуулга)
+  const sentences = cleanDesc.split(/[.!?]+/).filter(s => s.trim().length > 20);
+  const mainContent = sentences.slice(0, 2).join('. ').trim() + (sentences.length > 0 ? '.' : '');
+  
+  // Хэрэв гол агуулга маш богино бол зөвхөн Монгол товчлол ашиглах
+  if (mainContent.length < 50) {
     return `${insight}\n\n${hashtags}`;
   }
   
-  // Тайлбарыг хэсэгчлэн Монгол болгох оролдлого
-  const partialTranslation = translateToMongolian(cleanDesc);
-  
-  // Агуулга бэлтгэх: Монгол товчлол + Орчуулсан тайлбар + hashtags  
-  let summary = `${insight}\n\n${partialTranslation}\n\n${hashtags}`;
+  // Агуулга бэлтгэх: Монгол товчлол + Гол агуулга + hashtags
+  let summary = `${insight}\n\n${mainContent}\n\n${hashtags}`;
   
   // 280 тэмдэгтийн хязгаарлалт
   if (summary.length > 280) {
-    // Тайлбарыг богиносгох
-    const maxDescLength = 280 - insight.length - hashtags.length - 10; // 10 = spacing
-    if (maxDescLength > 30) {
-      const shortDesc = partialTranslation.substring(0, maxDescLength - 3) + '...';
-      summary = `${insight}\n\n${shortDesc}\n\n${hashtags}`;
+    // Гол агуулгыг богиносгох
+    const maxContentLength = 280 - insight.length - hashtags.length - 10;
+    if (maxContentLength > 50) {
+      const shortContent = mainContent.substring(0, maxContentLength - 3) + '...';
+      summary = `${insight}\n\n${shortContent}\n\n${hashtags}`;
     } else {
       // Хэт богино байвал зөвхөн Монгол тайлбар + hashtag
       summary = `${insight}\n\n${hashtags}`;
