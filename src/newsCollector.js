@@ -165,14 +165,34 @@ export async function collectAllNews(config) {
   const hnArticles = await collectFromHackerNews();
   allArticles.push(...hnArticles);
   
+  // PDF файлууд болон хуучин огноотой мэдээнүүдийг арилгах
+  let filtered = allArticles.filter(article => {
+    // PDF шүүх
+    if (article.link && article.link.endsWith('.pdf')) {
+      return false;
+    }
+    
+    // Огноо шалгах - сүүлийн 7 хоногийн мэдээнүүд
+    if (article.pubDate) {
+      const pubDate = new Date(article.pubDate);
+      const weekAgo = new Date();
+      weekAgo.setDate(weekAgo.getDate() - 7);
+      if (pubDate < weekAgo) {
+        return false;
+      }
+    }
+    
+    return true;
+  });
+  
   // Keyword filter
-  let filtered = config.keywords && config.keywords.length > 0
-    ? filterByKeywords(allArticles, config.keywords)
-    : allArticles;
+  if (config.keywords && config.keywords.length > 0) {
+    filtered = filterByKeywords(filtered, config.keywords);
+  }
   
   // Хэрэв шүүсний дараа мэдээ олдохгүй бол, бүх мэдээг ашиглах
   if (filtered.length === 0 && allArticles.length > 0) {
-    console.log('⚠️  Түлхүүр үгээр мэдээ олдсонгүй, бүх мэдээг ашиглаж байна...');
+    console.log('⚠️ Түлхүүр үгээр мэдээ олдсонгүй, бүх мэдээг ашиглаж байна...');
     filtered = allArticles;
   }
   
