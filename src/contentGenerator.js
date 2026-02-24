@@ -7,12 +7,12 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
 
 export async function generateTweetContent(article) {
   try {
-    // Gemini 2.0 Flash ашиглах
+    // gemini-2.5-flash ашиглах
     const model = genAI.getGenerativeModel({ 
-      model: "gemini-2.0-flash-exp"
+      model: "gemini-2.5-flash"
     });
     
-    const prompt = `Та технологийн мэдээг Монгол хэл дээр товч хүргэдэг мэргэжилтэн.
+    const prompt = `Та технологийн мэдээг Монгол хэл дээр товч, сонирхолтой хүргэдэг мэргэжилтэн.
 
 МЭДЭЭ:
 ${article.title}
@@ -21,15 +21,16 @@ ${article.description || ''}
 ДААЛГАВАР: Энэ мэдээг Монгол хэл дээр 250 тэмдэгтэд багтаан бич.
 
 Шаардлага:
-- Мэдээний гол санааг Монгол хэлээр 2-3 өгүүлбэрт багтаа
+- Мэдээний гол санааг Монгол хэлээр 2-3 өгүүлбэрт тодорхой бич
 - Төгсгөлд #Технологи #Инноваци болон холбогдох hashtag нэм
-- 250 тэмдэгтээс хэтрэхгүй
-- Зөвхөн текстийг буцаа`;
+- 250 тэмдэгтээс хэтрэхгүй байх
+- Зөвхөн бэлэн текстийг буцаа (тайлбар, хашилт хэрэггүй)`;
 
     const result = await model.generateContent(prompt);
     const response = await result.response;
+    const text = response.text().trim();
     console.log('✅ Gemini товчлол амжилттай');
-    return response.text().trim();
+    return text;
   } catch (error) {
     console.log(`⚠️ Gemini алдаа: ${error.message}`);
     console.log('📝 Fallback ашиглаж байна...');
