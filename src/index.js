@@ -26,9 +26,9 @@ async function loadConfig() {
   };
 }
 
-async function loadPostedTitles() {
+async function loadPostedLinks() {
   try {
-    const postedPath = path.join(process.cwd(), 'data', 'posted_titles.json');
+    const postedPath = path.join(process.cwd(), 'data', 'posted_links.json');
     const data = await fs.readFile(postedPath, 'utf-8');
     return new Set(JSON.parse(data));
   } catch (error) {
@@ -36,14 +36,14 @@ async function loadPostedTitles() {
   }
 }
 
-async function savePostedTitle(title) {
+async function savePostedLink(link) {
   try {
-    const postedPath = path.join(process.cwd(), 'data', 'posted_titles.json');
-    const postedTitles = await loadPostedTitles();
-    postedTitles.add(title);
-    await fs.writeFile(postedPath, JSON.stringify([...postedTitles], null, 2), 'utf-8');
+    const postedPath = path.join(process.cwd(), 'data', 'posted_links.json');
+    const postedLinks = await loadPostedLinks();
+    postedLinks.add(link);
+    await fs.writeFile(postedPath, JSON.stringify([...postedLinks], null, 2), 'utf-8');
   } catch (error) {
-    console.error('❌ Posted titles хадгалахад алдаа:', error.message);
+    console.error('❌ Posted links хадгалахад алдаа:', error.message);
   }
 }
 
@@ -62,9 +62,9 @@ export async function runBot() {
     
     await saveArticles(articles);
     
-    // Өмнө нь post хийсэн мэдээнүүдийг шүүх
-    const postedTitles = await loadPostedTitles();
-    const freshArticles = articles.filter(article => !postedTitles.has(article.title));
+    // Өмнө нь post хийсэн мэдээнүүдийг шүүх (link-ээр шалгах)
+    const postedLinks = await loadPostedLinks();
+    const freshArticles = articles.filter(article => !postedLinks.has(article.link));
     
     if (freshArticles.length === 0) {
       console.log('⚠️ Бүх мэдээ аль хэдийн post хийгдсэн байна.');
@@ -73,6 +73,7 @@ export async function runBot() {
     
     const bestArticle = freshArticles[0]; 
     console.log(`🎯 Best News Selected: ${bestArticle.title}`);
+    console.log(`🔗 Link: ${bestArticle.link}`);
     
     const tweetText = await generateTweetContent(bestArticle);
     const imagePath = await getArticleImage(bestArticle);
@@ -83,8 +84,8 @@ export async function runBot() {
       await postTweet(twitterClient, tweetText);
     }
     
-    // Post хийсэн мэдээний гарчгийг хадгалах
-    await savePostedTitle(bestArticle.title);
+    // Post хийсэн мэдээний link-ийг хадгалах
+    await savePostedLink(bestArticle.link);
     
     console.log('✅ Success!');
     await cleanupOldImages(7);

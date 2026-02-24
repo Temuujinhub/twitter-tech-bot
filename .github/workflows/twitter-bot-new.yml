@@ -39,12 +39,12 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: node src/index.js
 
-      - name: Commit posted titles
+      - name: Commit posted links
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/posted_titles.json || true
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted titles [skip ci]"
+          git add data/posted_links.json || true
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update posted links [skip ci]"
           git push || true
 
       - name: Upload logs

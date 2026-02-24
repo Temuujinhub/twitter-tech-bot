@@ -23,10 +23,23 @@ export async function collectFromRSS(sources) {
       const feed = await rssParser.parseURL(source.url);
       
       for (const item of feed.items.slice(0, 10)) {
+        // Description-ийг олон талбараас авах оролдлого
+        let description = item.contentSnippet 
+          || item.summary 
+          || item.description 
+          || item['content:encoded']
+          || item.content 
+          || '';
+        
+        // HTML tags арилгах
+        if (description) {
+          description = description.replace(/<[^>]*>/g, '').trim();
+        }
+        
         articles.push({
           title: item.title,
           link: item.link,
-          description: item.contentSnippet || item.content || '',
+          description: description,
           source: source.name,
           topics: source.topics || ['Tech'],
           pubDate: item.pubDate,
