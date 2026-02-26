@@ -42,8 +42,11 @@ async function savePostedLink(link) {
     const postedLinks = await loadPostedLinks();
     postedLinks.add(link);
     await fs.writeFile(postedPath, JSON.stringify([...postedLinks], null, 2), 'utf-8');
+    console.log(`✅ Posted link хадгалагдлаа: ${link}`);
+    console.log(`📊 Нийт posted links: ${postedLinks.size}`);
   } catch (error) {
     console.error('❌ Posted links хадгалахад алдаа:', error.message);
+    throw error; // Re-throw to catch in runBot
   }
 }
 
@@ -64,13 +67,23 @@ export async function runBot() {
     
     // Өмнө нь post хийсэн мэдээнүүдийг шүүх (link-ээр шалгах)
     const postedLinks = await loadPostedLinks();
-    const freshArticles = articles.filter(article => !postedLinks.has(article.link));
+    console.log(`📊 Одоо байгаа posted links: ${postedLinks.size}`);
+    
+    const freshArticles = articles.filter(article => {
+      const isPosted = postedLinks.has(article.link);
+      if (isPosted) {
+        console.log(`⏭️  Алгасах (давтагдсан): ${article.title.substring(0, 60)}...`);
+      }
+      return !isPosted;
+    });
     
     if (freshArticles.length === 0) {
       console.log('⚠️ Бүх мэдээ аль хэдийн post хийгдсэн байна.');
+      console.log('💡 Шинэ мэдээ хүлээж байна...');
       return;
     }
     
+    console.log(`✅ Шинэ мэдээ олдлоо: ${freshArticles.length}`);
     const bestArticle = freshArticles[0]; 
     console.log(`🎯 Best News Selected: ${bestArticle.title}`);
     console.log(`🔗 Link: ${bestArticle.link}`);
