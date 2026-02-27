@@ -24,17 +24,3 @@
   "webSources": [],
   "keywords": []
 }
-Reddit r/technology",
-      "url": "https://www.reddit.com/r/technology/top/.json?limit=10",
-      "type": "json",
-      "topics": ["AI", "Startups", "Tech News"]
-    },
-    {
-      "name": "Product Hunt",
-      "url": "https://www.producthunt.com/",
-      "type": "html",
-      "topics": ["Startups", "New Products"]
-    }
-  ],
-  "keywords": []
-}
