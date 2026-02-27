@@ -7,12 +7,11 @@ const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
 
 export async function generateTweetContent(article) {
   try {
-    // Gemini models оролдох дараалал: 2.5-flash (ажиллаж байгаа) -> бусад
     const modelNames = [
-      "gemini-1.5-flash",      // Recommended
-      "gemini-1.5-pro",        // Fallback
-      "gemini-pro",            // Legacy fallback
-      "gemini-2.0-flash-exp"   // Experimental
+      "gemini-1.5-flash",
+      "gemini-1.5-pro",
+      "gemini-pro",
+      "gemini-2.0-flash-exp"
     ];
     
     let lastError = null;
@@ -36,20 +35,15 @@ export async function generateTweetContent(article) {
 7. 240-270 тэмдэгт байх (линк байхгүй тул агуулга дүүрэн бай)
 8. Зөвхөн бэлэн текстийг буцаа (тайлбар хэрэггүй)
 
-ЖИШ 1 (зөв):
+ЖИШЭЭ:
 "OpenAI-н GPT-4 загвар 95% нарийвчлалаар эмнэлгийн оношлогоонд хүний мэргэжилтнээс давсан нь шинжлэх ухааны сэтгүүлд нийтлэгдлээ. Энэ нь AI эрүүл мэндийн салбарт томоохон алхам болж байна. #Технологи #Инноваци #AI"
-
-ЖИШ 2 (буруу):
-"AI эмнэлгийн оношлогоонд гайхалтай амжилт үзүүлж байна. Ирээдүйд энэ технологи бидний амьдралд хэрхэн нөлөөлөхийг хамтдаа сонирхоцгооё! #Технологи"
 
 ОДОО ДАРААХ МЭДЭЭГ ДҮГНЭ:`;
     
-    // Дарааллаар model-уудыг оролдох
     for (const modelName of modelNames) {
       try {
         console.log(`🔄 ${modelName} оролдож байна...`);
         const model = genAI.getGenerativeModel({ model: modelName });
-        
         const result = await model.generateContent(prompt);
         const response = await result.response;
         const text = response.text().trim();
@@ -58,42 +52,26 @@ export async function generateTweetContent(article) {
       } catch (error) {
         lastError = error;
         console.log(`⚠️ ${modelName} алдаа: ${error.message.substring(0, 100)}...`);
-        // Дараагийн model руу үргэлжлүүлэх
         continue;
       }
     }
     
-    // Бүх model амжилтгүй бол fallback ашиглах
-    console.log('⚠️ Бүх Gemini model-ууд амжилтгүй боллоо');
-    console.log(`📝 Сүүлийн алдаа: ${lastError?.message.substring(0, 150)}...`);
-    console.log('📝 Fallback ашиглаж байна...');
+    console.log('⚠️ Бүх Gemini model-ууд амжилтгүй боллоо. Fallback ашиглаж байна...');
     return generateFallbackSummary(article);
   } catch (error) {
-    console.log(`⚠️ Gemini системийн алдаа: ${error.message}`);
-    console.log('📝 Fallback ашиглаж байна...');
+    console.log(`⚠️ Системийн алдаа: ${error.message}`);
     return generateFallbackSummary(article);
   }
 }
 
 function generateFallbackSummary(article) {
-  const title = article.title || '';
-  const description = article.description || '';
   const hashtags = getHashtags(article);
-  
-  let content = description
+  let content = (article.description || article.title)
     .replace(/<[^>]*>/g, '')
-    .replace(/This story originally appeared.*$/gi, '')
-    .replace(/\n+/g, ' ')
-    .replace(/\s+/g, ' ')
     .trim();
   
-  if (!content || content.length < 30) {
-    content = title;
-  }
-  
-  const maxLen = 200 - hashtags.length - 5;
-  if (content.length > maxLen) {
-    content = content.substring(0, maxLen - 3) + '...';
+  if (content.length > 200) {
+    content = content.substring(0, 197) + '...';
   }
   
   return `${content}\n\n${hashtags}`;
@@ -102,10 +80,7 @@ function generateFallbackSummary(article) {
 function getHashtags(article) {
   const hashtags = ['#Технологи', '#Инноваци'];
   const text = (article.title + (article.description || '')).toLowerCase();
-  if (text.includes('ai') || text.includes('intelligence')) hashtags.push('#AI');
+  if (text.includes('ai')) hashtags.push('#AI');
   if (text.includes('robot')) hashtags.push('#Робот');
-  if (text.includes('crypto')) hashtags.push('#Крипто');
   return hashtags.slice(0, 4).join(' ');
-}
-tags.slice(0, 4).join(' ');
 }
