@@ -21,9 +21,10 @@
       "topics": ["AI", "Future Tech", "Science"]
     }
   ],
-  "webSources": [
-    {
-      "name": "Reddit r/technology",
+  "webSources": [],
+  "keywords": []
+}
+Reddit r/technology",
       "url": "https://www.reddit.com/r/technology/top/.json?limit=10",
       "type": "json",
       "topics": ["AI", "Startups", "Tech News"]
