@@ -9,10 +9,10 @@ export async function generateTweetContent(article) {
   try {
     // Gemini models оролдох дараалал: 2.5-flash (ажиллаж байгаа) -> бусад
     const modelNames = [
-      "gemini-2.5-flash",      // ✅ Одоо ажиллаж байгаа model
-      "gemini-1.5-flash",      // Fallback 1
-      "gemini-1.5-pro",        // Fallback 2
-      "gemini-pro"             // Fallback 3
+      "gemini-1.5-flash",      // Recommended
+      "gemini-1.5-pro",        // Fallback
+      "gemini-pro",            // Legacy fallback
+      "gemini-2.0-flash-exp"   // Experimental
     ];
     
     let lastError = null;
@@ -106,4 +106,6 @@ function getHashtags(article) {
   if (text.includes('robot')) hashtags.push('#Робот');
   if (text.includes('crypto')) hashtags.push('#Крипто');
   return hashtags.slice(0, 4).join(' ');
+}
+tags.slice(0, 4).join(' ');
 }
