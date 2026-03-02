@@ -5,6 +5,12 @@ package-lock.json
 # Environment variables
 config/.env
 .env
+token.json
+*.key
+credentials.json
+__pycache__/
+*.pyc
+client_secret*.json
 
 # Data files
 data/*.json
