@@ -90,7 +90,10 @@ export async function runBot() {
   try {
     const config = await loadConfig();
     const twitterClient = createTwitterClient(config.twitter);
-    await getAccountInfo(twitterClient);
+    // Account мэдээлэл авах - амжилтгүй болсон ч bot үргэлжлэнэ
+    await getAccountInfo(twitterClient).catch(err => {
+      console.warn(`⚠️ Account шалгалт алдаа (bot үргэлжлэнэ): ${err.message}`);
+    });
     
     const articles = await collectAllNews(config.sources);
     if (!articles || articles.length === 0) {
