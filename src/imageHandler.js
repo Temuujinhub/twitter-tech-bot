@@ -17,10 +17,15 @@ const FALLBACK_IMAGES = [
 
 export async function downloadImage(url, filename) {
   try {
+    // URL хүчинтэй эсэхийг шалгах
+    if (!url || !url.startsWith('http')) {
+      console.error(`❌ Зургийн URL хүчингүй: ${url}`);
+      return null;
+    }
     const response = await axios.get(url, {
       responseType: 'arraybuffer',
-      headers: { 'User-Agent': 'Mozilla/5.0' },
-      timeout: 10000
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+      timeout: 12000
     });
     const imagePath = path.join(process.cwd(), 'data', 'images', filename);
     await fs.mkdir(path.dirname(imagePath), { recursive: true });
@@ -53,19 +58,40 @@ export async function processImage(imagePath) {
 async function scrapeImageFromArticle(articleUrl) {
   try {
     const response = await axios.get(articleUrl, {
-      headers: { 'User-Agent': 'Mozilla/5.0' },
-      timeout: 10000
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+      },
+      timeout: 12000
     });
-    
+
     const $ = cheerio.load(response.data);
-    const imageUrl =
+    const base = new URL(articleUrl);
+
+    // Absolute URL болгох helper
+    const toAbsolute = (src) => {
+      if (!src) return null;
+      if (src.startsWith('http://') || src.startsWith('https://')) return src;
+      if (src.startsWith('//')) return `${base.protocol}${src}`;
+      if (src.startsWith('/')) return `${base.origin}${src}`;
+      return null; // харьцангуй зам (relative path) - алгас
+    };
+
+    const rawUrl =
+      $('meta[property="og:image:secure_url"]').attr('content') ||
       $('meta[property="og:image"]').attr('content') ||
+      $('meta[name="twitter:image:src"]').attr('content') ||
       $('meta[name="twitter:image"]').attr('content') ||
       $('meta[property="og:image:url"]').attr('content') ||
-      $('article img').first().attr('src') ||
-      $('img[src]').first().attr('src') ||
+      $('article img[src]').not('[src*="logo"],[src*="icon"],[src*="avatar"]').first().attr('src') ||
+      $('figure img[src]').first().attr('src') ||
+      $('img[src]').filter((_, el) => {
+        const src = $(el).attr('src') || '';
+        const w = parseInt($(el).attr('width') || '0');
+        return !src.includes('logo') && !src.includes('icon') && (w === 0 || w >= 300);
+      }).first().attr('src') ||
       null;
-    return imageUrl && imageUrl.startsWith('http') ? imageUrl : null;
+
+    return toAbsolute(rawUrl);
   } catch (error) {
     console.error(`❌ Web scraping алдаа: ${error.message}`);
     return null;

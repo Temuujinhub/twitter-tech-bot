@@ -182,10 +182,6 @@ export async function collectAllNews(config) {
     allArticles.push(...rssArticles);
   }
   
-  // Reddit
-  const redditArticles = await collectFromReddit();
-  allArticles.push(...redditArticles);
-  
   // Hacker News
   const hnArticles = await collectFromHackerNews();
   allArticles.push(...hnArticles);
