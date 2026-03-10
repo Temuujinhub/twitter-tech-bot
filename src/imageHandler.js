@@ -6,6 +6,7 @@ import axios from 'axios';
 import sharp from 'sharp';
 import fs from 'fs/promises';
 import path from 'path';
+import * as cheerio from 'cheerio';
 
 const FALLBACK_IMAGES = [
   'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&q=80&w=1200&h=675', // Robotics
@@ -38,6 +39,10 @@ export async function processImage(imagePath) {
       .resize(1200, 675, { fit: 'cover', position: 'center' })
       .jpeg({ quality: 85 })
       .toFile(outputPath);
+    // Original файлыг устгах (disk хэмнэх)
+    if (outputPath !== imagePath) {
+      await fs.unlink(imagePath).catch(() => {});
+    }
     return outputPath;
   } catch (error) {
     console.error(`❌ Зураг боловсруулахад алдаа: ${error.message}`);
@@ -52,22 +57,15 @@ async function scrapeImageFromArticle(articleUrl) {
       timeout: 10000
     });
     
-    // Энгийн regex ашиглан зураг олох (og:image, twitter:image гэх мэт)
-    const html = response.data;
-    
-    // Open Graph image
-    let match = html.match(/<meta\s+property="og:image"\s+content="([^"]+)"/i);
-    if (match) return match[1];
-    
-    // Twitter card image
-    match = html.match(/<meta\s+name="twitter:image"\s+content="([^"]+)"/i);
-    if (match) return match[1];
-    
-    // First img tag
-    match = html.match(/<img[^>]+src="([^"]+)"/i);
-    if (match) return match[1];
-    
-    return null;
+    const $ = cheerio.load(response.data);
+    const imageUrl =
+      $('meta[property="og:image"]').attr('content') ||
+      $('meta[name="twitter:image"]').attr('content') ||
+      $('meta[property="og:image:url"]').attr('content') ||
+      $('article img').first().attr('src') ||
+      $('img[src]').first().attr('src') ||
+      null;
+    return imageUrl && imageUrl.startsWith('http') ? imageUrl : null;
   } catch (error) {
     console.error(`❌ Web scraping алдаа: ${error.message}`);
     return null;

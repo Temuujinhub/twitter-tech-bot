@@ -23,19 +23,32 @@ export async function collectFromRSS(sources) {
       const feed = await rssParser.parseURL(source.url);
       
       for (const item of feed.items.slice(0, 10)) {
-        // Description-ийг олон талбараас авах оролдлого
-        let description = item.contentSnippet 
-          || item.summary 
-          || item.description 
+        if (!item.title || !item.link) continue;
+
+        let description = item.contentSnippet
+          || item.summary
+          || item.description
           || item['content:encoded']
-          || item.content 
+          || item.content
           || '';
-        
-        // HTML tags арилгах
+
         if (description) {
           description = description.replace(/<[^>]*>/g, '').trim();
         }
-        
+
+        // RSS мэдээнд score байхгүй тул огноо-г ашиглан тооцоолох
+        // Шинэ мэдээ = өндөр score (хамгийн шинэ нь 100, 1 хоног хуучин = 80, г.м.)
+        let rssScore = 50;
+        if (item.pubDate) {
+          const hoursAgo = (Date.now() - new Date(item.pubDate).getTime()) / (1000 * 60 * 60);
+          if (hoursAgo < 3) rssScore = 100;
+          else if (hoursAgo < 6) rssScore = 90;
+          else if (hoursAgo < 12) rssScore = 80;
+          else if (hoursAgo < 24) rssScore = 70;
+          else if (hoursAgo < 48) rssScore = 60;
+          else rssScore = 40;
+        }
+
         articles.push({
           title: item.title,
           link: item.link,
@@ -44,7 +57,7 @@ export async function collectFromRSS(sources) {
           topics: source.topics || ['Tech'],
           pubDate: item.pubDate,
           image: extractImageFromContent(item.content) || item.enclosure?.url,
-          score: 0
+          score: rssScore
         });
       }
       
@@ -68,16 +81,27 @@ export async function collectFromReddit() {
       }
     });
     
-    const articles = response.data.data.children.map(post => ({
-      title: post.data.title,
-      link: post.data.url,
-      description: post.data.selftext || '',
-      source: 'Reddit r/technology',
-      topics: ['Tech News'],
-      score: post.data.score || 0,
-      comments: post.data.num_comments,
-      image: post.data.thumbnail !== 'self' ? post.data.thumbnail : null
-    }));
+    const articles = response.data.data.children
+      .filter(post => post.data.title && post.data.url)
+      .map(post => {
+        const thumbnail = post.data.thumbnail;
+        const hasValidThumbnail = thumbnail
+          && thumbnail !== 'self'
+          && thumbnail !== 'default'
+          && thumbnail !== 'nsfw'
+          && thumbnail.startsWith('http');
+        return {
+          title: post.data.title,
+          link: post.data.url,
+          description: post.data.selftext || '',
+          source: 'Reddit r/technology',
+          topics: ['Tech News'],
+          score: post.data.score || 0,
+          comments: post.data.num_comments,
+          pubDate: post.data.created_utc ? new Date(post.data.created_utc * 1000).toISOString() : null,
+          image: hasValidThumbnail ? thumbnail : null
+        };
+      });
     
     console.log(`✅ Reddit: ${articles.length} мэдээ олдлоо`);
     return articles;
@@ -101,15 +125,16 @@ export async function collectFromHackerNews() {
         const storyRes = await axios.get(`https://hacker-news.firebaseio.com/v0/item/${id}.json`);
         const story = storyRes.data;
         
-        if (story.type === 'story' && story.url) {
+        if (story.type === 'story' && story.url && story.title) {
           articles.push({
             title: story.title,
             link: story.url,
-            description: story.text || '',
+            description: story.text ? story.text.replace(/<[^>]*>/g, '').trim() : '',
             source: 'Hacker News',
             topics: ['Tech News'],
             score: story.score || 0,
-            comments: story.descendants || 0
+            comments: story.descendants || 0,
+            pubDate: story.time ? new Date(story.time * 1000).toISOString() : null
           });
         }
       } catch (e) { continue; }
@@ -196,8 +221,19 @@ export async function collectAllNews(config) {
     filtered = allArticles;
   }
   
-  // Sort by score
-  filtered.sort((a, b) => (b.score || 0) - (a.score || 0));
+  // Sort: Reddit/HN score-ийг normalize хийж, RSS огноо score-тай нэгтгэн эрэмбэлэх
+  const maxScore = Math.max(...filtered.map(a => a.score || 0), 1);
+  filtered.sort((a, b) => {
+    // Engagement score: 0-100 хооронд normalize хийх
+    const aEngagement = Math.min(((a.score || 0) / maxScore) * 100, 100);
+    const bEngagement = Math.min(((b.score || 0) / maxScore) * 100, 100);
+    // Ogno score: RSS-д аль хэдийн тооцоолсон (40-100), Reddit/HN-д engagement ашиглах
+    const aIsRSS = a.source !== 'Reddit r/technology' && a.source !== 'Hacker News';
+    const bIsRSS = b.source !== 'Reddit r/technology' && b.source !== 'Hacker News';
+    const aFinal = aIsRSS ? (a.score || 50) : aEngagement;
+    const bFinal = bIsRSS ? (b.score || 50) : bEngagement;
+    return bFinal - aFinal;
+  });
   
   console.log(`\n📊 Нийт цуглуулсан: ${allArticles.length} мэдээ`);
   console.log(`🎯 Шүүгдсэн: ${filtered.length} мэдээ`);
