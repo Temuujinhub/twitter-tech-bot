@@ -1,25 +1,98 @@
 [
-  "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-  "https://www.techspot.com/news/110196-data-centers-now-hoarding-ssds-hard-drive-supplies.html",
-  "https://www.earth.com/news/process-microbes-turn-desert-sand-into-fertile-soil-in-just-10-months/",
-  "https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html",
-  "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
-  "https://kotaku.com/xbox-microsoft-asha-sharma-birthrates-ai-fertility-2000672756",
-  "https://www.politico.com/news/2026/02/23/the-bots-powering-nicki-minajs-maga-war-00771317?utm_medium=twitter&amp;utm_source=dlvr.it",
-  "https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html",
-  "https://www.theregister.com/2026/02/23/ibm_share_dive_anthropic_cobol/",
-  "https://www.rollingstone.com/music/music-news/nicki-minaj-maga-posts-bots-report-1235521015/",
-  "https://spectrum.ieee.org/age-verification",
-  "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-  "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
-  "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
-  "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-  "https://www.bannedincalifornia.org/",
-  "https://www.anthropic.com/news/statement-department-of-war",
-  "https://twitter.com/jack/status/2027129697092731343",
-  "https://amplifying.ai/research/claude-code-picks",
-  "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
-  "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
-  "https://growingswe.com/blog/quadtrees",
-  "https://blog.cloudflare.com/a-better-web-streams-api/"
+  {
+    "link": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
+    "title": ""
+  },
+  {
+    "link": "https://www.techspot.com/news/110196-data-centers-now-hoarding-ssds-hard-drive-supplies.html",
+    "title": ""
+  },
+  {
+    "link": "https://www.earth.com/news/process-microbes-turn-desert-sand-into-fertile-soil-in-just-10-months/",
+    "title": ""
+  },
+  {
+    "link": "https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html",
+    "title": ""
+  },
+  {
+    "link": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
+    "title": ""
+  },
+  {
+    "link": "https://kotaku.com/xbox-microsoft-asha-sharma-birthrates-ai-fertility-2000672756",
+    "title": ""
+  },
+  {
+    "link": "https://www.politico.com/news/2026/02/23/the-bots-powering-nicki-minajs-maga-war-00771317?utm_medium=twitter&amp;utm_source=dlvr.it",
+    "title": ""
+  },
+  {
+    "link": "https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html",
+    "title": ""
+  },
+  {
+    "link": "https://www.theregister.com/2026/02/23/ibm_share_dive_anthropic_cobol/",
+    "title": ""
+  },
+  {
+    "link": "https://www.rollingstone.com/music/music-news/nicki-minaj-maga-posts-bots-report-1235521015/",
+    "title": ""
+  },
+  {
+    "link": "https://spectrum.ieee.org/age-verification",
+    "title": ""
+  },
+  {
+    "link": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
+    "title": ""
+  },
+  {
+    "link": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+    "title": ""
+  },
+  {
+    "link": "https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/",
+    "title": ""
+  },
+  {
+    "link": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "title": ""
+  },
+  {
+    "link": "https://www.bannedincalifornia.org/",
+    "title": ""
+  },
+  {
+    "link": "https://www.anthropic.com/news/statement-department-of-war",
+    "title": ""
+  },
+  {
+    "link": "https://twitter.com/jack/status/2027129697092731343",
+    "title": ""
+  },
+  {
+    "link": "https://amplifying.ai/research/claude-code-picks",
+    "title": ""
+  },
+  {
+    "link": "https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/",
+    "title": ""
+  },
+  {
+    "link": "https://blog.janestreet.com/can-you-reverse-engineer-our-neural-network/",
+    "title": ""
+  },
+  {
+    "link": "https://growingswe.com/blog/quadtrees",
+    "title": ""
+  },
+  {
+    "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
+    "title": ""
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/10/whoop-launches-a-new-blood-test-focused-on-womens-health/",
+    "title": "Whoop launches a new blood test focused on women’s health"
+  }
 ]
