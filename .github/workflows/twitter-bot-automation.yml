@@ -23,9 +23,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # ШИНЭ: fetch-depth 0 - бүх git history татах
+          ref: claude/twitter-bot-claude-setup-2cR85
           fetch-depth: 0
-          # ШИНЭ: token ашиглах - push хийхэд хэрэгтэй
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Node.js
@@ -42,6 +41,8 @@ jobs:
       # ШИНЭ: Одоогийн posted_links.json файлыг хуулах (backup)
       - name: Backup posted links
         run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           if [ -f data/posted_links.json ]; then
             cp data/posted_links.json data/posted_links.backup.json
             echo "✅ Backup хийгдлээ"
@@ -63,39 +64,38 @@ jobs:
       # ЗАСВАРЛАСАН: Posted links commit & push - илүү найдвартай
       - name: Commit and push posted links
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
+          BRANCH=claude/twitter-bot-claude-setup-2cR85
+
           # Git хувилбаруудыг шалгах
           echo "📝 Git статус:"
           git status
-          
+
           # posted_links.json файл өөрчлөгдсөн эсэхийг шалгах
           if [ -f data/posted_links.json ]; then
             git add data/posted_links.json
-            
+
             # Өөрчлөлт байгаа эсэхийг шалгах
             if git diff --staged --quiet; then
               echo "⚠️ Өөрчлөлт байхгүй, commit хийхгүй"
             else
               git commit -m "Update posted links [skip ci] - $(date +'%Y-%m-%d %H:%M:%S')"
-              
+
               # Push хийх - retry логиктой
               max_retries=3
               retry_count=0
-              
+
               while [ $retry_count -lt $max_retries ]; do
-                if git push; then
+                if git push origin HEAD:$BRANCH; then
                   echo "✅ Git push амжилттай!"
                   break
                 else
                   retry_count=$((retry_count + 1))
                   echo "⚠️ Push амжилтгүй, дахин оролдож байна ($retry_count/$max_retries)..."
                   sleep 5
-                  git pull --rebase origin HEAD || true
+                  git pull --rebase origin $BRANCH || true
                 fi
               done
-              
+
               if [ $retry_count -eq $max_retries ]; then
                 echo "❌ Git push амжилтгүй боллоо!"
                 exit 1
