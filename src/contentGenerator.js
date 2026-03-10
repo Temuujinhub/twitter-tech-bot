@@ -1,21 +1,20 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
+import Anthropic from '@anthropic-ai/sdk';
 import dotenv from 'dotenv';
+import path from 'path';
 
-dotenv.config();
+dotenv.config({ path: path.join(process.cwd(), 'config', '.env') });
 
-const genAI = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY);
+const anthropic = new Anthropic({
+  apiKey: process.env.ANTHROPIC_API_KEY,
+});
 
 export async function generateTweetContent(article) {
+  if (!process.env.ANTHROPIC_API_KEY) {
+    console.log('⚠️ ANTHROPIC_API_KEY тохируулагдаагүй. Fallback ашиглаж байна...');
+    return generateFallbackSummary(article);
+  }
+
   try {
-    const modelNames = [
-      "gemini-1.5-flash",
-      "gemini-1.5-pro",
-      "gemini-pro",
-      "gemini-2.0-flash-exp"
-    ];
-    
-    let lastError = null;
-    
     const prompt = `Та мэдээллийн агентлагийн мэргэжлийн сэтгүүлч. Технологийн мэдээг тодорхой, товч, мэдээллийн хэлбэрээр Монгол хэл дээр хүргэдэг.
 
 МЭДЭЭ:
@@ -39,27 +38,22 @@ export async function generateTweetContent(article) {
 "OpenAI-н GPT-4 загвар 95% нарийвчлалаар эмнэлгийн оношлогоонд хүний мэргэжилтнээс давсан нь шинжлэх ухааны сэтгүүлд нийтлэгдлээ. Энэ нь AI эрүүл мэндийн салбарт томоохон алхам болж байна. #Технологи #Инноваци #AI"
 
 ОДОО ДАРААХ МЭДЭЭГ ДҮГНЭ:`;
-    
-    for (const modelName of modelNames) {
-      try {
-        console.log(`🔄 ${modelName} оролдож байна...`);
-        const model = genAI.getGenerativeModel({ model: modelName });
-        const result = await model.generateContent(prompt);
-        const response = await result.response;
-        const text = response.text().trim();
-        console.log(`✅ Gemini товчлол амжилттай (model: ${modelName})`);
-        return text;
-      } catch (error) {
-        lastError = error;
-        console.log(`⚠️ ${modelName} алдаа: ${error.message.substring(0, 100)}...`);
-        continue;
-      }
-    }
-    
-    console.log('⚠️ Бүх Gemini model-ууд амжилтгүй боллоо. Fallback ашиглаж байна...');
-    return generateFallbackSummary(article);
+
+    console.log('🔄 Claude AI-д хандаж байна...');
+
+    const message = await anthropic.messages.create({
+      model: 'claude-haiku-4-5-20251001',
+      max_tokens: 400,
+      messages: [
+        { role: 'user', content: prompt }
+      ]
+    });
+
+    const text = message.content[0].text.trim();
+    console.log('✅ Claude AI товчлол амжилттай');
+    return text;
   } catch (error) {
-    console.log(`⚠️ Системийн алдаа: ${error.message}`);
+    console.log(`⚠️ Claude AI алдаа: ${error.message}`);
     return generateFallbackSummary(article);
   }
 }
@@ -69,11 +63,11 @@ function generateFallbackSummary(article) {
   let content = (article.description || article.title)
     .replace(/<[^>]*>/g, '')
     .trim();
-  
+
   if (content.length > 200) {
     content = content.substring(0, 197) + '...';
   }
-  
+
   return `${content}\n\n${hashtags}`;
 }
 
