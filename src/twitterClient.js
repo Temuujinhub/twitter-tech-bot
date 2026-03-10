@@ -39,38 +39,13 @@ export async function postTweet(client, text) {
 
 /**
  * Зурагтай tweet пост хийх
+ * Тайлбар: Twitter Free tier дээр v1.1 API (uploadMedia) байхгүй тул текст-л пост хийнэ
  */
 export async function postTweetWithImage(client, text, imagePath) {
-  try {
-    console.log(`\n📤 Зурагтай tweet илгээж байна...`);
-    console.log(`📝 Текст: ${text.substring(0, 100)}...`);
-    console.log(`🖼️  Зураг: ${imagePath}`);
-    
-    // Зургийг upload хийх
-    const imageBuffer = await fs.readFile(imagePath);
-    const mediaId = await client.v1.uploadMedia(imageBuffer, {
-      mimeType: 'image/jpeg'
-    });
-    
-    console.log(`✅ Зураг upload хийгдлээ. Media ID: ${mediaId}`);
-    
-    // Tweet илгээх
-    const tweet = await client.v2.tweet({
-      text: text,
-      media: { media_ids: [mediaId] }
-    });
-    
-    console.log(`✅ Зурагтай tweet амжилттай! ID: ${tweet.data.id}`);
-    console.log(`🔗 https://twitter.com/user/status/${tweet.data.id}`);
-    
-    return tweet.data;
-  } catch (error) {
-    console.error(`❌ Зурагтай tweet илгээхэд алдаа:`, error);
-    
-    // Fallback: Зураггүй пост хийх
-    console.log(`⚠️  Зураггүй пост хийж байна...`);
-    return await postTweet(client, text);
-  }
+  console.log(`\n📤 Tweet илгээж байна (Free tier - зураггүй)...`);
+  console.log(`📝 Текст: ${text.substring(0, 100)}...`);
+  console.log(`ℹ️  Зураг: ${imagePath} (Free tier дээр v1.1 upload боломжгүй, алгасаж байна)`);
+  return await postTweet(client, text);
 }
 
 /**
@@ -84,8 +59,9 @@ export async function getAccountInfo(client) {
     console.log(`✅ Twitter API холбогдсон!\n`);
     return user.data;
   } catch (error) {
-    console.error(`❌ Account мэдээлэл авахад алдаа:`, error);
-    throw error;
+    // Free tier дээр GET /2/users/me боломжгүй - bot үргэлжлэнэ
+    console.warn(`⚠️ Account шалгалт алдаа (Free tier хязгаарлалт, bot үргэлжлэнэ): ${error.message}`);
+    return null;
   }
 }
 
