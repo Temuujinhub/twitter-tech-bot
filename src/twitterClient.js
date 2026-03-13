@@ -39,13 +39,33 @@ export async function postTweet(client, text) {
 
 /**
  * Зурагтай tweet пост хийх
- * Тайлбар: Twitter Free tier дээр v1.1 API (uploadMedia) байхгүй тул текст-л пост хийнэ
+ * v1.1 uploadMedia API ашиглан зургийг Twitter-т upload хийж, зурагтай tweet илгээнэ.
+ * Алдаа гарвал зураггүй текст tweet-рүү буцна.
  */
 export async function postTweetWithImage(client, text, imagePath) {
-  console.log(`\n📤 Tweet илгээж байна (Free tier - зураггүй)...`);
+  console.log(`\n📤 Зурагтай Tweet илгээж байна...`);
   console.log(`📝 Текст: ${text.substring(0, 100)}...`);
-  console.log(`ℹ️  Зураг: ${imagePath} (Free tier дээр v1.1 upload боломжгүй, алгасаж байна)`);
-  return await postTweet(client, text);
+  console.log(`🖼️  Зураг upload хийж байна: ${imagePath}`);
+
+  try {
+    // v1.1 API ашиглан зургийг upload хийх
+    const mediaId = await client.v1.uploadMedia(imagePath);
+    console.log(`✅ Зураг upload амжилттай! Media ID: ${mediaId}`);
+
+    // Зурагтай tweet илгээх
+    const tweet = await client.v2.tweet({
+      text,
+      media: { media_ids: [mediaId] },
+    });
+
+    console.log(`✅ Зурагтай Tweet амжилттай! ID: ${tweet.data.id}`);
+    console.log(`🔗 https://twitter.com/user/status/${tweet.data.id}`);
+    return tweet.data;
+  } catch (error) {
+    console.warn(`⚠️ Зурагтай tweet илгээхэд алдаа: ${error.message}`);
+    console.log(`↩️  Зураггүй tweet илгээж байна...`);
+    return await postTweet(client, text);
+  }
 }
 
 /**
