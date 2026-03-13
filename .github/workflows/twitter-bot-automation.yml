@@ -23,7 +23,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: claude/twitter-bot-claude-setup-2cR85
+          ref: claude/fix-images-translations-iqpaG
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -64,7 +64,7 @@ jobs:
       # ЗАСВАРЛАСАН: Posted links commit & push - илүү найдвартай
       - name: Commit and push posted links
         run: |
-          BRANCH=claude/twitter-bot-claude-setup-2cR85
+          BRANCH=claude/fix-images-translations-iqpaG
 
           # Git хувилбаруудыг шалгах
           echo "📝 Git статус:"
