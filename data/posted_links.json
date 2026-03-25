@@ -390,5 +390,9 @@
   {
     "link": "https://techcrunch.com/2026/03/24/a-former-thiel-fellows-startup-just-launched-a-drone-it-says-can-replace-police-helicopters/",
     "title": "A former Thiel fellow’s startup just launched a drone it says can replace police helicopters"
+  },
+  {
+    "link": "https://github.com/BerriAI/litellm/issues/24512",
+    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised"
   }
 ]
