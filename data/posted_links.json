@@ -490,5 +490,9 @@
   {
     "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
     "title": "Why OpenAI really shut down Sora"
+  },
+  {
+    "link": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+    "title": "ChatGPT won't let you type until Cloudflare reads your React state"
   }
 ]
