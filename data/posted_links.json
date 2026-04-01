@@ -526,5 +526,9 @@
   {
     "link": "https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/",
     "title": "Hacker hijacks Axios open-source project, used by millions, to push malware"
+  },
+  {
+    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project"
   }
 ]
