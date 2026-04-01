@@ -530,5 +530,9 @@
   {
     "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
     "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project"
+  },
+  {
+    "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode"
   }
 ]
