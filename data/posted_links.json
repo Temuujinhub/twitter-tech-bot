@@ -570,5 +570,9 @@
   {
     "link": "https://browsergate.eu/",
     "title": "LinkedIn is searching your browser extensions"
+  },
+  {
+    "link": "https://deepmind.google/models/gemma/gemma-4/",
+    "title": "Google releases Gemma 4 open models"
   }
 ]
