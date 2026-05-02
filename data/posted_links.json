@@ -1146,5 +1146,9 @@
   {
     "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
     "title": "Ubuntu services hit by outages after DDoS attack"
+  },
+  {
+    "link": "https://github.com/darrylmorley/whatcable",
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables"
   }
 ]
