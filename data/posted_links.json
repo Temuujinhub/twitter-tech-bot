@@ -1166,5 +1166,9 @@
   {
     "link": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
     "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15"
+  },
+  {
+    "link": "https://github.com/microsoft/vscode/pull/310226",
+    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"
   }
 ]
