@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380",
-    "title": ""
-  },
-  {
     "link": "https://www.techspot.com/news/110196-data-centers-now-hoarding-ssds-hard-drive-supplies.html",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
     "title": "Ouster’s new color lidar is coming to replace cameras"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants"
   }
 ]
