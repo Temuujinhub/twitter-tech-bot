@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.techspot.com/news/110196-data-centers-now-hoarding-ssds-hard-drive-supplies.html",
-    "title": ""
-  },
-  {
     "link": "https://www.earth.com/news/process-microbes-turn-desert-sand-into-fertile-soil-in-just-10-months/",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
     "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious"
   }
 ]
