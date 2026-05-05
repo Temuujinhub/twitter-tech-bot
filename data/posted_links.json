@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://fortune.com/2026/02/24/discord-peter-thiel-backed-persona-identity-verification-breach/",
-    "title": ""
-  },
-  {
     "link": "https://kotaku.com/xbox-microsoft-asha-sharma-birthrates-ai-fertility-2000672756",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
     "title": "Bun is being ported from Zig to Rust"
+  },
+  {
+    "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+    "title": "Google DeepMind workers are unionizing over AI military contracts"
   }
 ]
