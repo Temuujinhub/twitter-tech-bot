@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.earth.com/news/process-microbes-turn-desert-sand-into-fertile-soil-in-just-10-months/",
-    "title": ""
-  },
-  {
     "link": "https://www.techspot.com/news/111431-sam-altman-compares-ai-energy-use-cost-training.html",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
     "title": "Sierra raises $950M as the race to own enterprise AI gets serious"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’"
   }
 ]
