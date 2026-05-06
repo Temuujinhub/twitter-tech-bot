@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html",
-    "title": ""
-  },
-  {
     "link": "https://www.theregister.com/2026/02/23/ibm_share_dive_anthropic_cobol/",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
     "title": ".de TLD offline due to DNSSEC?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round"
   }
 ]
