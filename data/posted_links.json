@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.bannedincalifornia.org/",
-    "title": ""
-  },
-  {
     "link": "https://www.anthropic.com/news/statement-department-of-war",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
     "title": "Google unveils Whoop-like screenless Fitbit Air"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity"
   }
 ]
