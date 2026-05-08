@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.anthropic.com/news/statement-department-of-war",
-    "title": ""
-  },
-  {
     "link": "https://twitter.com/jack/status/2027129697092731343",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
     "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity"
+  },
+  {
+    "link": "https://www.not-ship.com/burning-man-moop/",
+    "title": "The map that keeps Burning Man honest"
   }
 ]
