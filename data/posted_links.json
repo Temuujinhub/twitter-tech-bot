@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://growingswe.com/blog/quadtrees",
-    "title": ""
-  },
-  {
     "link": "https://blog.cloudflare.com/a-better-web-streams-api/",
     "title": ""
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
     "title": "Pentagon releases UFO files on new website"
+  },
+  {
+    "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "title": "Google broke reCAPTCHA for de-googled Android users"
   }
 ]
