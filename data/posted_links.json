@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-    "title": "Google brings Gemini in Chrome to India"
-  },
-  {
     "link": "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html",
     "title": "Tony Hoare has died"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
     "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway."
   }
 ]
