@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/11/tiktok-now-lets-apple-music-subscribers-play-full-songs-without-leaving-the-app/",
-    "title": "TikTok now lets Apple Music subscribers play full songs without leaving the app"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/",
     "title": "EV startup Harbinger reveals a smaller work truck with electric and hybrid variants"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
     "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+    "title": "The hottest place for startups to strike a deal? The F1 paddock"
   }
 ]
