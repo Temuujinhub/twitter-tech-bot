@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/11/anduril-snaps-up-space-surveillance-firm-exoanalytic-solutions/",
-    "title": "Anduril snaps up space surveillance firm ExoAnalytic Solutions"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/11/tiktok-now-lets-apple-music-subscribers-play-full-songs-without-leaving-the-app/",
     "title": "TikTok now lets Apple Music subscribers play full songs without leaving the app"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
     "title": "Internet Archive Switzerland"
+  },
+  {
+    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
+    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc"
   }
 ]
