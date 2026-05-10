@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/",
-    "title": "EV startup Harbinger reveals a smaller work truck with electric and hybrid variants"
-  },
-  {
     "link": "https://news.ycombinator.com/newsguidelines.html#generated",
     "title": "Don't post generated/AI-edited comments. HN is for conversation between humans"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
     "title": "The hottest place for startups to strike a deal? The F1 paddock"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic"
   }
 ]
