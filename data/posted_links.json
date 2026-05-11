@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/11/bci-startup-gestala-raises-21-million-for-non-invasive-ultrasound-brain-tech/",
     "title": "Chinese brain interface startup Gestala raises $21M just two months after launch"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic"
+  },
+  {
+    "link": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "title": "Hardware Attestation as Monopoly Enabler"
   }
 ]
