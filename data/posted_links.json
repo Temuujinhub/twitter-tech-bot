@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-    "title": "Shall I implement it? No"
-  },
-  {
     "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
     "title": "Future AI chips could be built on glass"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
     "title": "Thinking Machines wants to build an AI that actually listens while it talks"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+    "title": "Amazon launches 30-minute delivery across the U.S."
   }
 ]
