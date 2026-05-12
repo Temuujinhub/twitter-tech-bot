@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-    "title": "Future AI chips could be built on glass"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset/",
     "title": "Motional robotaxis join the Uber app in Vegas two years after major reset"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
     "title": "Amazon launches 30-minute delivery across the U.S."
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen"
   }
 ]
