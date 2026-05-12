@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-    "title": "Before quantum computing arrives, this startup wants enterprises already running on it"
-  },
-  {
     "link": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
     "title": "Shall I implement it? No"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
     "title": "Postmortem: TanStack npm supply-chain compromise"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+    "title": "Thinking Machines wants to build an AI that actually listens while it talks"
   }
 ]
