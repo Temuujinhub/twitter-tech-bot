@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/policy/895039/trump-10-billion-tiktok",
-    "title": "Trump administration is allegedly collecting $10 billion on the TikTok deal"
-  },
-  {
     "link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
     "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
     "title": "You can make an app for that"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
+    "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared"
   }
 ]
