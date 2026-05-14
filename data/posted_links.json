@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review",
-    "title": "Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
     "title": "Wiz investor unpacks Google’s $32B acquisition"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
     "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang"
   }
 ]
