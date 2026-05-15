@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
-    "title": "The billionaires made a promise — now some want out"
-  },
-  {
     "link": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop",
     "title": "My fitness tracker is a secret weapon against my chronic illness"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
     "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+    "title": "AI research papers are getting better, and it’s a big problem for scientists"
   }
 ]
