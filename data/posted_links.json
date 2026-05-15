@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/features/889835/fitness-trackers-chronic-illness-visible-whoop",
-    "title": "My fitness tracker is a secret weapon against my chronic illness"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/16/walmart-backed-phonepe-shelves-ipo-as-global-tensions-rattle-markets/",
     "title": "Walmart-backed PhonePe shelves IPO as global tensions rattle markets"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
     "title": "AI research papers are getting better, and it’s a big problem for scientists"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
+    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI."
   }
 ]
