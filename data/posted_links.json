@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace"
-  },
-  {
     "link": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review",
     "title": "Hands on with Aqara’s new Matter-compatible camera"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
     "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more"
+  },
+  {
+    "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+    "title": "Xbox is now XBOX"
   }
 ]
