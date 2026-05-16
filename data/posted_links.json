@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/895326/aqara-g350-matter-camera-samsung-smartthings-hands-on-review",
-    "title": "Hands on with Aqara’s new Matter-compatible camera"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
     "title": "MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
     "title": "Xbox is now XBOX"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+    "title": "Users turn to jailbreaking their older Kindles as Amazon ends support"
   }
 ]
