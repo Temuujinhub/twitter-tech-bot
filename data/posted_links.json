@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-    "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
     "title": "This startup wants to make enterprise software look more like a prompt"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
     "title": "Oddity is masterfully tense horror from the director of Hokum"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis"
   }
 ]
