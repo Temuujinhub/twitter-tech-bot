@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-    "title": "Microsoft's 'unhackable' Xbox One has been hacked by 'Bliss'"
-  },
-  {
     "link": "https://terathon.com/blog/decade-slug.html",
     "title": "A Decade of Slug"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
     "title": "Moving away from Tailwind, and learning to structure my CSS"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "title": "The haves and have nots of the AI gold rush"
   }
 ]
