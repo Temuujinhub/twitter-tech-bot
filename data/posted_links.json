@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-    "title": "What do new nuclear reactors mean for waste?"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
     "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://crates.io/crates/zerostack/1.0.0",
     "title": "Zerostack – A Unix-inspired coding agent written in pure Rust"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+    "title": "Oddity is masterfully tense horror from the director of Hokum"
   }
 ]
