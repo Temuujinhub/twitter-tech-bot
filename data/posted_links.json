@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
-    "title": "This startup wants to make enterprise software look more like a prompt"
-  },
-  {
     "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
     "title": "Rob Pike’s Rules of Programming (1989)"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
     "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis"
+  },
+  {
+    "link": "https://github.com/tech4bot/rk3562deb",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation"
   }
 ]
