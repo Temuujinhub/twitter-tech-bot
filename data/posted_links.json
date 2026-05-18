@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-    "title": "Multiverse Computing pushes its compressed AI models into the mainstream"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/",
     "title": "K2 to launch its first high-powered satellite for space compute"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
     "title": "South Korea’s LetinAR is building optics behind AI glasses"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+    "title": "Kin Health raises $9M to build an AI notetaker for patients"
   }
 ]
