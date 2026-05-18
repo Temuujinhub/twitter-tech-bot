@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
-    "title": "Rob Pike’s Rules of Programming (1989)"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
     "title": "Meta is having trouble with rogue AI agents"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/tech4bot/rk3562deb",
     "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation"
+  },
+  {
+    "link": "https://github.com/MinishLab/semble",
+    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep"
   }
 ]
