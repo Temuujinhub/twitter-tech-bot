@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-    "title": "Meta is having trouble with rogue AI agents"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
     "title": "Multiverse Computing pushes its compressed AI models into the mainstream"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/MinishLab/semble",
     "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses"
   }
 ]
