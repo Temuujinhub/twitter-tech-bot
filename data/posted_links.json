@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/19/meta-decides-not-to-shut-down-horizon-worlds-on-vr-after-all/",
-    "title": "Meta decides not to shut down Horizon Worlds on VR after all"
-  },
-  {
     "link": "https://www.theverge.com/games/897765/valve-steamos-3-8-update-steam-deck-hibernation-steam-machine-xbox-ally",
     "title": "Valve’s huge SteamOS 3.8 update adds long-awaited features — and supports Steam Machine"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
     "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people"
+  },
+  {
+    "link": "https://github.com/zakirullin/files.md",
+    "title": "Show HN: Files.md – Open-source alternative to Obsidian"
   }
 ]
