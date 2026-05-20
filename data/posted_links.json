@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/reviews/898580/peakdo-linkpower-2-review-starlink-mini-battery",
-    "title": "The improved battery-powered Starlink Mini is here"
-  },
-  {
     "link": "https://www.theverge.com/entertainment/895435/oeuf-review",
     "title": "Oeuf is a punishing platformer in a cozy shell"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
     "title": "Android 17 is getting its own version of Apple&#8217;s Handoff"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
+    "title": "Customers say Trump Mobile is leaking their personal information"
   }
 ]
