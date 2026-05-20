@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput"
-  },
-  {
     "link": "https://opencode.ai/",
     "title": "OpenCode – Open source AI coding agent"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
     "title": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
+    "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts"
   }
 ]
