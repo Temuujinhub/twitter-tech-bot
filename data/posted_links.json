@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-    "title": "Some things just take time"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
     "title": "Are AI tokens the new signing bonus or just a cost of doing business?"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
     "title": "Truecaller gets into the eSIM business to diversify its revenue streams"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "title": "Scammers are abusing an internal Microsoft account to send spam links"
   }
 ]
