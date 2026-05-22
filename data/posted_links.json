@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-    "title": "Confronting the CEO of the AI company that impersonated me"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
     "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "title": "We tried Google’s AI glasses and they’re almost there"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+    "title": "Kash Patel’s clothing brand website shut down after reports it was hacked"
   }
 ]
