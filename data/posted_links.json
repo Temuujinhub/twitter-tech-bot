@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way"
-  },
-  {
     "link": "https://twitter.com/anemll/status/2035901335984611412",
     "title": "iPhone 17 Pro Demonstrated Running a 400B LLM"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
     "title": "Kash Patel’s clothing brand website shut down after reports it was hacked"
+  },
+  {
+    "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+    "title": "Why Japanese companies do so many different things"
   }
 ]
