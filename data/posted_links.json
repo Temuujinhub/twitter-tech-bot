@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/BerriAI/litellm/issues/24512",
-    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised"
-  },
-  {
     "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
     "title": "The AI Hype Index: AI goes to war"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
     "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest"
+  },
+  {
+    "link": "https://benmyers.dev/blog/on-the-dl/",
+    "title": "On The <dl> (2021)"
   }
 ]
