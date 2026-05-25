@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/26/a-major-hacking-tool-has-leaked-online-putting-millions-of-iphones-at-risk-heres-what-you-need-to-know/",
-    "title": "A major hacking tool has leaked online, putting millions of iPhones at risk. Here’s what you need to know"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
     "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
     "title": "The pope’s AI encyclical isn’t really about AI"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "title": "What ClickUp’s mass layoff tells us about the future of work"
   }
 ]
