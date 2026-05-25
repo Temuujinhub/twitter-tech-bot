@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-    "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
     "title": "The least surprising chapter of the Manus story is what’s happening right now"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
     "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out"
+  },
+  {
+    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost"
   }
 ]
