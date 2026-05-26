@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-    "title": "David Sacks is done as AI czar — here’s what he’s doing instead"
-  },
-  {
     "link": "https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam",
     "title": "Why so many control rooms were seafoam green (2025)"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
     "title": "California moves to exempt Linux from its age-verification law after backlash"
+  },
+  {
+    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "title": "Using AI to write better code more slowly"
   }
 ]
