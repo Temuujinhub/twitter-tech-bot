@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/26/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/",
-    "title": "Silicon Valley’s two biggest dramas have intersected: LiteLLM and Delve"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
     "title": "David Sacks is done as AI czar — here’s what he’s doing instead"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
     "title": "What ClickUp’s mass layoff tells us about the future of work"
+  },
+  {
+    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
+    "title": "California moves to exempt Linux from its age-verification law after backlash"
   }
 ]
