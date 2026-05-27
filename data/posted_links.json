@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "title": "Anatomy of the .claude/ folder"
-  },
-  {
     "link": "https://www.theverge.com/reviews/899289/bluetti-sora-500-review-portable-solar-panel",
     "title": "Bluetti’s Sora 500 solar panel is incredibly powerful for its size"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
     "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation"
   }
 ]
