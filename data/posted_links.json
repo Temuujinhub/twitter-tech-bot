@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/27/whoop-has-lebron-now-it-wants-your-mom/",
-    "title": "Whoop has LeBron – now it wants your mom"
-  },
-  {
     "link": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
     "title": "Anatomy of the .claude/ folder"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
     "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
+    "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames"
   }
 ]
