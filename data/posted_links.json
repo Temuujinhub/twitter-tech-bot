@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/28/what-will-power-the-grid-in-2035-the-race-is-wide-open/",
-    "title": "What will power the grid in 2035? The race is wide open"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
     "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
     "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup"
+  },
+  {
+    "link": "https://mlsu.io/posts/day-off/",
+    "title": "Can we have the day off?"
   }
 ]
