@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing"
-  },
-  {
     "link": "https://sytse.com/cancer/",
     "title": "Founder of GitLab battles cancer by founding companies"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://mlsu.io/posts/day-off/",
     "title": "Can we have the day off?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880"
   }
 ]
