@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://sytse.com/cancer/",
-    "title": "Founder of GitLab battles cancer by founding companies"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
     "title": "Bluesky leans into AI with Attie, an app for building custom feeds"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
     "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
+    "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399"
   }
 ]
