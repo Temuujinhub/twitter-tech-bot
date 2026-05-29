@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-    "title": "Inside the stealthy startup that pitched brainless human clones"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
     "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
     "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans"
+  },
+  {
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "title": "What happens when companies become too AI-pilled?"
   }
 ]
