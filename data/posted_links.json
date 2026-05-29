@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/29/sxsw-rebounds-as-a-top-networking-ideas-festival-for-founders-and-vcs/",
-    "title": "SXSW rebounds as a top networking, ideas festival for founders and VCs"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
     "title": "Why OpenAI really shut down Sora"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
     "title": "Claude Opus 4.8"
+  },
+  {
+    "link": "https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays",
+    "title": "Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor"
   }
 ]
