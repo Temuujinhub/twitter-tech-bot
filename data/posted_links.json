@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
-    "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO."
-  },
-  {
     "link": "https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/",
     "title": "Airbnb is introducing a private car pick-up service"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
     "title": "SQLite is all you need for durable workflows"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026"
   }
 ]
