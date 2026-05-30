@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://nbailey.ca/post/router/",
-    "title": "How to turn anything into a router"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/",
     "title": "Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO."
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
     "title": "The dead economy theory"
+  },
+  {
+    "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "title": "SQLite is all you need for durable workflows"
   }
 ]
