@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project"
-  },
-  {
     "link": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
     "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "title": "SoftBank says it will invest up to €75 billion to build French data centers"
+  },
+  {
+    "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "title": "Domain expertise has always been the real moat"
   }
 ]
