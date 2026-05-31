@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/03/31/hacker-hijacks-axios-open-source-project-used-by-millions-to-push-malware/",
-    "title": "Hacker hijacks Axios open-source project, used by millions, to push malware"
-  },
-  {
     "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
     "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
     "title": "Microsoft degrades functionality of perpetually-licensed offline products"
+  },
+  {
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers"
   }
 ]
