@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/02/diverse-teams-start-with-diverse-vcs/",
     "title": "Diverse teams start with diverse VCs"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
     "title": "Water access is now a risk factor in SpaceX’s IPO"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
+    "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access"
   }
 ]
