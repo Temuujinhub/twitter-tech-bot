@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "title": "Live: Artemis II Launch Day Updates"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/",
     "title": "De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
     "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms"
   }
 ]
