@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://deepmind.google/models/gemma/gemma-4/",
-    "title": "Google releases Gemma 4 open models"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/02/amazon-hits-sellers-with-fuel-surcharge-as-iran-war-roils-global-energy-markets/",
     "title": "Amazon hits sellers with ‘fuel surcharge’ as Iran war roils global energy markets"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
     "title": "ZeroDrift raises $10 million to protect AI models from themselves"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/",
+    "title": "Focused Energy raises whopping $240M Series A for laser-powered fusion tech"
   }
 ]
