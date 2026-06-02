@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://browsergate.eu/",
-    "title": "LinkedIn is searching your browser extensions"
-  },
-  {
     "link": "https://deepmind.google/models/gemma/gemma-4/",
     "title": "Google releases Gemma 4 open models"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
     "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+    "title": "ZeroDrift raises $10 million to protect AI models from themselves"
   }
 ]
