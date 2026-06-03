@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-    "title": "Artemis II crew take “spectacular” image of Earth"
-  },
-  {
     "link": "https://www.theverge.com/reviews/906455/anker-nebula-p1-review-vanlife-sound-champ",
     "title": "Anker’s Nebula P1 projector is the portable sound king"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
     "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/03/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool/",
+    "title": "Ultrahuman says hackers accessed customers’ wellness data via internal tool"
   }
 ]
