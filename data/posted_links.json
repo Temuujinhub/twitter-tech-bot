@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
-    "title": "Apple’s best product ever"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
     "title": "The Facebook insider building content moderation for the AI era"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/02/a-startup-everand-is-now-bundling-ebooks-audiobooks-and-book-clubs-in-challenge-to-amazon/",
     "title": "A startup, Everand, is now bundling ebooks, audiobooks, and book clubs in challenge to Amazon"
+  },
+  {
+    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "title": "Gmail thinks I'm stupid, so I left"
   }
 ]
