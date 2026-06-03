@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-    "title": "The Facebook insider building content moderation for the AI era"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
     "title": "Gmail thinks I'm stupid, so I left"
+  },
+  {
+    "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+    "title": "AI has a water problem. Google thinks it has a fix"
   }
 ]
