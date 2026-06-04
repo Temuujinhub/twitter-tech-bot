@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://jaso1024.com/mvidia/",
-    "title": "Show HN: A game where you build a GPU"
-  },
-  {
     "link": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
     "title": "How many products does Microsoft have named 'Copilot'?"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
     "title": "Shokz upgraded its open earbuds with better sound and a lighter design"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+    "title": "Amazon develops a warehouse robot workers can speak to"
   }
 ]
