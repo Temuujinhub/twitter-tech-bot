@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants"
-  },
-  {
     "link": "https://lalitm.com/post/building-syntaqlite-ai/",
     "title": "Eight years of wanting, three months of building with AI"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
     "title": "Mira Murati steps back into the spotlight, carefully"
+  },
+  {
+    "link": "https://github.com/anthropics/defending-code-reference-harness",
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery"
   }
 ]
