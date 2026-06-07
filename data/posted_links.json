@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.anthropic.com/glasswing",
-    "title": "Project Glasswing: Securing critical software for the AI era"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
     "title": "Google quietly launched an AI dictation app that works offline"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
     "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ"
+  },
+  {
+    "link": "https://ntsc.rs/",
+    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
   }
 ]
