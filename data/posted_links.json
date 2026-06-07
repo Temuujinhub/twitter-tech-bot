@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/",
-    "title": "A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me."
-  },
-  {
     "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
     "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
     "title": "Beyond Instagram: Introducing the next generation of social apps"
+  },
+  {
+    "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
   }
 ]
