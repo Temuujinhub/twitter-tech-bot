@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand"
-  },
-  {
     "link": "https://www.anthropic.com/glasswing",
     "title": "Project Glasswing: Securing critical software for the AI era"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
     "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot"
+  },
+  {
+    "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+    "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ"
   }
 ]
