@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/909060/amflows-latest-e-bikes-raise-the-bar-again",
-    "title": "Amflow’s latest e-bikes raise the bar again"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/08/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-todays-june-8-deadline/",
     "title": "How to apply to Startup Battlefield 2026, what you need ahead of today’s June 8 deadline"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+    "title": "Apple’s long-awaited AI Siri overhaul is finally here"
   }
 ]
