@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://piechowski.io/post/git-commands-before-reading-code/",
-    "title": "Git commands I run before reading any code"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/08/wireguard-vpn-developer-cant-ship-software-updates-after-microsoft-locks-account/",
     "title": "WireGuard VPN developer can’t ship software updates after Microsoft locks account"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
     "title": "Why this year’s World Cup ball may not fly as far"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/08/uber-wayve-and-waymo-are-headed-towards-a-robotaxi-showdown-in-london/",
+    "title": "Uber, Wayve and Waymo are headed towards a robotaxi showdown in London"
   }
 ]
