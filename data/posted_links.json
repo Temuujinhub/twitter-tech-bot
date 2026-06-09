@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
-    "title": "Microsoft starts removing Copilot buttons from Windows 11 apps"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
     "title": "Every fusion startup that has raised over $100M"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
     "title": "Apple says it may remove some apps from the App Store if they don’t attract users"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "title": "Anthropic’s Claude Fable is a version of Mythos the public can access today"
   }
 ]
