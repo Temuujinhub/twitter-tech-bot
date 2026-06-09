@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
-    "title": "Native Instant Space Switching on macOS"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
     "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://vorpus.github.io/performativeUI/",
     "title": "Show HN: Performative-UI – A react component library of design tropes"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
+    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station"
   }
 ]
