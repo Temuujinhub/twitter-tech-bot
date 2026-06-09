@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/09/avecs-tinder-styled-email-app-allows-you-to-swipe-through-your-inbox/",
-    "title": "Avec’s Tinder-styled email app allows you to swipe through your inbox"
-  },
-  {
     "link": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
     "title": "Native Instant Space Switching on macOS"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
     "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet"
+  },
+  {
+    "link": "https://vorpus.github.io/performativeUI/",
+    "title": "Show HN: Performative-UI – A react component library of design tropes"
   }
 ]
