@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/",
-    "title": "Florida AG to probe OpenAI, alleging possible connection to FSU shooting"
-  },
-  {
     "link": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
     "title": "Microsoft starts removing Copilot buttons from Windows 11 apps"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
     "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
+    "title": "Apple says it may remove some apps from the App Store if they don’t attract users"
   }
 ]
