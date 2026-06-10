@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
-    "title": "France to ditch Windows for Linux to reduce reliance on US tech"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
     "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
     "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "title": "Meta signs first AI data center deal in India with Reliance"
   }
 ]
