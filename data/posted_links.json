@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/10/every-fusion-startup-that-has-raised-over-100m/",
-    "title": "Every fusion startup that has raised over $100M"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech/",
     "title": "France to ditch Windows for Linux to reduce reliance on US tech"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
     "title": "Anthropic’s Claude Fable is a version of Mythos the public can access today"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
+    "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup"
   }
 ]
