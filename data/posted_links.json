@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/10/nasa-artemis-ii-landing-pacific-ocean-splash-down/",
-    "title": "NASA Artemis II splashes down in Pacific Ocean in ‘perfect’ landing for Moon mission"
-  },
-  {
     "link": "https://rowan441.github.io/1dchess/chess.html",
     "title": "1D Chess"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
     "title": "Meta signs first AI data center deal in India with Reliance"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/10/avalanches-desktop-fusion-reactor-delivers-blistering-hot-plasma/",
+    "title": "Avalanche’s desktop fusion reactor delivers blistering-hot plasma"
   }
 ]
