@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-    "title": "Small models also found the vulnerabilities that Mythos found"
-  },
-  {
     "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
     "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
     "title": "Anthropic taps TCS to scale its enterprise AI deployments"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others"
   }
 ]
