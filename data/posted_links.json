@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/910717/netherlands-tesla-supervised-full-self-driving",
-    "title": "The Netherlands is the first European country to approve Tesla’s supervised Full Self-Driving"
-  },
-  {
     "link": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
     "title": "The Hisense UR9 is a great first shot against OLED’s bow"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+    "title": "Meta’s Edits app is getting an AI assistant and a desktop version"
   }
 ]
