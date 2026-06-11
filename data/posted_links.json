@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/11/walmart-owned-flipkart-amazon-are-squeezing-indias-quick-commerce-startups/",
-    "title": "Walmart-owned Flipkart, Amazon are squeezing India’s quick commerce startups"
-  },
-  {
     "link": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
     "title": "Small models also found the vulnerabilities that Mythos found"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee",
     "title": "Ryanair is under investigation over charging parents to sit with their kids"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+    "title": "Anthropic taps TCS to scale its enterprise AI deployments"
   }
 ]
