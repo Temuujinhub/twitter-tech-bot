@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms"
-  },
-  {
     "link": "https://essays.johnloeber.com/p/4-bring-back-idiomatic-design",
     "title": "Bring Back Idiomatic Design (2023)"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
     "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale"
+  },
+  {
+    "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+    "title": "Siri won’t be your AI girlfriend"
   }
 ]
