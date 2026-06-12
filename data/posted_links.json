@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
-    "title": "Sam Altman reportedly targeted in second attack"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
     "title": "Slate Auto raises $650M to fund its affordable EV truck plans"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/12/elon-musk-becomes-the-worlds-first-trillionaire-after-spacexs-historic-ipo/",
     "title": "Elon Musk becomes the world’s first trillionaire after SpaceX’s historic IPO"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "title": "Mistral is rumored to be raising €3B at €20 valuation"
   }
 ]
