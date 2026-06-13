@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-    "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility/",
     "title": "An Amazon warehouse worker died on the job at Oregon facility"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
     "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
+    "title": "The FBI built its own replica small town to simulate real-world cyberattacks"
   }
 ]
