@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-    "title": "Slate Auto raises $650M to fund its affordable EV truck plans"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
     "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
     "title": "Mistral is rumored to be raising €3B at €20 valuation"
+  },
+  {
+    "link": "https://www.anthropic.com/news/fable-mythos-access",
+    "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5"
   }
 ]
