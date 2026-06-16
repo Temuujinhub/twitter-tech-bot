@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/",
-    "title": "Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
     "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.iroh.computer/blog/v1",
     "title": "Iroh 1.0"
+  },
+  {
+    "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
+    "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones"
   }
 ]
