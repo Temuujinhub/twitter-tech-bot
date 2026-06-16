@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/",
-    "title": "New leaders, new fund: Sequoia has raised $7B to expand its AI bets"
-  },
-  {
     "link": "https://www.anthropic.com/news/claude-opus-4-7",
     "title": "Claude Opus 4.7"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
     "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+    "title": "Probably raises $9M to build a more reliable kind of AI"
   }
 ]
