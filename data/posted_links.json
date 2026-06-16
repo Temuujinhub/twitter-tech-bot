@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.anthropic.com/news/claude-opus-4-7",
-    "title": "Claude Opus 4.7"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
     "title": "Factory hits $1.5B valuation to build AI coding for enterprises"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
     "title": "Probably raises $9M to build a more reliable kind of AI"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
+    "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business"
   }
 ]
