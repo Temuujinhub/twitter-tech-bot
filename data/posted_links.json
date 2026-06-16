@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
-    "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/16/two-americans-sentenced-for-helping-north-korea-steal-5-million-in-fake-it-worker-scheme/",
     "title": "Two Americans sentenced for helping North Korea steal $5 million in fake IT worker scheme"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
     "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms"
+  },
+  {
+    "link": "https://www.iroh.computer/blog/v1",
+    "title": "Iroh 1.0"
   }
 ]
