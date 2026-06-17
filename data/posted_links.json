@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder."
-  },
-  {
     "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
     "title": "The App Store is booming again, and AI may be why"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
     "title": "Google bets on Gemini to reinvent the smart home speaker"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names"
   }
 ]
