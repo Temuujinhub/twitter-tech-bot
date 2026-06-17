@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/17/uber-will-now-pick-up-your-returns-from-your-doorstep/",
-    "title": "Uber will now pick up your returns from your doorstep"
-  },
-  {
     "link": "https://www.anthropic.com/news/claude-design-anthropic-labs",
     "title": "Claude Design"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "title": "Running local models is good now"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+    "title": "The next humanoid robot might not look human at all"
   }
 ]
