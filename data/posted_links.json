@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/17/once-close-enough-for-an-acquisition-stripe-and-airwallex-are-now-going-after-each-other/",
-    "title": "Once close enough for an acquisition, Stripe and Airwallex are now going after each other"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
     "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder."
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
     "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "title": "Google bets on Gemini to reinvent the smart home speaker"
   }
 ]
