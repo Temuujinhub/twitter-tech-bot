@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
-    "title": "Migrating from DigitalOcean to Hetzner"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
     "title": "Tesla brings its robotaxi service to Dallas and Houston"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
     "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences"
   }
 ]
