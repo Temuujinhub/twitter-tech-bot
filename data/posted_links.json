@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
-    "title": "Anthropic’s relationship with the Trump administration seems to be thawing"
-  },
-  {
     "link": "https://isayeter.com/posts/digitalocean-to-hetzner-migration/",
     "title": "Migrating from DigitalOcean to Hetzner"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
     "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
+    "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX"
   }
 ]
