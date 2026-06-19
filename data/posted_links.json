@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
-    "title": "Vercel April 2026 security incident"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
     "title": "OpenAI’s existential questions"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
     "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/951638/sugar-season-2-colin-farrell-interview-apple-tv",
+    "title": "In season 2 of Sugar, Colin Farrell’s quirky detective becomes much more human"
   }
 ]
