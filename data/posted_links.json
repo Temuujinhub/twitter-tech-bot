@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
-    "title": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date"
-  },
-  {
     "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
     "title": "Vercel April 2026 security incident"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
     "title": "Barret Zoph is out at OpenAI again after just five months"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t"
   }
 ]
