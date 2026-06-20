@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/20/rivians-factory-hit-by-tornado-ahead-of-r2-launch/",
-    "title": "Rivian’s factory hit by tornado ahead of R2 launch"
-  },
-  {
     "link": "https://www.theverge.com/tech/914832/birdfy-feeder-metal-2-4k-wide-angle-camera-ornisense-ai-price-availability",
     "title": "Birdfy’s new 4K feeder wants to teach you about the birds it identifies"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
     "title": "Every fusion startup that has raised over $100M"
+  },
+  {
+    "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "title": "Hyundai buys Boston Dynamics"
   }
 ]
