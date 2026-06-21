@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/916463/anker-thus-chip-announcement",
-    "title": "Anker made its own chip to bring AI to all its products"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
     "title": "OpenAI teams up with Infosys to bring AI tools to more businesses"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
     "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/",
+    "title": "Polymarket reportedly paid creators to post deceptive videos about fake bets"
   }
 ]
