@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://frame.work/laptop13pro",
-    "title": "Framework Laptop 13 Pro"
-  },
-  {
     "link": "https://lawsofsoftwareengineering.com",
     "title": "Laws of Software Engineering"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/mysk-research/loupe",
     "title": "Loupe – A iOS app that raises awareness about what native apps can see"
+  },
+  {
+    "link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
+    "title": "Sony’s Xperia 1 VIII is still a phone for the fans"
   }
 ]
