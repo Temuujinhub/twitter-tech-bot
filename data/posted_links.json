@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-    "title": "India’s app market is booming — but global platforms are capturing most of the gains"
-  },
-  {
     "link": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
     "title": "Honor’s new phones look like iPhones for Android"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/",
     "title": "Instagram looks to take on streaming services with longer-form, episodic and live formats for its TV app"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab"
   }
 ]
