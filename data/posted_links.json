@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
-    "title": "Saros is pure action nirvana"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
     "title": "China’s DeepSeek previews new AI model a year after jolting US rivals "
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
     "title": "The best Prime Day deals we found on our favorite gear"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
+    "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach"
   }
 ]
