@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-    "title": "Google plans to invest up to $40B in Anthropic"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/24/steve-ballmer-blasts-founder-he-backed-who-pleaded-guilty-to-fraud-i-was-duped-and-feel-silly/",
     "title": "Steve Ballmer blasts founder he backed who pleaded guilty to fraud: ‘I was duped and feel silly’"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale",
     "title": "The Dyson PencilWash is down to its lowest price ever for Prime Day"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
+    "title": "Zoox upgrades its robotaxi as it prepares for commercial service"
   }
 ]
