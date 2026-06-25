@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "title": "Why Tokyo is the most important tech destination of 2026"
-  },
-  {
     "link": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
     "title": "New 10 GbE USB adapters are cooler, smaller, cheaper"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "title": "OpenAI unveils its first custom chip, built by Broadcom"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+    "title": "Europe is pushing back on Washington’s chip war"
   }
 ]
