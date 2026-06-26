@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-    "title": "Meta inks deal for solar power at night, beamed from space"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/27/whats-behind-europes-efforts-to-ditch-u-s-software-in-favor-of-sovereign-tech/",
     "title": "What’s behind Europe’s efforts to ditch US software in favor of sovereign tech"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
     "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/",
+    "title": "Tesla settles FSD crash lawsuit as federal investigations continue"
   }
 ]
