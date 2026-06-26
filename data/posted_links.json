@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
-    "title": "After three months on Linux, I don’t miss Windows at all"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
     "title": "To buy this Bay Area home, you’ll need Anthropic equity"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
     "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world"
+  },
+  {
+    "link": "https://scrollprize.org/firstscroll",
+    "title": "An entire Herculaneum scroll has been read for the first time"
   }
 ]
