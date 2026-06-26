@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-    "title": "I bought Friendster for $30k – Here's what I'm doing with it"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
     "title": "Meta inks deal for solar power at night, beamed from space"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/957597/samsung-smartthings-api-charges",
     "title": "Samsung will soon start charging to access its smart home API"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
+    "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that"
   }
 ]
