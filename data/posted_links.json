@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/27/drizzle-on-top-a-new-high-end-dog-food-brand-is-coming-for-the-1/",
-    "title": "Drizzle on top: a new high-end dog food brand is coming for the 1%"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
     "title": "Attack of the killer script kiddies"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "title": "Previewing GPT‑5.6 Sol: a next-generation model"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back."
   }
 ]
