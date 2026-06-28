@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/28/how-one-venture-firm-is-navigating-an-increasingly-fragmented-world/",
-    "title": "How one venture firm is investing in an increasingly fragmented world"
-  },
-  {
     "link": "https://mitchellh.com/writing/ghostty-leaving-github",
     "title": "Ghostty is leaving GitHub"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
     "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem"
+  },
+  {
+    "link": "https://github.com/bikini/exploitarium",
+    "title": "Anonymous GitHub account mass-dropping undisclosed 0-days"
   }
 ]
