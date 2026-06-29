@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://zed.dev/blog/zed-1-0",
-    "title": "Zed 1.0"
-  },
-  {
     "link": "https://www.theverge.com/games/921064/sony-playstation-drm-online-license-statement",
     "title": "PlayStation now requires a ‘one-time online check’ to confirm you own a game"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/",
     "title": "Flipper Device’s new Busy Bar is a customizable display for productivity"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "title": "TIDAL cracks down on AI music by cutting off monetization"
   }
 ]
