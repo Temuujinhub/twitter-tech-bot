@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/29/apple-epic-games-app-store-fees-pause-changes-supreme-court/",
-    "title": "Apple loses bid to pause App Store fee changes as case heads to Supreme Court"
-  },
-  {
     "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
     "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
     "title": "TechCrunch Mobility: All eyes on Tesla FSD"
+  },
+  {
+    "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "title": "GLM 5.2 beats Claude in our benchmarks"
   }
 ]
