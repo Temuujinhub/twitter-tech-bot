@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-    "title": "Salesforce is crowdsourcing its AI roadmap — with customers "
-  },
-  {
     "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "title": "The AI jobs debate just got messier"
+  },
+  {
+    "link": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "title": "Qwen 3.6 27B is the sweet spot for local development"
   }
 ]
