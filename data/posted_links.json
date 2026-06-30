@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-    "title": "Trump’s mass firing just dealt another blow to American science"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/01/people-are-finally-using-reddits-search/",
     "title": "People are finally using Reddit’s search"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
     "title": "X now offers an MCP server to make its platform easier for AI tools to use"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/",
+    "title": "Threads adds new features to Live Chats as it expands access"
   }
 ]
