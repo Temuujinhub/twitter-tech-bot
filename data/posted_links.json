@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://twitter.com/theo/status/2049645973350363168",
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\""
-  },
-  {
     "link": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
     "title": "Trump’s mass firing just dealt another blow to American science"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other"
+  },
+  {
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use"
   }
 ]
