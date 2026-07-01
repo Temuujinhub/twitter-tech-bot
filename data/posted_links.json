@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/darrylmorley/whatcable",
-    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
     "title": "Uber wants to turn its millions of drivers into a sensor grid for self-driving companies"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
     "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart"
+  },
+  {
+    "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
+    "title": "Range anxiety"
   }
 ]
