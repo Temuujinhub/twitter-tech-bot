@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/01/ubuntu-services-hit-by-outages-after-ddos-attack/",
-    "title": "Ubuntu services hit by outages after DDoS attack"
-  },
-  {
     "link": "https://github.com/darrylmorley/whatcable",
     "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "title": "The “Father of the Internet” is finally retiring"
+  },
+  {
+    "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
+    "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart"
   }
 ]
