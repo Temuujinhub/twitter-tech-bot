@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-    "title": "Ti-84 Evo"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
     "title": "Beyond Lovable and Mistral: 21 European startups to watch"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
     "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
+    "title": "Even Honda is pivoting to data centers"
   }
 ]
