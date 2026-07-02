@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-    "title": "Beyond Lovable and Mistral: 21 European startups to watch"
-  },
-  {
     "link": "https://www.theverge.com/gadgets/922288/native-union-anker-2-in-1-usb-c-cable-mothers-day-sale-deal",
     "title": "Anker’s discounted 2-in-1 USB-C cable is a great way to spend $15"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
     "title": "Even Honda is pivoting to data centers"
+  },
+  {
+    "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+    "title": "For first time, a cell built from scratch grows and divides"
   }
 ]
