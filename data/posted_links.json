@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/microsoft/vscode/pull/310226",
-    "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
     "title": "AI-generated actors and scripts are now ineligible for Oscars"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office"
+  },
+  {
+    "link": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
+    "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story"
   }
 ]
