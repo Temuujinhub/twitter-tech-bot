@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/03/xteink-x3-review-tiny-magnetic-ereader/",
-    "title": "This tiny, magnetic e-reader could stop you from doomscrolling"
-  },
-  {
     "link": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
     "title": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
     "title": "Melinda Gates’ venture firm backs Magnify Ventures’ $46.6M Fund II"
+  },
+  {
+    "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+    "title": "Virginia bans sale of geolocation data"
   }
 ]
