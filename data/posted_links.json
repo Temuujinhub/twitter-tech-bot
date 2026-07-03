@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
-    "title": "Ouster’s new color lidar is coming to replace cameras"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
     "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
     "title": "This slim camera has a transparent LCD screen for a viewfinder"
+  },
+  {
+    "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
+    "title": "While you’re watching the World Cup, the feds may be watching you"
   }
 ]
