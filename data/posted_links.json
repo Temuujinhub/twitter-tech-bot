@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’"
-  },
-  {
     "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
     "title": "Bun is being ported from Zig to Rust"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
     "title": "Qi fan fan"
+  },
+  {
+    "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+    "title": "The bottleneck might be the air in the room"
   }
 ]
