@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
-    "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
     "title": "Sierra raises $950M as the race to own enterprise AI gets serious"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
     "title": "While you’re watching the World Cup, the feds may be watching you"
+  },
+  {
+    "link": "https://github.com/jamesob/local-llm",
+    "title": "Jamesob's guide to running SOTA LLMs locally"
   }
 ]
