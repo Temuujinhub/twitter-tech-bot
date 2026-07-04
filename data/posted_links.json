@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "title": "Bun is being ported from Zig to Rust"
-  },
-  {
     "link": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
     "title": "Google DeepMind workers are unionizing over AI military contracts"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
     "title": "The bottleneck might be the air in the room"
+  },
+  {
+    "link": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
+    "title": "Hey number pad lovers, this is a keyboard we can finally agree on"
   }
 ]
