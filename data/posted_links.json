@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI."
-  },
-  {
     "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
     "title": ".de TLD offline due to DNSSEC?"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor"
+  },
+  {
+    "link": "https://javoriuski.com/post/youtube",
+    "title": "Leaking YouTube creators' private videos"
   }
 ]
