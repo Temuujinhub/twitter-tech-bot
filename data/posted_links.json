@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-    "title": ".de TLD offline due to DNSSEC?"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
     "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://javoriuski.com/post/youtube",
     "title": "Leaking YouTube creators' private videos"
+  },
+  {
+    "link": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+    "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable"
   }
 ]
