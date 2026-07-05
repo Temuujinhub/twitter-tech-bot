@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast",
-    "title": "The clippening"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
     "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
     "title": "Google Books (or similar) all book scans – $200k bounty (2025)"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/",
+    "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that’s now public"
   }
 ]
