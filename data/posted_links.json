@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
-    "title": "Chrome on Android now supports approximate instead of precise location sharing"
-  },
-  {
     "link": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
     "title": "Valve releases Steam Controller CAD files under Creative Commons license"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/05/5-desk-gadgets-that-can-make-your-workday-better/",
     "title": "5 desk gadgets that can make your workday better"
+  },
+  {
+    "link": "https://organicmaps.app/",
+    "title": "Organic Maps"
   }
 ]
