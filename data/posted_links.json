@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
-    "title": "The balcony solar boom is coming to the US"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
     "title": "Google unveils Whoop-like screenless Fitbit Air"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.opentools.studio/",
     "title": "OpenPrinter"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales"
   }
 ]
