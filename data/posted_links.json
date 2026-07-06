@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "title": "Five architects of the AI economy explain where the wheels are coming off"
-  },
-  {
     "link": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
     "title": "The balcony solar boom is coming to the US"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
     "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent"
+  },
+  {
+    "link": "https://www.opentools.studio/",
+    "title": "OpenPrinter"
   }
 ]
