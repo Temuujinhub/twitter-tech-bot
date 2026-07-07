@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "title": "Why you can never get your doctor to call you back"
-  },
-  {
     "link": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
     "title": "Sony&#8217;s PS5 sales plummet amid price rises and a memory crisis"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://openwrt.org/toh/openwrt/one",
     "title": "OpenWrt One – Open Hardware Router"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine"
   }
 ]
