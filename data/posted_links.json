@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.not-ship.com/burning-man-moop/",
-    "title": "The map that keeps Burning Man honest"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
     "title": "Why you can never get your doctor to call you back"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
     "title": "Resetting Xbox"
+  },
+  {
+    "link": "https://openwrt.org/toh/openwrt/one",
+    "title": "OpenWrt One – Open Hardware Router"
   }
 ]
