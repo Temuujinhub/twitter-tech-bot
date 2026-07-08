@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no. "
-  },
-  {
     "link": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
     "title": "San Francisco’s housing market has lost its mind"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
     "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+    "title": "The robotaxi law that could ban Tesla"
   }
 ]
