@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
-    "title": "Pentagon releases UFO files on new website"
-  },
-  {
     "link": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "title": "Google broke reCAPTCHA for de-googled Android users"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
     "title": "Claude Cowork expands to mobile and web"
+  },
+  {
+    "link": "https://streetcomplete.app/",
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
   }
 ]
