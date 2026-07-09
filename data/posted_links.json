@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-    "title": "The hottest place for startups to strike a deal? The F1 paddock"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
     "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+    "title": "Meta’s new AI chips will begin production in September"
   }
 ]
