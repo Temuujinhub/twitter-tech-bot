@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://twitter.com/jarredsumner/status/2053047748191232310",
-    "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
     "title": "The hottest place for startups to strike a deal? The F1 paddock"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
     "title": "SpaceX is on track for record-setting Starlink deployments"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/",
+    "title": "Block reaches $45M settlement with 46 states over Cash App fraud probe"
   }
 ]
