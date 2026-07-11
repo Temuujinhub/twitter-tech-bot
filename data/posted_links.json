@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
-    "title": "Amazon launches 30-minute delivery across the U.S."
-  },
-  {
     "link": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
     "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
     "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households"
   }
 ]
