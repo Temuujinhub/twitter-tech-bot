@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-    "title": "Bravo is creating unscripted microdramas for the Peacock app"
-  },
-  {
     "link": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
     "title": "Postmortem: TanStack npm supply-chain compromise"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
     "title": "China is catching up to Elon Musk’s reusable rockets"
+  },
+  {
+    "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets"
   }
 ]
