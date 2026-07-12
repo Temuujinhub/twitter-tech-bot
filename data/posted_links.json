@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/929015/apple-studio-display-2026",
-    "title": "The Apple Studio Display could have been so much more"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
     "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+ "
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.iroh.computer/blog/mesh-llm",
     "title": "Mesh LLM: distributed AI computing on iroh"
+  },
+  {
+    "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
+    "title": "Less is more with the Oura Ring 5"
   }
 ]
