@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://googlebook.google/",
-    "title": "Googlebook"
-  },
-  {
     "link": "https://www.theverge.com/tech/929015/apple-studio-display-2026",
     "title": "The Apple Studio Display could have been so much more"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
+  },
+  {
+    "link": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "Mesh LLM: distributed AI computing on iroh"
   }
 ]
