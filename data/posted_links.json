@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
-    "title": "Sony’s new Xperia phone gets an overdue redesign"
-  },
-  {
     "link": "https://googlebook.google/",
     "title": "Googlebook"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://antjs.org",
     "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
+  },
+  {
+    "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
   }
 ]
