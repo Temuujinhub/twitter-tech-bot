@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets"
-  },
-  {
     "link": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
     "title": "Sony’s new Xperia phone gets an overdue redesign"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
     "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun"
+  },
+  {
+    "link": "https://antjs.org",
+    "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
   }
 ]
