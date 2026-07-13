@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
-    "title": "You can make an app for that"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/14/how-to-turn-of-instagrams-new-instants-feature-and-retract-photos-you-accidentally-shared/",
     "title": "How to turn off Instagram’s new Instants feature and retract photos you accidentally shared"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
     "title": "This free Mac app reveals the truth about your mystery USB-C cables"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US"
   }
 ]
