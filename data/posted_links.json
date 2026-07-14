@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI."
-  },
-  {
     "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
     "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
     "title": "The real AI race may no longer be at the frontier"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+    "title": "Google Images gets a Pinterest-like redesign focused on discovery"
   }
 ]
