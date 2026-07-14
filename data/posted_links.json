@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-    "title": "AI research papers are getting better, and it’s a big problem for scientists"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI."
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
     "title": "Pinwheel launches a retro-inspired landline phone for kids"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "title": "The real AI race may no longer be at the frontier"
   }
 ]
