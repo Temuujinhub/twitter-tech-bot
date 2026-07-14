@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
     "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again"
+  },
+  {
+    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
   }
 ]
