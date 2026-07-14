@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
-    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
     "title": "AI research papers are getting better, and it’s a big problem for scientists"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
     "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+    "title": "Pinwheel launches a retro-inspired landline phone for kids"
   }
 ]
