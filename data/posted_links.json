@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "title": "I believe there are entire companies right now under AI psychosis"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
     "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
     "title": "Google and Epic give up fighting — third-party Android app stores are coming next week"
+  },
+  {
+    "link": "https://prismml.com/news/bonsai-27b",
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
   }
 ]
