@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
-    "title": "Xbox is now XBOX"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
     "title": "Users turn to jailbreaking their older Kindles as Amazon ends support"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
     "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
+    "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims"
   }
 ]
