@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/",
-    "title": "RJ Scaringe has raised more than $12B across three startups and investors still want more"
-  },
-  {
     "link": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
     "title": "Xbox is now XBOX"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://prismml.com/news/bonsai-27b",
     "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/",
+    "title": "A SpaceX vet raised $65M to pull wire harnesses out of the Cold War era"
   }
 ]
