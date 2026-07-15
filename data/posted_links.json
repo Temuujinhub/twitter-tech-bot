@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts"
-  },
-  {
     "link": "https://twitter.com/mitchellh/status/2055380239711457578",
     "title": "I believe there are entire companies right now under AI psychosis"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
     "title": "Google Images gets a Pinterest-like redesign focused on discovery"
+  },
+  {
+    "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
+    "title": "Google and Epic give up fighting — third-party Android app stores are coming next week"
   }
 ]
