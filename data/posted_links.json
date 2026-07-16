@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://crates.io/crates/zerostack/1.0.0",
-    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust"
-  },
-  {
     "link": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
     "title": "Oddity is masterfully tense horror from the director of Hokum"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
     "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’"
   }
 ]
