@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "title": "Moving away from Tailwind, and learning to structure my CSS"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
     "title": "The haves and have nots of the AI gold rush"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
     "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A"
+  },
+  {
+    "link": "https://thinkingmachines.ai/news/introducing-inkling/",
+    "title": "Inkling: Our Open-Weights Model"
   }
 ]
