@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-    "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy"
-  },
-  {
     "link": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
     "title": "Moving away from Tailwind, and learning to structure my CSS"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
+    "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A"
   }
 ]
