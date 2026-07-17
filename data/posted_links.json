@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/tech4bot/rk3562deb",
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation"
-  },
-  {
     "link": "https://github.com/MinishLab/semble",
     "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.kimi.com/blog/kimi-k3",
     "title": "Kimi K3: Open Frontier Intelligence"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+    "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco"
   }
 ]
