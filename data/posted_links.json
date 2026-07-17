@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
-    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis"
-  },
-  {
     "link": "https://github.com/tech4bot/rk3562deb",
     "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
     "title": "AI-powered travel agency Fora hits unicorn status, raises $60M"
+  },
+  {
+    "link": "https://www.kimi.com/blog/kimi-k3",
+    "title": "Kimi K3: Open Frontier Intelligence"
   }
 ]
