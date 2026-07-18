@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
-    "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
     "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
     "title": "Fine, electric mountain bikes don’t suck"
+  },
+  {
+    "link": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
+    "title": "Sony’s flagship RGB LED TV is incredible"
   }
 ]
