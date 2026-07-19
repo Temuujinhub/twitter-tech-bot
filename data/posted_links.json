@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/934457/android-17-continue-on-handoff",
-    "title": "Android 17 is getting its own version of Apple&#8217;s Handoff"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
     "title": "Customers say Trump Mobile is leaking their personal information"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
     "title": "Transcribe.cpp"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all"
   }
 ]
