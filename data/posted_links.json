@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-    "title": "Scammers are abusing an internal Microsoft account to send spam links"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
     "title": "This young startup is taking on a fragrance industry that hasn’t changed in a almost half century"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
     "title": "AliExpress fined almost $630 million over illegal product sales"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
+    "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026"
   }
 ]
