@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
-    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
     "title": "Truecaller gets into the eSIM business to diversify its revenue streams"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
     "title": "Qwen 3.8"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "title": "Claude Code uses Bun written in Rust now"
   }
 ]
