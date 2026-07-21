@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-    "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "title": "We tried Google’s AI glasses and they’re almost there"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
     "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/",
+    "title": "AI music generator Suno breach affects 55M users, per Have I Been Pwned"
   }
 ]
