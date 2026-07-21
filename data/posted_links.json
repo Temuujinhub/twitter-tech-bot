@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’"
-  },
-  {
     "link": "https://blog.flipper.net/flipper-one-we-need-your-help/",
     "title": "Flipper One – we need your help"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
     "title": "Adobe camera app’s new feature will critique your photos using AI"
+  },
+  {
+    "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+    "title": "Hacker wipes Romania's land registry database"
   }
 ]
