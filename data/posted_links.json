@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-    "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "title": "AI is being used to resurrect the voices of dead pilots"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
     "title": "OpenAI and Hugging Face address security incident during model evaluation"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era"
   }
 ]
