@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-    "title": "Why Japanese companies do so many different things"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
     "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
     "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter"
+  },
+  {
+    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+    "title": "OpenAI and Hugging Face address security incident during model evaluation"
   }
 ]
