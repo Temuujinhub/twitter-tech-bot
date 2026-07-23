@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
-    "title": "These special phone and app features can help protect you from spyware"
-  },
-  {
     "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
     "title": "Green card seekers must leave U.S. to apply, Trump administration says"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
     "title": "OpenAI’s AI spending spree has ballooned to $750B"
+  },
+  {
+    "link": "https://bento.page/slides/",
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
   }
 ]
