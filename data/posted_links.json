@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-    "title": "Green card seekers must leave U.S. to apply, Trump administration says"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
     "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://bento.page/slides/",
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push"
   }
 ]
