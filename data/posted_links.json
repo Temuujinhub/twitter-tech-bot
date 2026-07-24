@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://esengine.github.io/DeepSeek-Reasonix/",
-    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost"
-  },
-  {
     "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
     "title": "I spent 50 hours drawing a line graph"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
     "title": "Writing by hand is good for your brain"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers"
   }
 ]
