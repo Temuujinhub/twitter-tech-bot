@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
-    "title": "The pope’s AI encyclical isn’t really about AI"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
     "title": "What ClickUp’s mass layoff tells us about the future of work"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
+    "title": "Sam Altman’s biometric startup World raises $52.5 million via crypto sale"
   }
 ]
