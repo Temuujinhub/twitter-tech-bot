@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
-    "title": "I spent 50 hours drawing a line graph"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
     "title": "Everyone is navigating AI security in real time — even Google"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
     "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers"
+  },
+  {
+    "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+    "title": "Facebook considers giving up and becoming TikTok"
   }
 ]
