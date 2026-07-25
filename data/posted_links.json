@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "title": "Using AI to write better code more slowly"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
     "title": "This startup is betting India’s gig economy can train the world’s robots"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
     "title": "Forget expensive sleepbuds. Buy this pillow instead"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else"
   }
 ]
