@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-    "title": "What ClickUp’s mass layoff tells us about the future of work"
-  },
-  {
     "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
     "title": "California moves to exempt Linux from its age-verification law after backlash"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
     "title": "Sam Altman’s biometric startup World raises $52.5 million via crypto sale"
+  },
+  {
+    "link": "https://www.anthropic.com/news/claude-opus-5",
+    "title": "Claude Opus 5"
   }
 ]
