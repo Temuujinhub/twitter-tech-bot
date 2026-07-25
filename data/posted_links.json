@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-    "title": "California moves to exempt Linux from its age-verification law after backlash"
-  },
-  {
     "link": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
     "title": "Using AI to write better code more slowly"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.anthropic.com/news/claude-opus-5",
     "title": "Claude Opus 5"
+  },
+  {
+    "link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
+    "title": "Forget expensive sleepbuds. Buy this pillow instead"
   }
 ]
