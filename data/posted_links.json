@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "title": "This startup is betting India’s gig economy can train the world’s robots"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
     "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it."
   }
 ]
