@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
-    "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US"
-  },
-  {
     "link": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
     "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others"
+  },
+  {
+    "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "title": "Open-weight AI is having its Kubernetes moment"
   }
 ]
