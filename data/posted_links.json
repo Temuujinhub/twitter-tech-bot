@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-    "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
     "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
     "title": "The new rules of context engineering for Claude 5 generation models"
+  },
+  {
+    "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
+    "title": "The vertical video takeover is here"
   }
 ]
