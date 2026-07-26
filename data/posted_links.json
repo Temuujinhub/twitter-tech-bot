@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
-    "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup"
-  },
-  {
     "link": "https://mlsu.io/posts/day-off/",
     "title": "Can we have the day off?"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
     "title": "The vertical video takeover is here"
+  },
+  {
+    "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
+    "title": "A shell colon does nothing. Use it anyway"
   }
 ]
