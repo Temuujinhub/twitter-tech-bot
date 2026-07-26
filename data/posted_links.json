@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
-    "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
     "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
     "title": "Open-weight AI is having its Kubernetes moment"
+  },
+  {
+    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "title": "The new rules of context engineering for Claude 5 generation models"
   }
 ]
