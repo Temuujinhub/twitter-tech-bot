@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
     "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
     "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy"
+  },
+  {
+    "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+    "title": "US citizen charged after GrapheneOS phone wipes during airport search"
   }
 ]
