@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
-    "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
     "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "title": "US citizen charged after GrapheneOS phone wipes during airport search"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/",
+    "title": "Europe got its own TBPN-style live show, and everyone’s angling for a guest spot"
   }
 ]
