@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-    "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment"
-  },
-  {
     "link": "https://www.anthropic.com/news/claude-opus-4-8",
     "title": "Claude Opus 4.8"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
     "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 "
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "title": "Threads users can now chat with Meta AI in their DMs"
   }
 ]
