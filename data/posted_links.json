@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays",
-    "title": "Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
     "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.anthropic.com/news/position-open-weights-models",
     "title": "Our position on open-weights models"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+    "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing"
   }
 ]
