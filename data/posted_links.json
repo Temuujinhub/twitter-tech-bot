@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "title": "What happens when companies become too AI-pilled?"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/29/founders-seize-on-indian-court-ruling-to-revive-criticism-of-googles-ad-business/",
     "title": "Founders seize on Indian court ruling to revive criticism of Google’s ad business"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/",
     "title": "Elon Musk’s X Money app is rolling out in the U.S."
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid"
   }
 ]
