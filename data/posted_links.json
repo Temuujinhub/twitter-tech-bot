@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-    "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
     "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
     "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+    "title": "Hugging Face is being used to easily undress women and children"
   }
 ]
