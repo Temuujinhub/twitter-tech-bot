@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.anthropic.com/news/claude-opus-4-8",
-    "title": "Claude Opus 4.8"
-  },
-  {
     "link": "https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays",
     "title": "Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
     "title": "Threads users can now chat with Meta AI in their DMs"
+  },
+  {
+    "link": "https://www.anthropic.com/news/position-open-weights-models",
+    "title": "Our position on open-weights models"
   }
 ]
