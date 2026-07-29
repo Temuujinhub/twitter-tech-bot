@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "title": "The dead economy theory"
-  },
-  {
     "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
     "title": "SQLite is all you need for durable workflows"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
     "title": "Substack writers, you need a website"
+  },
+  {
+    "link": "https://github.com/openai/codex-security",
+    "title": "Codex Security"
   }
 ]
