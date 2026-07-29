@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-    "title": "SQLite is all you need for durable workflows"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/openai/codex-security",
     "title": "Codex Security"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it"
   }
 ]
