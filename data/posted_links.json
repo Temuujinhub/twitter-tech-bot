@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "title": "SoftBank says it will invest up to €75 billion to build French data centers"
-  },
-  {
     "link": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
     "title": "Domain expertise has always been the real moat"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/drumih/turbo-fieldfare",
     "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac"
+  },
+  {
+    "link": "https://www.superlogical.com/",
+    "title": "Superlogical"
   }
 ]
