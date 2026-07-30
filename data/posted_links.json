@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-    "title": "Microsoft degrades functionality of perpetually-licensed offline products"
-  },
-  {
     "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "title": "SoftBank says it will invest up to €75 billion to build French data centers"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
     "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers"
+  },
+  {
+    "link": "https://github.com/drumih/turbo-fieldfare",
+    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac"
   }
 ]
