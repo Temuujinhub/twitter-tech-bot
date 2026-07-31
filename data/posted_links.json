@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
-    "title": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
     "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "title": "Okta buys AI security startup Permiso; source says for about $200M"
+  },
+  {
+    "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+    "title": "Read this before you buy that TV streaming stick"
   }
 ]
