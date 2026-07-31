@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/",
-    "title": "Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access"
-  },
-  {
     "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
     "title": "The newest Instagram “exploit” is the goofiest I've seen"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
     "title": "Reddit is testing a new way to watch — and listen to — its viral posts"
+  },
+  {
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "title": "Siri AI could come with a paywall for power users"
   }
 ]
