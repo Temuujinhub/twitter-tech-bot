@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/01/unastella-a-south-korean-rocket-startup-that-launched-from-home-raises-24m/",
-    "title": "Unastella, a South Korean rocket startup that launched from home, raises $24M"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
     "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
     "title": "Read this before you buy that TV streaming stick"
+  },
+  {
+    "link": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+    "title": "Stacked PRs are now live on GitHub"
   }
 ]
