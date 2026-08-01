@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "title": "The newest Instagram “exploit” is the goofiest I've seen"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/01/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless/",
     "title": "How to make the Startup Battlefield Top 20 — and what every company gets regardless"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
     "title": "Siri AI could come with a paywall for power users"
+  },
+  {
+    "link": "https://john.fun/elevators",
+    "title": "Elevators"
   }
 ]
