@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "title": "Gmail thinks I'm stupid, so I left"
-  },
-  {
     "link": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
     "title": "AI has a water problem. Google thinks it has a fix"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
     "title": "This $9 key physically locks your most addictive apps"
+  },
+  {
+    "link": "https://diataxis.fr/",
+    "title": "Diátaxis"
   }
 ]
