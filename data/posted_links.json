@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-    "title": "Amazon develops a warehouse robot workers can speak to"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/04/cash-app-launches-a-wand-for-tap-and-pay/",
     "title": "Cash App launches a wand for tap-and-pay"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://qwen.ai/blog?id=qwen3.8",
     "title": "Qwen3.8-Max: A New Bar for Coding and Cowork"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
+    "title": "Samsung bans smart TV apps that share users’ internet connections with strangers"
   }
 ]
