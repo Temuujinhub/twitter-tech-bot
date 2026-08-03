@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/03/benchmark-raises-its-first-ever-growth-fund-as-part-of-2b-capital-raise/",
-    "title": "Benchmark raises its first-ever growth fund as part of $2B capital raise"
-  },
-  {
     "link": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
     "title": "Shokz upgraded its open earbuds with better sound and a lighter design"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
     "title": "These App Store hidden gems prove there’s still room for great software in the AI era"
+  },
+  {
+    "link": "https://twitter.com/karpathy/status/2083749667410727319",
+    "title": "Karpathy’s Pelican"
   }
 ]
