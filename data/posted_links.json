@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "title": "The most interesting startups right now want to get you off your phone"
-  },
-  {
     "link": "https://mouseless.click",
     "title": "Mouseless – keyboard-driven control of macOS/Linux/Windows"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
     "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
+    "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets"
   }
 ]
