@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
     "title": "Meta made its own AI-generated clickbait news feed"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/",
     "title": "Wispr Flow launches a Granola-styled meeting notetaker"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/05/saudi-aramco-backs-indias-mitti-labs-to-make-asias-rice-farming-more-water-resilient/",
+    "title": "Saudi Aramco backs India’s Mitti Labs to make Asia’s rice farming more water-resilient"
   }
 ]
