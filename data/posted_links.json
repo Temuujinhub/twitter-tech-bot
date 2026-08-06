@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
-    "title": "JMGO’s N3 Ultimate projector is the new portable 4K champ"
-  },
-  {
     "link": "https://ntsc.rs/",
     "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.discoveryloop.com/",
     "title": "Discovery Loop"
+  },
+  {
+    "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’"
   }
 ]
