@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://ntsc.rs/",
-    "title": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/07/the-worst-hacks-and-breaches-of-2026-so-far/",
     "title": "Hacked, leaked, and held for ransom: the worst breaches of 2026 so far"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
     "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+    "title": "eBay continues to bet on live shopping after record quarter"
   }
 ]
