@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://vorpus.github.io/performativeUI/",
-    "title": "Show HN: Performative-UI – A react component library of design tropes"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
     "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
     "title": "Nitecore’s latest power bank is the lightest and most compact yet"
+  },
+  {
+    "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+    "title": "Is this $450 laptop from an unknown brand too good to be true?"
   }
 ]
