@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/",
-    "title": "Evotrex raises $30M to build the RV that doesn’t need a charging station"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
     "title": "Apple says it may remove some apps from the App Store if they don’t attract users"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
     "title": "Is this $450 laptop from an unknown brand too good to be true?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
+    "title": "Google’s top hacker hunter explains why hacking groups get codenames"
   }
 ]
