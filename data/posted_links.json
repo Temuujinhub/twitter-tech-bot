@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/08/zeptos-ipo-filing-reveals-fast-growth-bigger-losses-and-a-valuation-question-nobodys-answered-yet/",
-    "title": "Zepto’s IPO filing reveals fast growth, bigger losses, and a valuation question nobody’s answered yet"
-  },
-  {
     "link": "https://vorpus.github.io/performativeUI/",
     "title": "Show HN: Performative-UI – A react component library of design tropes"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "title": "What happens if an entire class of workers loses faith in their careers"
+  },
+  {
+    "link": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "title": "Nitecore’s latest power bank is the lightest and most compact yet"
   }
 ]
