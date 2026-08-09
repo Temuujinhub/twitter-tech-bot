@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/09/apple-says-it-may-remove-apps-from-the-app-store-if-they-dont-attract-users/",
-    "title": "Apple says it may remove some apps from the App Store if they don’t attract users"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
     "title": "Anthropic’s Claude Fable is a version of Mythos the public can access today"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
     "title": "Google’s top hacker hunter explains why hacking groups get codenames"
+  },
+  {
+    "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones"
   }
 ]
