@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
-    "title": "Anthropic’s Claude Fable is a version of Mythos the public can access today"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/09/top-lucid-motors-executive-departs-amid-new-ceos-leadership-shakeup/",
     "title": "Top Lucid Motors executive departs amid new CEO’s leadership shakeup"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones"
+  },
+  {
+    "link": "https://specification.website/spec/foundations/for-sale-dns/",
+    "title": "_for-sale DNS records"
   }
 ]
