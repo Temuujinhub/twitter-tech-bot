@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "title": "How memory tools can make AI models worse"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/10/netflix-expands-revamped-mobile-app-across-asia-and-doubles-down-on-kids-gaming/",
     "title": "Netflix expands revamped mobile app across Asia and doubles down on kids’ gaming"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
     "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy"
+  },
+  {
+    "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+    "title": "How I use LLMs to learn complex topics"
   }
 ]
