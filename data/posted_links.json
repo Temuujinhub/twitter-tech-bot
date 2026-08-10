@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
-    "title": "Anthropic taps TCS to scale its enterprise AI deployments"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
     "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
+    "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries"
   }
 ]
