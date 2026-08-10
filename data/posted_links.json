@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/948244/ryanair-cma-probe-parents-child-seating-fee",
-    "title": "Ryanair is under investigation over charging parents to sit with their kids"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
     "title": "Anthropic taps TCS to scale its enterprise AI deployments"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "title": "AI for science needs reasoning, not just data"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips"
   }
 ]
