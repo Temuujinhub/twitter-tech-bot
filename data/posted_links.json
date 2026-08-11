@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
     "title": "Meta’s Edits app is getting an AI assistant and a desktop version"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
     "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries"
+  },
+  {
+    "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models"
   }
 ]
