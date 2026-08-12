@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/",
     "title": "The FBI built its own replica small town to simulate real-world cyberattacks"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
     "title": "How we picked 35 of the world’s top young scientists and engineers"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
+    "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini"
   }
 ]
