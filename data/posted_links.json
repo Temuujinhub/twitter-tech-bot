@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/report/949073/mike-rugnetta-youtube-never-post-podcast-questionnaire",
-    "title": "Never Post’s Mike Rugnetta on the creative process and the value of reliable power"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/13/this-thin-under-pillow-speaker-helped-me-fall-asleep-without-earbuds/",
     "title": "This thin under-pillow speaker helped me fall asleep without earbuds"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
     "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators"
+  },
+  {
+    "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
   }
 ]
