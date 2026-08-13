@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-    "title": "As Anthropic suspends access to new models, India debates its AI future"
-  },
-  {
     "link": "https://desfontain.es/blog/banning-noise.html",
     "title": "Noise infusion banned from statistical products published by Census Bureau"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "title": "DeepSeek V4 Pro 0813"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+    "title": "How kids feel about AI, in their own words"
   }
 ]
