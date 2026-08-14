@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/14/techcrunch-mobility-spacex-rockets-past-tesla/",
-    "title": "TechCrunch Mobility: SpaceX rockets past Tesla"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
     "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
     "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "title": "Gemini 3.7 Flash"
   }
 ]
