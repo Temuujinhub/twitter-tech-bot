@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-    "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers"
-  },
-  {
     "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
     "title": "Under-16 social media ban announced by UK government"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "Gemini 3.7 Flash"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+    "title": "Apple trained its own AI model for China with help from Alibaba"
   }
 ]
