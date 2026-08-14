@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/policy/949679/uk-under-16-social-media-ban-announcement",
-    "title": "Under-16 social media ban announced by UK government"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/15/spacexs-biggest-ever-ipo-just-grew-to-85-7-billion-raised/",
     "title": "SpaceX’s biggest-ever IPO just grew to $85.7 billion raised"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
     "title": "Apple trained its own AI model for China with help from Alibaba"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
+    "title": "US courts will start publishing how often the government uses spyware"
   }
 ]
