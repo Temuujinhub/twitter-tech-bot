@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/",
-    "title": "These are the countries moving to ban social media for children"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
     "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
     "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?"
+  },
+  {
+    "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+    "title": "Qwen 3.8 27B"
   }
 ]
