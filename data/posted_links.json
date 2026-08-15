@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.iroh.computer/blog/v1",
-    "title": "Iroh 1.0"
-  },
-  {
     "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
     "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
     "title": "Talks to sell PayPal to Stripe and Advent are heating up"
+  },
+  {
+    "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+    "title": "Firefox is now the last major browser that still supports uBlock Origin"
   }
 ]
