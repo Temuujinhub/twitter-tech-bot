@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/950190/commodore-callback-flip-phone",
-    "title": "After resurrecting an iconic PC brand, Commodore is getting into flip phones"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
     "title": "Probably raises $9M to build a more reliable kind of AI"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
     "title": "Firefox is now the last major browser that still supports uBlock Origin"
+  },
+  {
+    "link": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
+    "title": "Xteink’s tiny e-readers are getting access to free books through Libby"
   }
 ]
