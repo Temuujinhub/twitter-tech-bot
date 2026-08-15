@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms"
-  },
-  {
     "link": "https://www.iroh.computer/blog/v1",
     "title": "Iroh 1.0"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
     "title": "Qwen 3.8 27B"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up"
   }
 ]
