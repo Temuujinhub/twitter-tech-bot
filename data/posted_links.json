@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/16/mobileye-us-robotaxi-launch-will-put-it-on-both-sides-of-the-av-business/",
-    "title": "Mobileye’s US robotaxi launch will put it on both sides of the AV business"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
     "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
     "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23"
+  },
+  {
+    "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "title": "AI has access to a vastly larger working memory than the human brain"
   }
 ]
