@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
     "title": "Google bets on Gemini to reinvent the smart home speaker"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
     "title": "Rogue AI aren’t science fiction anymore"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "title": "ChatGPT’s Computer History tracks your clicks and keystrokes"
   }
 ]
