@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-    "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/17/nasa-picks-eric-schmidts-rocket-company-for-mars-mission-setting-up-a-race-with-spacex/",
     "title": "NASA picks Eric Schmidt’s rocket company for Mars mission, setting up a race with SpaceX"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
+  },
+  {
+    "link": "https://www.theverge.com/tech/980137/peak-design-city-line-review",
+    "title": "I’m hooked on Peak Design’s new City bags"
   }
 ]
