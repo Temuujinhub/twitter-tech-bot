@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "title": "Google bets on Gemini to reinvent the smart home speaker"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
     "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes"
+  },
+  {
+    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "title": "Claude: System Prompts"
   }
 ]
