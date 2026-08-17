@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
     "title": "Midjourney Medical goes from generating ‘cat images’ to full-body ultrasound scans"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
     "title": "Claude: System Prompts"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
   }
 ]
