@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/",
-    "title": "Rivian owners sue over false promises on self-driving features"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
     "title": "Barret Zoph is out at OpenAI again after just five months"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "title": "Anthropic’s annualized revenue surges to $65B"
+  },
+  {
+    "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+    "title": "A Preview of DuckDB v2.0"
   }
 ]
