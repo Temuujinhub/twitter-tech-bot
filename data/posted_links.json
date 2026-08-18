@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/18/apple-opens-up-app-store-to-new-competition-in-brazil/",
-    "title": "Apple opens up App Store to new competition in Brazil"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/18/rivian-owners-sue-over-false-promises-on-self-driving-features/",
     "title": "Rivian owners sue over false promises on self-driving features"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "title": "Anthropic’s annualized revenue surges to $65B"
   }
 ]
