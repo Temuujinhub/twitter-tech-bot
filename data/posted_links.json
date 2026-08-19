@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-    "title": "Norway imposes near ban on AI in elementary school"
-  },
-  {
     "link": "https://www.theverge.com/games/949875/moves-of-the-diamond-hand-rpg-dice-jazz-noir",
     "title": "Moves of the Diamond Hand is an unfinished, irresistibly weird dice-based RPG"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
     "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
+    "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment"
   }
 ]
