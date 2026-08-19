@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/",
-    "title": "Every fusion startup that has raised over $100M"
-  },
-  {
     "link": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
     "title": "Hyundai buys Boston Dynamics"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://seths.blog/2026/08/the-amazon-tax/",
     "title": "The Amazon tax"
+  },
+  {
+    "link": "https://cursor.com/changelog/origin-code-hosting",
+    "title": "Cursor launches Origin, GitHub alternative"
   }
 ]
