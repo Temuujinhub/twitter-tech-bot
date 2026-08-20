@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "title": "SMPTE Makes Its Standards Freely Accessible"
-  },
-  {
     "link": "https://github.com/mysk-research/loupe",
     "title": "Loupe – A iOS app that raises awareness about what native apps can see"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
     "title": "A joke domain purchase turned in geopolitical warfare"
+  },
+  {
+    "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
+    "title": "LG’s new OLED breakthrough can boost display lifespans"
   }
 ]
