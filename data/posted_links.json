@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/mysk-research/loupe",
-    "title": "Loupe – A iOS app that raises awareness about what native apps can see"
-  },
-  {
     "link": "https://www.theverge.com/tech/952245/sony-xperia-1-viii-review",
     "title": "Sony’s Xperia 1 VIII is still a phone for the fans"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
     "title": "LG’s new OLED breakthrough can boost display lifespans"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+    "title": "AI data giant Alation confirms cyberattack"
   }
 ]
