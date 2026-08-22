@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/",
     "title": "Anthropic says Claude may want to see your ID"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
     "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+    "title": "Michael Polansky is training an AI model on skin that’s still alive"
   }
 ]
