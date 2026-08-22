@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-    "title": "Steam Machine launches today"
-  },
-  {
     "link": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
     "title": "Amflow&#8217;s TL e-bike is ready for baby&#8217;s first mountain adventure"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://kagi.com/changelog#11296",
     "title": "Kagi added a setting for removing paywalled links from search results"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+    "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M"
   }
 ]
