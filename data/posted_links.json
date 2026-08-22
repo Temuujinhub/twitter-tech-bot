@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/gadgets/948610/best-prime-day-tech-deals-sale",
-    "title": "The best Prime Day deals we found on our favorite gear"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/",
     "title": "Password manager maker LastPass says hackers stole customer support case data during Klue breach"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
     "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
+    "title": "US battery startups have found a lifeline in defense"
   }
 ]
