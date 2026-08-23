@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://swipe.futo.tech/",
-    "title": "FUTO Swipe – A new swipe typing model"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/",
     "title": "How to invest when everything is moving too fast"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
     "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders"
+  },
+  {
+    "link": "https://quantumi.sh/public/labs.html",
+    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
   }
 ]
