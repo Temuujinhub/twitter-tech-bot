@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/gadgets/954273/dyson-pencilwash-wet-floor-cleaner-mop-deal-sale",
-    "title": "The Dyson PencilWash is down to its lowest price ever for Prime Day"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/24/zoox-upgrades-its-robotaxi-as-it-prepares-for-commercial-service/",
     "title": "Zoox upgrades its robotaxi as it prepares for commercial service"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
     "title": "Grand Theft Auto VI exists in its own universe"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated"
   }
 ]
