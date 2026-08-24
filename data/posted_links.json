@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "title": "Europe is pushing back on Washington’s chip war"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
     "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
     "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record"
+  },
+  {
+    "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+    "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year"
   }
 ]
