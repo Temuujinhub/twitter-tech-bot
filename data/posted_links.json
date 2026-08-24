@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/",
-    "title": "Cellebrite said it cut off Russia, but Russia used is tools anyway"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
     "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
     "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics"
   }
 ]
