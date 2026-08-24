@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "title": "OpenAI unveils its first custom chip, built by Broadcom"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
     "title": "Europe is pushing back on Washington’s chip war"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://schlarp.com/posts/everything-i-own-owned/",
     "title": "Everything I own, owned"
+  },
+  {
+    "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
+    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record"
   }
 ]
