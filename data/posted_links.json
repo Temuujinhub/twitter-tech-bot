@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://scrollprize.org/firstscroll",
-    "title": "An entire Herculaneum scroll has been read for the first time"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
     "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
     "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack"
   }
 ]
