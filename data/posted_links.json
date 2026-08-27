@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth"
-  },
-  {
     "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
     "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
     "title": "Google’s AI Mode can now track flight prices, help book hotels, and more"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
+    "title": "ATF declares ‘major incident’ as ransomware gang claims hack"
   }
 ]
