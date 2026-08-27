@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
-    "title": "TMD’s keyless bike lock is a $280 solution to a $60 problem"
-  },
-  {
     "link": "https://github.com/bikini/exploitarium",
     "title": "Anonymous GitHub account mass-dropping undisclosed 0-days"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/",
     "title": "ATF declares ‘major incident’ as ransomware gang claims hack"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/",
+    "title": "Rivian’s CFO is leaving the company"
   }
 ]
