@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-    "title": "GLM 5.2 beats Claude in our benchmarks"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/",
     "title": "California law targeting loud streaming ads takes effect on July 1"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
     "title": "How Sweden built one of Europe’s hottest startup ecosystems "
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips"
   }
 ]
