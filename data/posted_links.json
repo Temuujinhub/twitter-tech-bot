@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
-    "title": "TechCrunch Mobility: All eyes on Tesla FSD"
-  },
-  {
     "link": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
     "title": "GLM 5.2 beats Claude in our benchmarks"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
     "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
+    "title": "How Sweden built one of Europe’s hottest startup ecosystems "
   }
 ]
