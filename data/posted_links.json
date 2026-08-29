@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-    "title": "Cursor now has a mobile app for guiding your coding agent on the go"
-  },
-  {
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "title": "The AI jobs debate just got messier"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
     "title": "GUIs should be fully keyboard-driven"
+  },
+  {
+    "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+    "title": "Htmx 4.0"
   }
 ]
