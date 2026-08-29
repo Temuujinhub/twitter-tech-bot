@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "title": "The AI jobs debate just got messier"
-  },
-  {
     "link": "https://quesma.com/blog/qwen-36-is-awesome/",
     "title": "Qwen 3.6 27B is the sweet spot for local development"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
     "title": "Htmx 4.0"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+    "title": "The Theragun Sense makes everyday recovery surprisingly easy"
   }
 ]
