@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-    "title": "Cleared by the US, derailed by the UK: Getty’s Shutterstock merger falls apart"
-  },
-  {
     "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
     "title": "Range anxiety"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
     "title": "Chess.com launched a poker site and is planning even more classic games"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem"
   }
 ]
