@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/cs/features/938196/rivian-r2-ev-factory-supply-chain",
-    "title": "Range anxiety"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
     "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
     "title": "Musk’s faster path to more gas turbines comes with pollution problem"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+    "title": "TechCrunch Mobility: The hidden human cost of robotaxis"
   }
 ]
