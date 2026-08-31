@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office"
-  },
-  {
     "link": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
     "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
     "title": "VLC crosses 7 billion downloads"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+    "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down"
   }
 ]
