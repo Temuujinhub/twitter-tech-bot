@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
     "title": "Even Honda is pivoting to data centers"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
     "title": "TechCrunch Mobility: The hidden human cost of robotaxis"
+  },
+  {
+    "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+    "title": "Creepy Crawlies"
   }
 ]
