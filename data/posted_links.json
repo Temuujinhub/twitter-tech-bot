@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
-    "title": "For first time, a cell built from scratch grows and divides"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/",
+    "title": "VLC crosses 7 billion downloads"
   }
 ]
