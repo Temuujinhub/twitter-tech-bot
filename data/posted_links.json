@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/",
-    "title": "Even Honda is pivoting to data centers"
-  },
-  {
     "link": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
     "title": "For first time, a cell built from scratch grows and divides"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
     "title": "Creepy Crawlies"
+  },
+  {
+    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them"
   }
 ]
