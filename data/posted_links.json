@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-    "title": "Virginia bans sale of geolocation data"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/",
     "title": "Politician who investigated spyware abuses had his phone hacked with Pegasus spyware"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
     "title": "Dyson made a camera-equipped toothbrush that flosses for you"
+  },
+  {
+    "link": "https://www.theverge.com/tech/986148/poco-f9-pro-ultra-specs-features-price-bose",
+    "title": "Poco’s F9 Ultra pairs an ultra-bright display with a glowing Bose subwoofer"
   }
 ]
