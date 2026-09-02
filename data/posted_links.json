@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
-    "title": "This slim camera has a transparent LCD screen for a viewfinder"
-  },
-  {
     "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
     "title": "While you’re watching the World Cup, the feds may be watching you"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
     "title": "Google’s answer to Canva is an AI tool where you prompt instead of design"
+  },
+  {
+    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+    "title": "Claude Fable 5.1 and Claude Mythos 5.1"
   }
 ]
