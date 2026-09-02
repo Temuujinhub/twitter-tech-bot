@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
-    "title": "While you’re watching the World Cup, the feds may be watching you"
-  },
-  {
     "link": "https://github.com/jamesob/local-llm",
     "title": "Jamesob's guide to running SOTA LLMs locally"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "title": "Claude Fable 5.1 and Claude Mythos 5.1"
+  },
+  {
+    "link": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
+    "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance"
   }
 ]
