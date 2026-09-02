@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/jamesob/local-llm",
-    "title": "Jamesob's guide to running SOTA LLMs locally"
-  },
-  {
     "link": "https://www.theverge.com/tech/961332/qi-active-cooling-really-works",
     "title": "Qi fan fan"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
     "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+    "title": "Adobe is making its tools available in Slack"
   }
 ]
