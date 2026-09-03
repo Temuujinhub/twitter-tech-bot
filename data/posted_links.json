@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/960837/epomaker-rt98-mechanical-keyboard-modular-numpad-review",
-    "title": "Hey number pad lovers, this is a keyboard we can finally agree on"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
     "title": "What is Mistral AI? Everything to know about the OpenAI competitor"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’"
+  },
+  {
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
   }
 ]
