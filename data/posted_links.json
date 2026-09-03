@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor"
-  },
-  {
     "link": "https://javoriuski.com/post/youtube",
     "title": "Leaking YouTube creators' private videos"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
+  },
+  {
+    "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+    "title": "Microsoft discloses Azure revenue as part of major financial reporting changes"
   }
 ]
