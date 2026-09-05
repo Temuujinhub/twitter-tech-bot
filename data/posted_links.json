@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-    "title": "Resetting Xbox"
-  },
-  {
     "link": "https://openwrt.org/toh/openwrt/one",
     "title": "OpenWrt One – Open Hardware Router"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "title": "OpenAI admits to German wiki ‘incident’"
   }
 ]
