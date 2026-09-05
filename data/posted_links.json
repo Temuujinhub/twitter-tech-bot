@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-    "title": "If you use Google, you’re training its AI. Here’s how to opt out."
-  },
-  {
     "link": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
     "title": "Resetting Xbox"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://collusion.wiki/",
     "title": "Discovery of a new OpenAI agent message board"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
   }
 ]
