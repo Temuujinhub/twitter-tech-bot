@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
     "title": "If you use Google, you’re training its AI. Here’s how to opt out."
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
     "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now"
+  },
+  {
+    "link": "https://collusion.wiki/",
+    "title": "Discovery of a new OpenAI agent message board"
   }
 ]
