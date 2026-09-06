@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
-    "title": "The robotaxi law that could ban Tesla"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/",
     "title": "Solo GP Ashley Smith announces second $25M fund to back startups in AI, security and more"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
     "title": "The Fairphone 6 Plus is the midrange phone we desperately needed"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business"
   }
 ]
