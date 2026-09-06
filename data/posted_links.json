@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round"
-  },
-  {
     "link": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
     "title": "The robotaxi law that could ban Tesla"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://cloudinabottle.org/blog/launch-post",
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
+  },
+  {
+    "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+    "title": "The Fairphone 6 Plus is the midrange phone we desperately needed"
   }
 ]
