@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://streetcomplete.app/",
-    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
     "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
     "title": "Explore the globe in field recordings"
+  },
+  {
+    "link": "https://cloudinabottle.org/blog/launch-post",
+    "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
   }
 ]
