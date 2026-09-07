@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-    "title": "John Deere owners will get the right to repair equipment under FTC settlement"
-  },
-  {
     "link": "https://www.theverge.com/news/963196/spacex-is-on-track-for-record-setting-starlink-deployments",
     "title": "SpaceX is on track for record-setting Starlink deployments"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
     "title": "The real reason your phone is getting more expensive"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
+    "title": "What we expect from the upcoming Apple launch"
   }
 ]
