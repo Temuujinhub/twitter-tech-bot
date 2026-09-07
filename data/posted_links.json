@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
-    "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules"
-  },
-  {
     "link": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
     "title": "John Deere owners will get the right to repair equipment under FTC settlement"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
     "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement"
+  },
+  {
+    "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+    "title": "The real reason your phone is getting more expensive"
   }
 ]
