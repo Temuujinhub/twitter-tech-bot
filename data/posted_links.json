@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/",
-    "title": "Crypto VC firm Paradigm raises $1.2B to invest in ‘technical frontier’ startups"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/",
     "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
     "title": "Nitter and XCancel resume service after legal advice"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement"
   }
 ]
