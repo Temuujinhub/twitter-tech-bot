@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
-    "title": "EU Parliament greenlights Chat Control 1.0"
-  },
-  {
     "link": "https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease",
     "title": "Polestar owners left ‘holding the bag’ after EV brand pulls out of the US"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
     "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
   }
 ]
