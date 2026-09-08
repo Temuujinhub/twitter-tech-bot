@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease",
-    "title": "Polestar owners left ‘holding the bag’ after EV brand pulls out of the US"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
     "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+    "title": "How to watch Apple’s foldable iPhone announcement"
   }
 ]
