@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "title": "Meta’s new AI chips will begin production in September"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/",
     "title": "After Apple, India’s smartphone manufacturing boom enters new phase with Vivo JV"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://deepmind.google/science/weathernext/",
     "title": "WeatherNext 3"
+  },
+  {
+    "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+    "title": "Xiaomi’s wide foldable promises more power than Samsung’s"
   }
 ]
