@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
-    "title": "Are you filthy enough for a $700 portable shower? "
-  },
-  {
     "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
     "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
     "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+    "title": "DOJ wants more answers on Fox’s $22B Roku deal"
   }
 ]
