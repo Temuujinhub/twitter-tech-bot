@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
-    "title": "China is catching up to Elon Musk’s reusable rockets"
-  },
-  {
     "link": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
     "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
     "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "title": "Batteries just broke another record in the US"
   }
 ]
