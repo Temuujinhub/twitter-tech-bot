@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-    "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun"
-  },
-  {
     "link": "https://antjs.org",
     "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.apple.com/iphone-duo/",
     "title": "iPhone Duo"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+    "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI"
   }
 ]
