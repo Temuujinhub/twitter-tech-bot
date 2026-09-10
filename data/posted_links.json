@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://antjs.org",
-    "title": "Show HN: Ant – A JavaScript runtime and ecosystem"
-  },
-  {
     "link": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
     "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
     "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+    "title": "Snapchat takes aim at Partiful with new event-planning features"
   }
 ]
