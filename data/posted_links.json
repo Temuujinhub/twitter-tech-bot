@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.iroh.computer/blog/mesh-llm",
-    "title": "Mesh LLM: distributed AI computing on iroh"
-  },
-  {
     "link": "https://www.theverge.com/tech/964386/oura-ring-5-review-smart-ring-wearables",
     "title": "Less is more with the Oura Ring 5"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
     "title": "Instagram’s latest feature lets you add tagged posts to your profile grid"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "title": "Amazon makes it easier to buy what you see on Prime Video"
   }
 ]
