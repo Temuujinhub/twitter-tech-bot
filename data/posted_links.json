@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
-    "title": "This free Mac app reveals the truth about your mystery USB-C cables"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
     "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+    "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster"
   }
 ]
