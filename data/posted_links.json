@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://scotto.me/blog/2026-07-12-how-to-read-more-books/",
-    "title": "How to read more books"
-  },
-  {
     "link": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
     "title": "This free Mac app reveals the truth about your mystery USB-C cables"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
     "title": "Arizona’s lifeline for chip manufacturing is drying up"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO"
   }
 ]
