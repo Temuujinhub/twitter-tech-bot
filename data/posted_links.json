@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
-    "title": "One of SteelSeries&#8217; best gaming headsets is over $100 off"
-  },
-  {
     "link": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
     "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://shopify.engineering/back-to-native",
     "title": "Shopify is moving from React Native back to Swift and Kotlin"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+    "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play"
   }
 ]
