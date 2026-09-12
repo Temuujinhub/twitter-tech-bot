@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/",
     "title": "Investors send General Fusion soaring in debut as first publicly traded fusion company"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
     "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster"
+  },
+  {
+    "link": "https://mathandai.org/",
+    "title": "A misalignment of AI in mathematics"
   }
 ]
