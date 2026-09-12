@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
     "title": "Pinwheel launches a retro-inspired landline phone for kids"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/988337/iphone-18-pro-max-preorder-buy",
     "title": "Where to preorder the iPhone 18 Pro and Pro Max"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "title": "Anthropic CEO outlines plan to ‘pace the frontier’"
   }
 ]
