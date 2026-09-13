@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play",
-    "title": "Google and Epic give up fighting — third-party Android app stores are coming next week"
-  },
-  {
     "link": "https://prismml.com/news/bonsai-27b",
     "title": "Bonsai 27B: A 27B-Class model that runs on a phone"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
     "title": "Nvidia is the central bank of AI"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
+    "title": "Fusion power startups find new partners in the defense world"
   }
 ]
