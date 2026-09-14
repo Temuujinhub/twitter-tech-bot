@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
-    "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A"
-  },
-  {
     "link": "https://thinkingmachines.ai/news/introducing-inkling/",
     "title": "Inkling: Our Open-Weights Model"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
     "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+    "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg"
   }
 ]
