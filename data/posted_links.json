@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/",
     "title": "Lululemon backs nylon recycling startup Syntetica in $30M Series A"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
     "title": "Why is Google still serving dodgy ads?"
+  },
+  {
+    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
   }
 ]
