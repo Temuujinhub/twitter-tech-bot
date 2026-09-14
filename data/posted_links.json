@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/",
-    "title": "US charges Russian ‘bulletproof’ web hosts over cyberattacks that netted $62M from cybercrime victims"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
     "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat"
+  },
+  {
+    "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "title": "Why is Google still serving dodgy ads?"
   }
 ]
