@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://thinkingmachines.ai/news/introducing-inkling/",
-    "title": "Inkling: Our Open-Weights Model"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/",
     "title": "Phone maker OnePlus says it won’t release new phones in the U.S. and Europe"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
     "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves"
   }
 ]
