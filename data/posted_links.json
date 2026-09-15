@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/",
-    "title": "AI-powered travel agency Fora hits unicorn status, raises $60M"
-  },
-  {
     "link": "https://www.kimi.com/blog/kimi-k3",
     "title": "Kimi K3: Open Frontier Intelligence"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://xcancel.com/#",
     "title": "XCancel service is suspended until further notice"
+  },
+  {
+    "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+    "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
   }
 ]
