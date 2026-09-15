@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/entertainment/966995/god-of-war-amazon-prime-video-kratos-ryan-hurst-recast",
-    "title": "God Of War TV series is recasting Kratos"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
     "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
     "title": "US military confirms it launched space weapons into Earth’s orbit"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035"
   }
 ]
