@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-    "title": "First atmosphere found on Earth-like planet in habitable zone of distant star"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "title": "Neil Rimer thinks the AI money is coming back out"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
     "title": "Meta is reportedly ready to launch less pervy smart glasses"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+    "title": "SK Hynix reportedly in talks with Intel to build memory chips in US"
   }
 ]
