@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-    "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
     "title": "Parents want safer phones for kids. These companies are answering the call."
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
     "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035"
+  },
+  {
+    "link": "https://github.com/arnegiacomo/fugleramme",
+    "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations"
   }
 ]
