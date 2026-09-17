@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
-    "title": "Transcribe.cpp"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
     "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+    "title": "Waymo restarts San Antonio service 5 months after flooding troubles"
   }
 ]
