@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/",
-    "title": "Waymo says San Francisco service has resumed after one-hour pause"
-  },
-  {
     "link": "https://workshop.cjpais.com/projects/transcribe-cpp",
     "title": "Transcribe.cpp"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
     "title": "2 days left to exhibit at TechCrunch Disrupt 2026 "
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+    "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire"
   }
 ]
