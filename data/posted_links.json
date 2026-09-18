@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "title": "Claude Code uses Bun written in Rust now"
-  },
-  {
     "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
     "title": "AliExpress fined almost $630 million over illegal product sales"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
     "title": "Flash floods can strike without warning — this new technology could change that"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops"
   }
 ]
