@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-    "title": "Qwen 3.8"
-  },
-  {
     "link": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
     "title": "Claude Code uses Bun written in Rust now"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech"
+  },
+  {
+    "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+    "title": "Flash floods can strike without warning — this new technology could change that"
   }
 ]
