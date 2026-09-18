@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/policy/967802/aliexpress-eu-dsa-fine-illegal-products",
-    "title": "AliExpress fined almost $630 million over illegal product sales"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
     "title": "Watch Flock Safety CEO Garrett Langley discuss the future of surveillance at TechCrunch Disrupt 2026"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
     "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters"
   }
 ]
