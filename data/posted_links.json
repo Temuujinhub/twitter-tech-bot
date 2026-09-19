@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
-    "title": "Hacker wipes Romania's land registry database"
-  },
-  {
     "link": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
     "title": "Who's afraid of Chinese models?"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://try.cloudflare.com/",
     "title": "Cloudflare Quick Tunnels"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "title": "India forces caller-ID apps to feed spam reports to telcos"
   }
 ]
