@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "title": "OpenAI and Hugging Face address security incident during model evaluation"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
     "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
     "title": "A24’s reputation is on the line with the SCP Foundation movie"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+    "title": "New California law will penalize influencers don’t disclose political ads"
   }
 ]
