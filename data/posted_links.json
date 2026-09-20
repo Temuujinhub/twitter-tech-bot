@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-    "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter"
-  },
-  {
     "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
     "title": "OpenAI and Hugging Face address security incident during model evaluation"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "title": "Flock reportedly tries to shrink workforce with employee buyouts"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+    "title": "A24’s reputation is on the line with the SCP Foundation movie"
   }
 ]
