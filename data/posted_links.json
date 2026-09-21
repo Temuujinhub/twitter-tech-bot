@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://bento.page/slides/",
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
     "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
     "title": "UN says AI safeguards can’t wait for certainty"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026"
   }
 ]
