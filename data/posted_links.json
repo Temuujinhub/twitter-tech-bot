@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
-    "title": "Facebook considers giving up and becoming TikTok"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
     "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+    "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school"
   }
 ]
