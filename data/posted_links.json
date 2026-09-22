@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers"
-  },
-  {
     "link": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
     "title": "Facebook considers giving up and becoming TikTok"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
     "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
   }
 ]
