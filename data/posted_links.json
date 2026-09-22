@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "title": "Google closes in on another billion user product with Gemini"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/23/teslas-robotaxis-are-moving-in-reverse/",
     "title": "Tesla’s robotaxis are moving in reverse"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
     "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket"
+  },
+  {
+    "link": "https://mimo.xiaomi.com/mimo-v2-6",
+    "title": "MiMo v2.6"
   }
 ]
