@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.anthropic.com/news/claude-opus-5",
-    "title": "Claude Opus 5"
-  },
-  {
     "link": "https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead",
     "title": "Forget expensive sleepbuds. Buy this pillow instead"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
     "title": "Smart glasses are already causing havoc in India"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+    "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026"
   }
 ]
