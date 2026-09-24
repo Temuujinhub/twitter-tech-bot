@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-    "title": "Open-weight AI is having its Kubernetes moment"
-  },
-  {
     "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
     "title": "The new rules of context engineering for Claude 5 generation models"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
     "title": "Australia to investigate if OpenAI hack of government health website broke the law"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+    "title": "Databricks buys Row Zero and is scouting for more startups to acquire"
   }
 ]
