@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-    "title": "The new rules of context engineering for Claude 5 generation models"
-  },
-  {
     "link": "https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook",
     "title": "The vertical video takeover is here"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
     "title": "Databricks buys Row Zero and is scouting for more startups to acquire"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center"
   }
 ]
