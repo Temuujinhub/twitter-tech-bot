@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
     "title": "Claude discovers a novel enzyme system with CRISPR-like repeats"
+  },
+  {
+    "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+    "title": "Gemini 4 is almost ready, says new Google DeepMind chief"
   }
 ]
