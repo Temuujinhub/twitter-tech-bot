@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-    "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy"
-  },
-  {
     "link": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
     "title": "US citizen charged after GrapheneOS phone wipes during airport search"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
     "title": "The Pentagon wants $30 million to build an AI-powered lie detector"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass"
   }
 ]
