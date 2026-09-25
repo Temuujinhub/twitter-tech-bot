@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://refp.se/articles/your-shell-and-the-magic-colon",
-    "title": "A shell colon does nothing. Use it anyway"
-  },
-  {
     "link": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
     "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI"
+  },
+  {
+    "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "title": "The Pentagon wants $30 million to build an AI-powered lie detector"
   }
 ]
