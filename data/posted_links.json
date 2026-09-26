@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "title": "Threads users can now chat with Meta AI in their DMs"
-  },
-  {
     "link": "https://www.anthropic.com/news/position-open-weights-models",
     "title": "Our position on open-weights models"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://ollaya.dev/",
     "title": "Ollaya – Ollama for open-source, Jev-style decision models"
+  },
+  {
+    "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+    "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?"
   }
 ]
