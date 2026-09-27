@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/openai/codex-security",
-    "title": "Codex Security"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
     "title": "As AI content floods the internet, Pangram raises $9M to detect it"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
     "title": "Why OLPC’s $100 laptop never stood a chance"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment"
   }
 ]
