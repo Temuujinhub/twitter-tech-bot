@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-    "title": "Substack writers, you need a website"
-  },
-  {
     "link": "https://github.com/openai/codex-security",
     "title": "Codex Security"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/InfinityLoop1308/PipePipe",
     "title": "PipePipe: NewPipe hard fork implementing SponsorBlock"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+    "title": "Why OLPC’s $100 laptop never stood a chance"
   }
 ]
