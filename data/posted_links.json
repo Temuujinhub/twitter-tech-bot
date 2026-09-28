@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.superlogical.com/",
-    "title": "Superlogical"
-  },
-  {
     "link": "https://www.theverge.com/tech/972986/switchbot-makes-a-better-fan",
     "title": "SwitchBot makes a better fan"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
     "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "title": "Shopify opens checkout to browser-based AI agents"
   }
 ]
