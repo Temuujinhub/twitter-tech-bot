@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-    "title": "Encore AI raises $30M to build AI agents that learn from customer calls"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
     "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
     "title": "TechCrunch Mobility: AV companies pick their lanes"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+    "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID"
   }
 ]
