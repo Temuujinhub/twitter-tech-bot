@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://github.com/drumih/turbo-fieldfare",
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac"
-  },
-  {
     "link": "https://www.superlogical.com/",
     "title": "Superlogical"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://sancho.bearblog.dev/google-weird/",
     "title": "When did Google get so weird?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+    "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity"
   }
 ]
