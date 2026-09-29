@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/973621/sony-playstation-ending-discs-pushing-forward",
-    "title": "Sony pushes forward with ditching discs, despite backlash"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/",
     "title": "Reddit is testing a new way to watch — and listen to — its viral posts"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
     "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+    "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope"
   }
 ]
