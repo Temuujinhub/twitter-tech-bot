@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://john.fun/elevators",
-    "title": "Elevators"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://github.com/ninjahawk/livenerf",
     "title": "Livenerf: Has Opus 5.5 been nerfed yet?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+    "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal"
   }
 ]
