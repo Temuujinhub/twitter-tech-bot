@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok"
-  },
-  {
     "link": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
     "title": "Rivian spinoff Also to start delivering e-bikes after months of delays"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
     "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal"
+  },
+  {
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots"
   }
 ]
