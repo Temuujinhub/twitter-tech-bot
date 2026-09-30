@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "title": "Siri AI could come with a paywall for power users"
-  },
-  {
     "link": "https://john.fun/elevators",
     "title": "Elevators"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
     "title": "Apple Pay finally launches in India after years on the sidelines"
+  },
+  {
+    "link": "https://github.com/ninjahawk/livenerf",
+    "title": "Livenerf: Has Opus 5.5 been nerfed yet?"
   }
 ]
