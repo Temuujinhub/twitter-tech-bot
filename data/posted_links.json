@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://diataxis.fr/",
-    "title": "Diátaxis"
-  },
-  {
     "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
     "title": "Seedance 2.5"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
     "title": "Huawei made a whole camera to attach to its latest phone"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+    "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’"
   }
 ]
