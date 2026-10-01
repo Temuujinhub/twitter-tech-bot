@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "title": "This $9 key physically locks your most addictive apps"
-  },
-  {
     "link": "https://diataxis.fr/",
     "title": "Diátaxis"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
     "title": "Gemini 4 Argon"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1003196/huawei-mate-90-pro-max-ruiying-z10-camera",
+    "title": "Huawei made a whole camera to attach to its latest phone"
   }
 ]
