@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-    "title": "Seedance 2.5"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
     "title": "Inside the London hacker house taking a stand against founder burnout"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
     "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports"
   }
 ]
