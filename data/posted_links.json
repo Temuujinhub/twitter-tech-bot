@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
-    "title": "Inside the London hacker house taking a stand against founder burnout"
-  },
-  {
     "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
     "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
     "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "title": "ChatGPT can now virtually try on clothes for you"
   }
 ]
