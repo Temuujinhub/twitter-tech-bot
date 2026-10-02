@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-    "title": "Samsung bans smart TV apps that share users’ internet connections with strangers"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
     "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
     "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
   }
 ]
