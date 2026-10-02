@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
-    "title": "These App Store hidden gems prove there’s still room for great software in the AI era"
-  },
-  {
     "link": "https://twitter.com/karpathy/status/2083749667410727319",
     "title": "Karpathy’s Pelican"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://earendil.com/posts/pi-1-0/",
     "title": "Pi 1.0"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+    "title": "AI music maker Suno now generates spoken words"
   }
 ]
