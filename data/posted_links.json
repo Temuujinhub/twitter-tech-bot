@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/974155/hp-hyperx-omen-15-gaming-laptop-rtx-5050-review",
-    "title": "HP’s HyperX Omen 15 isn’t quite the budget-friendly gaming laptop its predecessor was"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
     "title": "These App Store hidden gems prove there’s still room for great software in the AI era"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
     "title": "ChatGPT can now virtually try on clothes for you"
+  },
+  {
+    "link": "https://earendil.com/posts/pi-1-0/",
+    "title": "Pi 1.0"
   }
 ]
