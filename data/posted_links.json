@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://qwen.ai/blog?id=qwen3.8",
-    "title": "Qwen3.8-Max: A New Bar for Coding and Cowork"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
     "title": "Samsung bans smart TV apps that share users’ internet connections with strangers"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
     "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants"
+  },
+  {
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)"
   }
 ]
