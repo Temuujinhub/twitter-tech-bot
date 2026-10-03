@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/games/974773/xbox-helix-disc-digital-backwards-compatibility-leaked-memo-opt-in",
-    "title": "The next Xbox could play every Xbox game ever made"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
     "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
     "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’"
+  },
+  {
+    "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+    "title": "Capcom is preparing for a ‘future where we create games together with AI’"
   }
 ]
