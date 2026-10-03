@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-    "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/",
     "title": "Base Power raises another $1B to save the grid using backyard batteries"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
     "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents"
+  },
+  {
+    "link": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+    "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility"
   }
 ]
