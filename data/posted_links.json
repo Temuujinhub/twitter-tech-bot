@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
-    "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets"
-  },
-  {
     "link": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
     "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
     "title": "Kolibri: A Sovereign Open-Weight Model"
+  },
+  {
+    "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "title": "We're going to need default hard budget caps on pretty much everything"
   }
 ]
