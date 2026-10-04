@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-    "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/",
     "title": "Hackers steal over $130 million by exploiting bug in offline hardware wallets"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
     "title": "Capcom is preparing for a ‘future where we create games together with AI’"
+  },
+  {
+    "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+    "title": "Kolibri: A Sovereign Open-Weight Model"
   }
 ]
