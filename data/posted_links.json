@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.discoveryloop.com/",
-    "title": "Discovery Loop"
-  },
-  {
     "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
     "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
     "title": "Can Safeworld convince people that gen AI robots won’t hurt them?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+    "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era"
   }
 ]
