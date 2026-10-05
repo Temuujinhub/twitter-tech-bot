@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-    "title": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
     "title": "eBay continues to bet on live shopping after record quarter"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
     "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU"
   }
 ]
