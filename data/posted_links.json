@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400"
-  },
-  {
     "link": "https://www.theverge.com/tech/976537/meta-new-mexico-cild-safety-fine-public-nuisance",
     "title": "Meta ordered to pay an additional $567 million in public nuisance ruling"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
     "title": "Anthropic reported diary entry to police, woman faces felony charge"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1003856/pixel-11-pro-xl-amazon-prime-day-deal-sale",
+    "title": "The Pixel 11 Pro and Pro XL phones are $250 off"
   }
 ]
