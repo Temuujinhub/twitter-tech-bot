@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
-    "title": "DeepSeek V4 Flash 0731"
-  },
-  {
     "link": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
     "title": "What happens if an entire class of workers loses faith in their careers"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
     "title": "AI computing startup Lambda to raise $4B ahead of planned IPO"
+  },
+  {
+    "link": "https://mistral.ai/news/mistral-large-4/\\",
+    "title": "Mistral Large 4"
   }
 ]
