@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
-    "title": "Is this $450 laptop from an unknown brand too good to be true?"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
     "title": "Google’s top hacker hunter explains why hacking groups get codenames"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
     "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut"
   }
 ]
