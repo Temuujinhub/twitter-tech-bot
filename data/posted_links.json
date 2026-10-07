@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/",
-    "title": "Google’s top hacker hunter explains why hacking groups get codenames"
-  },
-  {
     "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
     "title": "Meta’s Muse launches on iPad just a month after its mobile debut"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11"
   }
 ]
