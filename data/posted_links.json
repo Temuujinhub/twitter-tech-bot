@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://specification.website/spec/foundations/for-sale-dns/",
-    "title": "_for-sale DNS records"
-  },
-  {
     "link": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
     "title": "Fastmail offers EU data region"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
     "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+    "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech"
   }
 ]
