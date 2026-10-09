@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/",
-    "title": "Sila lands $1.4B Pentagon loan as militaries demand more batteries"
-  },
-  {
     "link": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
     "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
     "title": "LumenUs helps automate tedious paperwork in times of grief"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
   }
 ]
