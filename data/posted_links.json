@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-    "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry"
-  },
-  {
     "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "title": "AI for science needs reasoning, not just data"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://cactuscompute.com/blog/whistle",
     "title": "Whistle: Speech to Text in 16.9 MB"
+  },
+  {
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+    "title": "OpenAI doubles down on decision to fire three AI safety researchers"
   }
 ]
