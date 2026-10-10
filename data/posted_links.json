@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.effort.news/uk-lobby",
-    "title": "The UK's war on anonymity has come to America"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/",
     "title": "Bumble ditches its rule that kept men from making the first move"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck",
     "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "Here are the top AI agents that can live in your text messages "
   }
 ]
