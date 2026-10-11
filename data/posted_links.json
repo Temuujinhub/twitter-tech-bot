@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-    "title": "Google’s Pixel 11 lineup offer fewer hardware changes, but much more Gemini"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
     "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
     "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?"
   }
 ]
