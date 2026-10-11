@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
-    "title": "Facebook officially rolls out its standalone Creator Studio app with AI tools for creators"
-  },
-  {
     "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
     "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
     "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next"
   }
 ]
