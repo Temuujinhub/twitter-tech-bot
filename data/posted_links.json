@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-    "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug"
-  },
-  {
     "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
     "title": "DeepSeek V4 Pro 0813"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
     "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next"
+  },
+  {
+    "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+    "title": "Passkeys are a trap"
   }
 ]
