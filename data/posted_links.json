@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-    "title": "Instagram introduces a redesigned wordmark"
-  },
-  {
     "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
     "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
     "title": "The Social Reckoning is flopping at the box office"
+  },
+  {
+    "link": "https://research.meta.ai/blog/muse-wonder",
+    "title": "Muse Wonder"
   }
 ]
