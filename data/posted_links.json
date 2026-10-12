@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "title": "DeepSeek V4 Pro 0813"
-  },
-  {
     "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
     "title": "How kids feel about AI, in their own words"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
     "title": "Passkeys are a trap"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background"
   }
 ]
