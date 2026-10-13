@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "title": "Gemini 3.7 Flash"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
     "title": "Apple trained its own AI model for China with help from Alibaba"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
     "title": "Hackers activate automatic defrosting in supermarket fridges across Europe"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+    "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
   }
 ]
