@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-    "title": "Apple trained its own AI model for China with help from Alibaba"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
     "title": "US courts will start publishing how often the government uses spyware"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
     "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites"
   }
 ]
