@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?"
-  },
-  {
     "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
     "title": "Qwen 3.8 27B"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
     "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
+    "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device"
   }
 ]
