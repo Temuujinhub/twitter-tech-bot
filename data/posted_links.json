@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
-    "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts"
-  },
-  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
     "title": "Gemini 3.7 Flash"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://research.meta.ai/blog/muse-wonder",
     "title": "Muse Wonder"
+  },
+  {
+    "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe"
   }
 ]
