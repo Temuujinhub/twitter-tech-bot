@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/entertainment/980666/star-wars-ahsoka-season-2-and-starfighter-get-teased-at-d23",
-    "title": "Star Wars: Ahsoka season 2 and Starfighter get teased at D23"
-  },
-  {
     "link": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
     "title": "AI has access to a vastly larger working memory than the human brain"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
     "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+    "title": "Hiyd is a health tracker that attaches to the watch you already wear"
   }
 ]
