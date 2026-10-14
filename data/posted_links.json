@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-    "title": "Firefox is now the last major browser that still supports uBlock Origin"
-  },
-  {
     "link": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
     "title": "Xteink’s tiny e-readers are getting access to free books through Libby"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
     "title": "The US military’s race to make fake blood"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+    "title": "NTangible bets it can predict how athletes will perform under pressure"
   }
 ]
