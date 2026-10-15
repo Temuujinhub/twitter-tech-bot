@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-    "title": "Rogue AI aren’t science fiction anymore"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
     "title": "ChatGPT’s Computer History tracks your clicks and keystrokes"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
     "title": "Amazon’s Bee launches two new personal AI devices, starting at $75"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+    "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US"
   }
 ]
