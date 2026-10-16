@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-    "title": "Claude: System Prompts"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
     "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+    "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals"
   }
 ]
