@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-    "title": "A Preview of DuckDB v2.0"
-  },
-  {
     "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
     "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
     "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept"
+  },
+  {
+    "link": "https://www.tesla.com/roadster",
+    "title": "Tesla Roadster"
   }
 ]
