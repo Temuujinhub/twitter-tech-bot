@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "title": "Anthropic’s annualized revenue surges to $65B"
-  },
-  {
     "link": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
     "title": "A Preview of DuckDB v2.0"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "title": "India becomes the latest country to report rogue AI agent activity"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept"
   }
 ]
