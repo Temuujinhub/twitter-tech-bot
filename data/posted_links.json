@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-    "title": "Apple&#8217;s camera-equipped AirPods appear in leaked video"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
     "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.tesla.com/roadster",
     "title": "Tesla Roadster"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+    "title": "Apple’s HomeView is just the latest threat to online recipe writers"
   }
 ]
