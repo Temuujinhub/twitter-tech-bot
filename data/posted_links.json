@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-    "title": "Child-monitoring apps might need a reboot"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
     "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "title": "Meta removes language that raised scraping and AI training concerns"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+    "title": "How overhead projectors took over your classroom"
   }
 ]
