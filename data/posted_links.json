@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://seths.blog/2026/08/the-amazon-tax/",
-    "title": "The Amazon tax"
-  },
-  {
     "link": "https://cursor.com/changelog/origin-code-hosting",
     "title": "Cursor launches Origin, GitHub alternative"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
     "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast"
+  },
+  {
+    "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "title": "DeepSeek-v4.1-Flash-1017"
   }
 ]
