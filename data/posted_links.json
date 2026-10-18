@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://cursor.com/changelog/origin-code-hosting",
-    "title": "Cursor launches Origin, GitHub alternative"
-  },
-  {
     "link": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
     "title": "Child-monitoring apps might need a reboot"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
     "title": "DeepSeek-v4.1-Flash-1017"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "title": "Meta removes language that raised scraping and AI training concerns"
   }
 ]
