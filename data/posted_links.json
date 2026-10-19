@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/",
-    "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
     "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
     "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
   }
 ]
