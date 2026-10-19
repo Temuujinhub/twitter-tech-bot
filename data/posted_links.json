@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/982609/lg-oled-panel-flipp-display-technology",
-    "title": "LG’s new OLED breakthrough can boost display lifespans"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
     "title": "AI data giant Alation confirms cyberattack"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
     "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs "
   }
 ]
