@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
-    "title": "Oura faces lawsuit accusing it of misleading consumers about sleep-tracking accuracy"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
     "title": "Michael Polansky is training an AI model on skin that’s still alive"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
     "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers"
   }
 ]
