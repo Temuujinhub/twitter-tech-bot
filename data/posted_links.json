@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada"
-  },
-  {
     "link": "https://chrisburnell.com/html-can-do-that/",
     "title": "HTML Can Do That"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
     "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+    "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets"
   }
 ]
