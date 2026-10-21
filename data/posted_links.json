@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
-    "title": "Michael Polansky is training an AI model on skin that’s still alive"
-  },
-  {
     "link": "https://kagi.com/changelog#11296",
     "title": "Kagi added a setting for removing paywalled links from search results"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
     "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers"
+  },
+  {
+    "link": "https://emudhra.we-have-a-problem.com/",
+    "title": "eMudhra intermediate CA compromise"
   }
 ]
