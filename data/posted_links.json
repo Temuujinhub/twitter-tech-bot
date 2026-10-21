@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/983554/hp-omnibook-3-16-snapdragon-laptop-review",
-    "title": "An okay laptop with 16GB of RAM is better than a nice laptop with 8GB, and this $520 HP OmniBook proves it"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
     "title": "US battery startups have found a lifeline in defense"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
     "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+    "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C"
   }
 ]
