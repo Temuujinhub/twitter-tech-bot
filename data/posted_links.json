@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://quantumi.sh/public/labs.html",
-    "title": "ElevenLabs, TwelveLabs, ThirteenLabs"
-  },
-  {
     "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
     "title": "Grand Theft Auto VI exists in its own universe"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
     "title": "AI’s hidden storage bill: What inference leaves behind"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+    "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack"
   }
 ]
