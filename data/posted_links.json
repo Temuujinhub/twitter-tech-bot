@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/column/983410/grand-theft-auto-vi-exists-in-its-own-universe",
-    "title": "Grand Theft Auto VI exists in its own universe"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
     "title": "Is it legal to train AI models on copyrighted books? It’s complicated"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
     "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+    "title": "Elon Musk made a $1 billion investment in Skydance, report says"
   }
 ]
