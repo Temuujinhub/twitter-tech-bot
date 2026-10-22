@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-    "title": "Is it legal to train AI models on copyrighted books? It’s complicated"
-  },
-  {
     "link": "https://earendil.com/posts/what-is-a-harness/",
     "title": "What Is a Harness?"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
     "title": "Elon Musk made a $1 billion investment in Skydance, report says"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "title": "Canva releases its first image generation model"
   }
 ]
