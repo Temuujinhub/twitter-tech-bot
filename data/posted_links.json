@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/983688/world-humanoid-robot-games-sprint-record-2026",
-    "title": "Humanoid robots smash Usain Bolt&#8217;s 100-meter record"
-  },
-  {
     "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
     "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
     "title": "In the biotech world, you can’t see everything"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe",
+    "title": "Our best tips for using the iPhone Duo"
   }
 ]
