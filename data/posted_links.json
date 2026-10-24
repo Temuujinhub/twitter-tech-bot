@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
-    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones"
-  },
-  {
     "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
     "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://edjefferson.com/localwiki/",
     "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+    "title": "Startups don’t need to go viral to win customers"
   }
 ]
