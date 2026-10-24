@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-    "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/",
     "title": "Andy Dunn’s startup Pie becomes less of an events app and more of a social network"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
     "title": "Startups don’t need to go viral to win customers"
+  },
+  {
+    "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+    "title": "Lee Chang Dong ponders the ethics of the camera"
   }
 ]
