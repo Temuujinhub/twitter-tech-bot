@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
     "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
     "title": "Instacart reportedly discussed selling itself with DoorDash and Uber"
+  },
+  {
+    "link": "https://aardappel.github.io/goose/",
+    "title": "The Goose Programming Language"
   }
 ]
