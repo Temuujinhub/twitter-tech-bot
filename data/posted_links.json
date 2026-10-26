@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-    "title": "Is Slate Auto’s new electric truck the EV Americans need?"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
     "title": "Google’s AI Mode can now track flight prices, help book hotels, and more"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
     "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+  },
+  {
+    "link": "https://imaginationlibrary.com/",
+    "title": "Dolly Parton's Imagination Library"
   }
 ]
