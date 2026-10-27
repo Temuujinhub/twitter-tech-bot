@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/",
-    "title": "Is the best way to watch a movie on a pair of sunglasses?"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/",
     "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
     "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
   }
 ]
