@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/",
     "title": "How Sweden built one of Europe’s hottest startup ecosystems "
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
     "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it"
+  },
+  {
+    "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "title": "Three new discoveries in mathematics, computer science, and physics"
   }
 ]
