@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-    "title": "Htmx 4.0"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
     "title": "The Theragun Sense makes everyday recovery surprisingly easy"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
     "title": "Jio shares surge 21% in market debut after blockbuster India IPO"
+  },
+  {
+    "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+    "title": "Ghostty 1.4"
   }
 ]
