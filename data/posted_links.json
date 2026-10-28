@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-    "title": "The Theragun Sense makes everyday recovery surprisingly easy"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
     "title": "Hollywood celebs are getting into microdrama apps"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
     "title": "Ghostty 1.4"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model"
   }
 ]
