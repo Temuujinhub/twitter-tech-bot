@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
     "title": "TechCrunch Mobility: The hidden human cost of robotaxis"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
     "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "title": "Granola crunches up a dictation feature to compete with Wispr"
   }
 ]
