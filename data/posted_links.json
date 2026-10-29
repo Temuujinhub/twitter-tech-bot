@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft"
-  },
-  {
     "link": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
     "title": "Chess.com launched a poker site and is planning even more classic games"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://nullpt.rs/fingerprinting-bioweapons",
     "title": "Why is this fingerprinting script creating bioweapons?"
+  },
+  {
+    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "title": "AI has come for Arizona’s water"
   }
 ]
