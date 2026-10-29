@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://zackbartel.com/blog/2026/08/tether/",
-    "title": "Tether: iMessage, SMS, etc. on Linux"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
     "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents"
+  },
+  {
+    "link": "https://nullpt.rs/fingerprinting-bioweapons",
+    "title": "Why is this fingerprinting script creating bioweapons?"
   }
 ]
