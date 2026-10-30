@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
-    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
     "title": "Magna increases bet on battery swapping in India with $35M for Yuma"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
     "title": "Satlyt takes another step toward turning satellites into space data centers "
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text"
   }
 ]
