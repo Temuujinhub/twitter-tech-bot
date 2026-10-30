@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-    "title": "Creepy Crawlies"
-  },
-  {
     "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
     "title": "The R2 SUV is already Rivian’s best-selling vehicle"
+  },
+  {
+    "link": "https://mistral.ai/news/mistral-large-4-oss/",
+    "title": "We're releasing the weights of Mistral Large 4"
   }
 ]
