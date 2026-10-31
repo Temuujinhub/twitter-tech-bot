@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design"
-  },
-  {
     "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
     "title": "Claude Fable 5.1 and Claude Mythos 5.1"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
     "title": "OpenAI reportedly lowers funding target for new round"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+    "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’"
   }
 ]
