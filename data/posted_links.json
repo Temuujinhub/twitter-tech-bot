@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-    "title": "Claude Fable 5.1 and Claude Mythos 5.1"
-  },
-  {
     "link": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
     "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
     "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’"
+  },
+  {
+    "link": "https://karpathy.bearblog.dev/hacker-tube/",
+    "title": "HackerTube: YouTube built from videos recommended by HN"
   }
 ]
