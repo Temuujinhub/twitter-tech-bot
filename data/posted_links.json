@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/news/988056/microsoft-windows-11-memory-integrity-rollout-october-2026",
-    "title": "Microsoft is enabling a Windows 11 security feature that can hurt gaming performance"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
     "title": "Adobe is making its tools available in Slack"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://karpathy.bearblog.dev/hacker-tube/",
     "title": "HackerTube: YouTube built from videos recommended by HN"
+  },
+  {
+    "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+    "title": "Data centers are now a midterm issue, even in Brooklyn"
   }
 ]
