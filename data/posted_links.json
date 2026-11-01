@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’"
-  },
-  {
     "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
     "title": "Gemini 3.8 Flash and 3.8 Flash Cyber"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
     "title": "TechCrunch Mobility: A new, bigger AV boom is here"
+  },
+  {
+    "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+    "title": "Apple’s HomeView could add security camera features"
   }
 ]
