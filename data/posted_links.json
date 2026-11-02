@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "title": "Meta is paying to peek at how you use their latest AI model"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
     "title": "The sameness problem behind those unappetizing AI-generated menus"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
     "title": "Germany says lawmakers’ iPhones may have been hacked with spyware"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI"
   }
 ]
