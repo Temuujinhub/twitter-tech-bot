@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
     "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
     "title": "Google will let schools disable its AI tools, but not without sacrificing Search"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+    "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist"
   }
 ]
