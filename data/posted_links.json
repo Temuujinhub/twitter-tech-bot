@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-    "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
     "title": "Feds launch investigation into Tesla’s Cybercab deployment"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
     "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing"
+  },
+  {
+    "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
+    "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs"
   }
 ]
