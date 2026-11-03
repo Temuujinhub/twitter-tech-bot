@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
-    "title": "Feds launch investigation into Tesla’s Cybercab deployment"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/gadgets/1024504/redmagic-12-pro-liquid-cooling-rgb-lighting-185hz-camera",
     "title": "Redmagic upgrades its liquid-cooled gaming phone with extra RGBs"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+    "title": "Google will let schools disable its AI tools, but not without sacrificing Search"
   }
 ]
