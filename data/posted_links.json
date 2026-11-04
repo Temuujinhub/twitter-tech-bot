@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "title": "OpenAI admits to German wiki ‘incident’"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
     "title": "Oura is going public, but these smart ring companies are coming for its crown"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
     "title": "Canva lays off over 1,200 people amid slowing growth"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+    "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI"
   }
 ]
