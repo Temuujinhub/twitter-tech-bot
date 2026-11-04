@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://collusion.wiki/",
-    "title": "Discovery of a new OpenAI agent message board"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
     "title": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+    "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market"
   }
 ]
