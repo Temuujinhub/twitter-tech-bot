@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft"
-  },
-  {
     "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
     "title": "Explore the globe in field recordings"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
     "title": "Hackers stole DreamHost customer files and inboxes during months-long attack"
+  },
+  {
+    "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+    "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time"
   }
 ]
