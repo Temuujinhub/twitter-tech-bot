@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-    "title": "Explore the globe in field recordings"
-  },
-  {
     "link": "https://cloudinabottle.org/blog/launch-post",
     "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
     "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?"
   }
 ]
