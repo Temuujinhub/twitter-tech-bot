@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-    "title": "The Fairphone 6 Plus is the midrange phone we desperately needed"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
     "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
     "title": "Axiom Math wants to keep AI slop out of mathematics"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+    "title": "Meta says US users can now video chat with their Muse AI avatar"
   }
 ]
