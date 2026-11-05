@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://cloudinabottle.org/blog/launch-post",
-    "title": "Cloud in a Bottle: making self-hosting accessible to everyone"
-  },
-  {
     "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
     "title": "The Fairphone 6 Plus is the midrange phone we desperately needed"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
     "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+    "title": "Axiom Math wants to keep AI slop out of mathematics"
   }
 ]
