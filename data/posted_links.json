@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
-    "title": "A secret new Elizabeth Holmes documentary stuns Telluride"
-  },
-  {
     "link": "https://deepmind.google/science/weathernext/",
     "title": "WeatherNext 3"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
     "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent"
   }
 ]
