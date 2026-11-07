@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-    "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
     "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
     "title": "Tesla to wind down Cybertruck production"
+  },
+  {
+    "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "title": "AI broke the cybersecurity world. What’s next?"
   }
 ]
