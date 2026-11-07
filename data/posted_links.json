@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
-    "title": "Xiaomi’s wide foldable promises more power than Samsung’s"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
     "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
     "title": "Sequoia shutting down its Scouts program marks the end of an era"
+  },
+  {
+    "link": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+    "title": "Tesla to wind down Cybertruck production"
   }
 ]
