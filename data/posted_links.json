@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://deepmind.google/science/weathernext/",
-    "title": "WeatherNext 3"
-  },
-  {
     "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
     "title": "Xiaomi’s wide foldable promises more power than Samsung’s"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
     "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+    "title": "Sequoia shutting down its Scouts program marks the end of an era"
   }
 ]
