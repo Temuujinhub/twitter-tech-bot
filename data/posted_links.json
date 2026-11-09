@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
-    "title": "Amazon makes it easier to buy what you see on Prime Video"
-  },
-  {
     "link": "https://shopify.engineering/back-to-native",
     "title": "Shopify is moving from React Native back to Swift and Kotlin"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
     "title": "The race is on to sue Nvidia"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago"
   }
 ]
