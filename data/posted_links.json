@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
-    "title": "Instagram’s latest feature lets you add tagged posts to your profile grid"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
     "title": "Amazon makes it easier to buy what you see on Prime Video"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
     "title": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+    "title": "The race is on to sue Nvidia"
   }
 ]
