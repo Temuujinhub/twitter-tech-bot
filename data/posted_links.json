@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-    "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster"
-  },
-  {
     "link": "https://mathandai.org/",
     "title": "A misalignment of AI in mathematics"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
     "title": "All 7 Anthropic founders will each cash out about $250M in IPO"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+    "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder"
   }
 ]
