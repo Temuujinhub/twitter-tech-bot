@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-    "title": "Arizona’s lifeline for chip manufacturing is drying up"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
     "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
     "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns "
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+    "title": "Apple TV makes sign language interpretation a built-in accessibility feature"
   }
 ]
