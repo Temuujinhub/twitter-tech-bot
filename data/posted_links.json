@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://mathandai.org/",
-    "title": "A misalignment of AI in mathematics"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
     "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
   }
 ]
