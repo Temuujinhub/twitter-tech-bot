@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'"
-  },
-  {
     "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
     "title": "Nvidia is the central bank of AI"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
     "title": "Why the data center you dread might never even be built"
+  },
+  {
+    "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+    "title": "Tim Peters has died"
   }
 ]
