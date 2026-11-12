@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "title": "Nvidia is the central bank of AI"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
     "title": "Fusion power startups find new partners in the defense world"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
     "title": "Tim Peters has died"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition"
   }
 ]
