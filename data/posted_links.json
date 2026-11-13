@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-    "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
     "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
     "title": "Jensen Huang resigns"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+    "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil"
   }
 ]
