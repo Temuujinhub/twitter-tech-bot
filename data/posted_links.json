@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-    "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
     "title": "Amazon Prime Video takes on TikTok with short-form news clips"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+    "title": "AI agent startup LangChain hits $3B valuation"
   }
 ]
