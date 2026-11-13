@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-    "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
     "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
     "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil"
+  },
+  {
+    "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+    "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you"
   }
 ]
