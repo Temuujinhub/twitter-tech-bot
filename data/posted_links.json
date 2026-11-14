@@ -1,9 +1,5 @@
 [
   {
-    "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-    "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch"
-  },
-  {
     "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
     "title": "4 days left to exhibit at TechCrunch Disrupt 2026"
   },
@@ -1198,5 +1194,9 @@
   {
     "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
     "title": "FAA issues national ground stop – lifted 4.5 hours later"
+  },
+  {
+    "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours"
   }
 ]
